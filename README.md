@@ -25,33 +25,23 @@ Follow these steps to run the project:
 
 Clone the repository:
 ```bash
-Copy
-Edit
 git clone https://github.com/Shashankbhandari11/accident-survival-prediction.git
-cd accident-survival-prediction ```
-Install dependencies (if not already installed).
-Run the Jupyter Notebook to train and evaluate the model:
-bash
-Copy
-Edit
-jupyter notebook logistic_regression.ipynb
-📈 Model Performance
+cd accident-survival-prediction
+```
+
+## 📈 Model Performance
 The performance of the Logistic Regression model is evaluated using:
 
-Accuracy Score
-ROC-AUC Score
-Confusion Matrix & Classification Report
-Data Visualization: Feature correlation heatmaps, performance curves
-📊 Visualizations
-Example Correlation Heatmap:
+- Accuracy Score
+- ROC-AUC Score
+- Confusion Matrix & Classification Report
+- Data Visualization: Feature correlation heatmaps, performance curves
 
-Example ROC Curve:
-
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! If you want to improve the project:
 
-Fork this repository
-Create a new branch
-Submit a pull request
-📜 License
+- Fork this repository
+- Create a new branch
+- Submit a pull request
+## 📜 License
 This project is open-source and available under the MIT License.
