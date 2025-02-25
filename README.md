@@ -24,11 +24,11 @@ pip install pandas numpy seaborn matplotlib scikit-learn
 Follow these steps to run the project:
 
 Clone the repository:
-bash
+```bash
 Copy
 Edit
-git clone https://github.com/yourusername/accident-survival-prediction.git
-cd accident-survival-prediction
+git clone https://github.com/Shashankbhandari11/accident-survival-prediction.git
+cd accident-survival-prediction ```
 Install dependencies (if not already installed).
 Run the Jupyter Notebook to train and evaluate the model:
 bash
