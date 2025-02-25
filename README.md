@@ -25,8 +25,12 @@ Follow these steps to run the project:
 
 Clone the repository:
 ```bash
+# Clone the repository
 git clone https://github.com/Shashankbhandari11/accident-survival-prediction.git
+
+# Navigate into the project directory
 cd accident-survival-prediction
+
 ```
 
 ## 📈 Model Performance
