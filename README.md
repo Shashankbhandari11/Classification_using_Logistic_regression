@@ -18,9 +18,9 @@ This project predicts the survival rate in road accidents using **Logistic Regre
 This project is built using **Python** and requires the following libraries:  
 ```bash
 pip install pandas numpy seaborn matplotlib scikit-learn
+'''
 
-
-🚀 Installation & Usage
+## 🚀 Installation & Usage
 Follow these steps to run the project:
 
 Clone the repository:
