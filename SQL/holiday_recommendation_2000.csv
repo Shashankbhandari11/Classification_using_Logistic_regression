@@ -1,0 +1,2001 @@
+Budget_Level,User_Age_Group,Destination,State,Category,Rating,Preferred_Activity,Season_Preference,Preferred_Travel_Type
+Medium,50+,Shimla,Himachal Pradesh,Hill Station,4.8,Trekking,Autumn,Solo
+Medium,26-35,Kerala,Kerala,Adventure,3.2,Wildlife,Autumn,Group
+High,36-50,Leh,Ladakh,Urban,2.8,Trekking,Autumn,Family
+Medium,18-25,Mumbai,Maharashtra,Heritage,2.5,Pilgrimage,Summer,Solo
+Low,18-25,Varanasi,Uttar Pradesh,Spiritual,3.2,Pilgrimage,Summer,Solo
+High,50+,Rishikesh,Uttarakhand,Spiritual,4.8,Water Sports,Spring,Couple
+Low,36-50,Udaipur,Rajasthan,Heritage,2.0,Trekking,Spring,Group
+High,36-50,Manali,Himachal Pradesh,Hill Station,3.0,Sightseeing,Autumn,Friends
+High,50+,Mysore,Karnataka,Urban,4.7,Trekking,Winter,Friends
+Medium,26-35,Chennai,Tamil Nadu,Heritage,2.7,Wildlife,Summer,Group
+Medium,26-35,Udaipur,Rajasthan,Hill Station,4.2,Wildlife,Summer,Friends
+High,36-50,Mussoorie,Uttarakhand,Urban,2.9,Pilgrimage,Summer,Friends
+High,36-50,Rishikesh,Uttarakhand,Hill Station,4.3,Water Sports,Winter,Friends
+High,18-25,Jaipur,Rajasthan,Urban,4.9,Wildlife,Spring,Couple
+Low,36-50,Leh,Ladakh,Beach,2.9,Trekking,Spring,Family
+Medium,26-35,Mysore,Karnataka,Urban,4.5,Sightseeing,Winter,Group
+Low,26-35,Rishikesh,Uttarakhand,Adventure,5.0,Trekking,Winter,Solo
+Medium,50+,Chennai,Tamil Nadu,Heritage,4.9,Sightseeing,Summer,Friends
+Medium,36-50,Darjeeling,West Bengal,Spiritual,3.0,Sightseeing,Monsoon,Couple
+Medium,50+,Goa,Goa,Beach,3.2,Wildlife,Winter,Couple
+Low,50+,Agra,Uttar Pradesh,Spiritual,2.6,Water Sports,Summer,Group
+Low,50+,Bangalore,Karnataka,Beach,2.6,Water Sports,Autumn,Family
+Low,18-25,Sikkim,Sikkim,Beach,3.2,Pilgrimage,Summer,Friends
+Low,18-25,Jaipur,Rajasthan,Hill Station,2.2,Pilgrimage,Summer,Couple
+High,18-25,Chennai,Tamil Nadu,Hill Station,4.0,Relaxation,Winter,Family
+Medium,18-25,Agra,Uttar Pradesh,Spiritual,3.4,Pilgrimage,Summer,Family
+Low,50+,Varanasi,Uttar Pradesh,Urban,4.6,Pilgrimage,Summer,Couple
+High,26-35,Bangalore,Karnataka,Beach,4.3,Sightseeing,Spring,Friends
+Medium,36-50,Sikkim,Sikkim,Heritage,2.6,Wildlife,Summer,Solo
+Medium,36-50,Kolkata,West Bengal,Beach,3.3,Relaxation,Spring,Solo
+Medium,26-35,Jaipur,Rajasthan,Heritage,4.1,Pilgrimage,Summer,Friends
+Medium,,Manali,Himachal Pradesh,Heritage,2.2,Pilgrimage,Autumn,Group
+High,36-50,Leh,Ladakh,Beach,1.6,Wildlife,Summer,Group
+Low,50+,Leh,Ladakh,Beach,4.5,Sightseeing,Summer,Friends
+Medium,18-25,Delhi,Delhi,Beach,2.0,Sightseeing,Monsoon,Couple
+Medium,18-25,Darjeeling,West Bengal,Heritage,4.6,Relaxation,Winter,Group
+Low,26-35,Hyderabad,Telangana,Beach,4.7,Pilgrimage,Spring,Group
+Medium,18-25,Shimla,Himachal Pradesh,Urban,3.1,Trekking,Winter,Solo
+Low,18-25,Ooty,Tamil Nadu,Beach,4.3,Sightseeing,Monsoon,Solo
+High,26-35,Mussoorie,Uttarakhand,Hill Station,2.8,Trekking,Winter,Family
+Low,18-25,Udaipur,Rajasthan,Beach,4.5,Wildlife,Monsoon,Couple
+Medium,18-25,Andaman,Andaman & Nicobar,Adventure,4.4,Relaxation,Monsoon,Group
+Medium,36-50,Kolkata,West Bengal,Urban,1.8,Water Sports,Autumn,Group
+Low,50+,Manali,Himachal Pradesh,Adventure,3.5,Sightseeing,Summer,Family
+Low,50+,Hyderabad,Telangana,Beach,3.7,Relaxation,Monsoon,Solo
+Medium,26-35,Manali,Himachal Pradesh,Beach,1.5,Sightseeing,Spring,Group
+High,36-50,Chennai,Tamil Nadu,Spiritual,4.9,Wildlife,Monsoon,Couple
+Medium,26-35,Bangalore,Karnataka,Heritage,2.9,Pilgrimage,Autumn,Couple
+High,36-50,Goa,Goa,Spiritual,3.3,Sightseeing,Monsoon,Solo
+Low,50+,Mysore,Karnataka,Beach,2.2,Trekking,Spring,Solo
+Medium,26-35,Udaipur,Rajasthan,Hill Station,3.6,Water Sports,Autumn,Family
+Medium,18-25,Ooty,Tamil Nadu,Heritage,4.3,Water Sports,Winter,Friends
+Low,50+,Udaipur,Rajasthan,Hill Station,3.6,Pilgrimage,Winter,Friends
+,18-25,Varanasi,Uttar Pradesh,Adventure,4.3,Wildlife,Autumn,Couple
+High,18-25,Kolkata,West Bengal,Beach,4.1,Sightseeing,Summer,Friends
+High,18-25,Goa,Goa,Beach,2.3,Pilgrimage,Monsoon,Friends
+Medium,50+,Darjeeling,West Bengal,Spiritual,3.0,Water Sports,Summer,Solo
+Medium,36-50,Darjeeling,West Bengal,Urban,2.0,Sightseeing,Winter,Group
+Medium,50+,Delhi,Delhi,Spiritual,1.6,Trekking,Summer,Friends
+Low,36-50,Mysore,Karnataka,Urban,1.7,Water Sports,Winter,Group
+High,36-50,Mussoorie,Uttarakhand,Beach,4.8,Water Sports,Autumn,Group
+High,50+,Udaipur,Rajasthan,Hill Station,4.9,Wildlife,Summer,Friends
+Low,36-50,Mussoorie,Uttarakhand,Heritage,1.8,Sightseeing,Monsoon,Group
+High,26-35,Rishikesh,Uttarakhand,Urban,2.7,Relaxation,Spring,Group
+Low,18-25,Shimla,Himachal Pradesh,Adventure,1.9,Trekking,Winter,Group
+Low,26-35,Mysore,Karnataka,Beach,4.4,Pilgrimage,Summer,Solo
+Medium,50+,Sikkim,Sikkim,Urban,3.2,Sightseeing,Monsoon,Family
+High,18-25,Kerala,Kerala,Hill Station,3.7,Trekking,Summer,Solo
+High,26-35,Darjeeling,West Bengal,Beach,3.4,Trekking,Autumn,Couple
+Medium,26-35,Goa,Goa,Hill Station,4.0,Wildlife,Summer,Couple
+High,18-25,Chennai,Tamil Nadu,Adventure,2.6,Wildlife,Winter,Couple
+Medium,50+,Delhi,Delhi,Beach,2.0,Trekking,Winter,Solo
+Medium,50+,Delhi,Delhi,Hill Station,1.6,Pilgrimage,Winter,Couple
+Medium,26-35,Varanasi,Uttar Pradesh,Spiritual,3.1,Trekking,Winter,Group
+Medium,50+,Manali,Himachal Pradesh,Urban,4.7,Pilgrimage,Spring,Group
+Low,18-25,Manali,Himachal Pradesh,Adventure,2.6,Trekking,Autumn,Group
+Medium,18-25,Bangalore,Karnataka,Hill Station,2.2,Trekking,Spring,Couple
+High,18-25,Udaipur,Rajasthan,Hill Station,4.7,Wildlife,Summer,Group
+Medium,36-50,Agra,Uttar Pradesh,Spiritual,1.9,Wildlife,Summer,Family
+High,50+,Jaipur,Rajasthan,Spiritual,1.7,Water Sports,Monsoon,Group
+Medium,36-50,Agra,Uttar Pradesh,Urban,4.6,Wildlife,Winter,Family
+High,36-50,Rishikesh,Uttarakhand,Hill Station,4.0,Trekking,Autumn,Couple
+High,50+,Kolkata,West Bengal,Urban,3.0,Relaxation,Spring,Couple
+Low,26-35,Delhi,Delhi,Beach,4.1,Trekking,Winter,Family
+Medium,36-50,Jaipur,Rajasthan,Heritage,4.1,Trekking,Winter,Family
+High,18-25,Manali,Himachal Pradesh,Urban,1.6,Sightseeing,Winter,Friends
+Low,26-35,Darjeeling,West Bengal,Heritage,3.9,Trekking,Autumn,Family
+Medium,50+,Mysore,Karnataka,Beach,3.7,Relaxation,Autumn,Group
+Medium,18-25,Leh,Ladakh,Heritage,4.9,Wildlife,Monsoon,Solo
+Medium,18-25,Shimla,Himachal Pradesh,Urban,4.9,Water Sports,Autumn,Group
+Medium,36-50,Hyderabad,Telangana,Heritage,2.8,Pilgrimage,Winter,Friends
+Medium,50+,Bangalore,Karnataka,Hill Station,3.6,Pilgrimage,Autumn,Friends
+Low,50+,Shimla,Himachal Pradesh,Adventure,2.0,Relaxation,Autumn,Family
+Medium,50+,Udaipur,Rajasthan,Adventure,1.7,Wildlife,Spring,Couple
+High,36-50,Hyderabad,Telangana,Spiritual,3.0,Relaxation,Winter,Family
+Medium,18-25,Delhi,Delhi,Spiritual,3.9,Wildlife,Summer,Group
+High,36-50,Mumbai,Maharashtra,Adventure,3.5,Water Sports,Spring,Group
+Medium,26-35,Hyderabad,Telangana,Spiritual,3.0,Water Sports,Summer,Family
+Medium,26-35,Shimla,Himachal Pradesh,Adventure,4.4,Water Sports,Monsoon,Couple
+Low,50+,Mumbai,Maharashtra,Adventure,4.3,Water Sports,Spring,Couple
+High,18-25,Mysore,Karnataka,Urban,4.1,Relaxation,Autumn,Friends
+Medium,18-25,Chennai,Tamil Nadu,Urban,1.8,Water Sports,Autumn,Group
+High,18-25,Varanasi,Uttar Pradesh,Beach,4.3,Trekking,Spring,Couple
+Medium,26-35,Hyderabad,Telangana,Adventure,4.7,Pilgrimage,Autumn,Group
+Medium,50+,Kolkata,West Bengal,Heritage,1.7,Sightseeing,Monsoon,Solo
+Low,50+,Mussoorie,Uttarakhand,Urban,2.9,Pilgrimage,Spring,Friends
+Low,36-50,Shimla,Himachal Pradesh,Urban,5.0,Pilgrimage,Winter,Solo
+Low,50+,Udaipur,Rajasthan,Urban,3.6,Wildlife,Summer,Couple
+High,26-35,Chennai,Tamil Nadu,Beach,3.3,Relaxation,Monsoon,Friends
+Low,26-35,Jaipur,Rajasthan,Adventure,2.1,Trekking,Monsoon,Solo
+Low,18-25,Mysore,Karnataka,Adventure,3.5,Trekking,Monsoon,Friends
+Medium,36-50,Shimla,Himachal Pradesh,Adventure,3.0,Water Sports,Monsoon,Friends
+Medium,26-35,Ooty,Tamil Nadu,Heritage,1.9,Water Sports,Autumn,Friends
+Low,26-35,Udaipur,Rajasthan,Heritage,3.1,Wildlife,Monsoon,Family
+Medium,26-35,Manali,Himachal Pradesh,Heritage,2.1,Pilgrimage,Spring,Friends
+Medium,18-25,Rishikesh,Uttarakhand,Hill Station,4.1,Wildlife,Monsoon,Group
+Medium,18-25,Hyderabad,Telangana,Spiritual,4.9,Water Sports,Winter,Family
+Low,18-25,Agra,Uttar Pradesh,Beach,3.1,Relaxation,Spring,Family
+Medium,26-35,Ooty,Tamil Nadu,Hill Station,3.7,Sightseeing,Summer,Group
+Medium,36-50,Sikkim,Sikkim,Urban,3.0,Pilgrimage,Monsoon,Family
+High,26-35,Bangalore,Karnataka,Hill Station,2.0,Wildlife,Summer,Couple
+Medium,18-25,Kolkata,West Bengal,Hill Station,4.9,Relaxation,Autumn,Family
+High,36-50,Kolkata,West Bengal,Hill Station,2.0,Pilgrimage,Spring,Family
+Low,50+,Agra,Uttar Pradesh,Adventure,1.9,Wildlife,Summer,Family
+Medium,36-50,Darjeeling,West Bengal,Adventure,3.1,Trekking,Monsoon,Family
+Low,18-25,Sikkim,Sikkim,Adventure,3.8,Pilgrimage,Autumn,Solo
+High,26-35,Shimla,Himachal Pradesh,Urban,2.7,Sightseeing,Monsoon,Solo
+High,50+,Hyderabad,Telangana,Hill Station,2.2,Wildlife,Winter,Group
+Medium,36-50,Kerala,Kerala,Beach,4.4,Pilgrimage,Winter,Group
+High,50+,Rishikesh,Uttarakhand,Heritage,2.8,Wildlife,Monsoon,Group
+High,50+,Mussoorie,Uttarakhand,Hill Station,2.2,Pilgrimage,Monsoon,Solo
+Low,36-50,Mumbai,Maharashtra,Heritage,2.8,Relaxation,Autumn,Group
+High,36-50,Agra,Uttar Pradesh,Adventure,2.3,Trekking,Winter,Couple
+Low,50+,Chennai,Tamil Nadu,Hill Station,3.3,Pilgrimage,Autumn,Couple
+High,36-50,Sikkim,Sikkim,Heritage,3.8,Relaxation,Winter,Family
+Medium,36-50,Shimla,Himachal Pradesh,Heritage,4.3,Wildlife,Autumn,Solo
+Low,26-35,Mumbai,Maharashtra,Adventure,2.3,Pilgrimage,Winter,Solo
+High,50+,Goa,Goa,Urban,2.1,Water Sports,Summer,Couple
+Low,26-35,Ooty,Tamil Nadu,Urban,1.6,Trekking,Summer,Couple
+High,18-25,Ooty,Tamil Nadu,Heritage,2.3,Water Sports,Monsoon,Solo
+Medium,36-50,Agra,Uttar Pradesh,Spiritual,1.6,Water Sports,Monsoon,Group
+High,18-25,Leh,Ladakh,Spiritual,2.7,Water Sports,Winter,Family
+Low,36-50,Delhi,Delhi,Beach,2.0,Wildlife,Winter,Group
+High,36-50,Agra,Uttar Pradesh,Urban,3.5,Relaxation,Monsoon,Group
+High,18-25,Andaman,Andaman & Nicobar,Urban,2.8,Wildlife,Autumn,Solo
+Medium,26-35,Shimla,Himachal Pradesh,Beach,1.8,Water Sports,Autumn,Couple
+Medium,26-35,Mysore,Karnataka,Adventure,2.9,Sightseeing,Summer,Family
+Medium,18-25,Darjeeling,West Bengal,Hill Station,2.2,Water Sports,Winter,Group
+High,36-50,Agra,Uttar Pradesh,Heritage,3.9,Pilgrimage,Autumn,Friends
+Low,36-50,Ooty,Tamil Nadu,Heritage,2.8,Wildlife,Spring,Couple
+High,50+,Hyderabad,Telangana,Hill Station,2.0,Trekking,Spring,Friends
+Low,36-50,Delhi,Delhi,Heritage,2.7,Sightseeing,Autumn,Group
+Low,18-25,Bangalore,Karnataka,Spiritual,2.3,Sightseeing,Spring,Group
+Medium,36-50,Ooty,Tamil Nadu,Hill Station,4.3,Water Sports,Summer,Friends
+High,50+,Leh,Ladakh,Spiritual,4.9,Trekking,Monsoon,Group
+High,50+,Goa,Goa,Heritage,1.6,Relaxation,Monsoon,Friends
+High,50+,Hyderabad,Telangana,Adventure,3.9,Sightseeing,Monsoon,Couple
+Low,26-35,Kolkata,West Bengal,Beach,2.4,Sightseeing,Summer,Group
+Medium,50+,Udaipur,Rajasthan,Hill Station,1.7,Relaxation,Winter,Friends
+Medium,26-35,Kolkata,West Bengal,Spiritual,1.6,Trekking,Monsoon,Solo
+Medium,50+,Andaman,Andaman & Nicobar,Beach,4.6,Relaxation,Monsoon,Friends
+Low,50+,Leh,Ladakh,Spiritual,2.7,Relaxation,Spring,Family
+Medium,36-50,Udaipur,Rajasthan,Adventure,5.0,Relaxation,Winter,Solo
+High,50+,Darjeeling,West Bengal,Beach,3.0,Relaxation,Monsoon,Family
+Low,50+,Ooty,Tamil Nadu,Spiritual,2.2,Pilgrimage,Autumn,Solo
+High,26-35,Ooty,Tamil Nadu,Heritage,4.2,Water Sports,Autumn,Group
+Medium,36-50,Ooty,Tamil Nadu,Spiritual,4.7,Trekking,Summer,Family
+High,50+,Andaman,Andaman & Nicobar,Urban,4.4,Wildlife,Autumn,Friends
+Low,18-25,Manali,Himachal Pradesh,Heritage,4.1,Pilgrimage,Spring,Solo
+High,18-25,Mysore,Karnataka,Adventure,2.7,Trekking,Monsoon,Couple
+Low,36-50,Kerala,Kerala,Spiritual,1.7,Water Sports,Summer,Solo
+High,50+,Agra,Uttar Pradesh,Spiritual,2.2,Sightseeing,Monsoon,Solo
+Medium,,Kolkata,West Bengal,Beach,3.1,Pilgrimage,Monsoon,Solo
+Low,18-25,Chennai,Tamil Nadu,Heritage,4.8,Trekking,Winter,Family
+Low,18-25,Darjeeling,West Bengal,Heritage,4.0,Wildlife,Winter,Group
+Low,18-25,Udaipur,Rajasthan,Adventure,4.4,Wildlife,Monsoon,Solo
+Medium,36-50,Jaipur,Rajasthan,Spiritual,2.5,Pilgrimage,Spring,Friends
+Medium,50+,Rishikesh,Uttarakhand,Heritage,3.9,Relaxation,Monsoon,Solo
+Medium,36-50,Jaipur,Rajasthan,Urban,4.5,Wildlife,Summer,Family
+High,26-35,Kolkata,West Bengal,Urban,3.2,Wildlife,Autumn,Solo
+Medium,18-25,Manali,Himachal Pradesh,Spiritual,3.0,Relaxation,Monsoon,Friends
+High,26-35,Hyderabad,Telangana,Spiritual,4.0,Relaxation,Autumn,Friends
+Medium,26-35,Agra,Uttar Pradesh,Urban,3.5,Wildlife,Summer,Group
+High,18-25,Mumbai,Maharashtra,Beach,5.0,Relaxation,Monsoon,Friends
+High,18-25,Udaipur,Rajasthan,Urban,3.0,Pilgrimage,Monsoon,Solo
+Medium,18-25,Jaipur,Rajasthan,Urban,2.1,Sightseeing,Summer,Couple
+Medium,36-50,Darjeeling,West Bengal,Urban,3.2,Wildlife,Spring,Family
+Medium,50+,Varanasi,Uttar Pradesh,Adventure,2.3,Wildlife,Summer,Solo
+Low,36-50,Jaipur,Rajasthan,Spiritual,3.5,Water Sports,Winter,Friends
+High,26-35,Leh,Ladakh,Adventure,1.9,Wildlife,Spring,Solo
+High,26-35,Jaipur,Rajasthan,Heritage,4.8,Wildlife,Autumn,Friends
+High,50+,Shimla,Himachal Pradesh,Spiritual,4.5,Water Sports,Monsoon,Solo
+Medium,36-50,Leh,Ladakh,Heritage,2.0,Sightseeing,Spring,Friends
+Medium,26-35,Udaipur,Rajasthan,Beach,2.1,Wildlife,Autumn,Couple
+Low,26-35,Chennai,Tamil Nadu,Adventure,3.3,Relaxation,Spring,Group
+Low,50+,Agra,Uttar Pradesh,Adventure,4.2,Wildlife,Autumn,Couple
+Low,50+,Varanasi,Uttar Pradesh,Urban,2.3,Relaxation,Winter,Solo
+High,36-50,Shimla,Himachal Pradesh,Urban,1.7,Trekking,Autumn,Family
+Medium,36-50,Rishikesh,Uttarakhand,Heritage,3.4,Relaxation,Monsoon,Couple
+High,26-35,Jaipur,Rajasthan,Beach,3.9,Relaxation,Monsoon,Couple
+High,50+,Leh,Ladakh,Heritage,2.4,Trekking,Autumn,Solo
+High,26-35,Varanasi,Uttar Pradesh,Heritage,4.1,Water Sports,Winter,Couple
+High,18-25,Sikkim,Sikkim,Heritage,4.8,Pilgrimage,Spring,Family
+Low,50+,Kerala,Kerala,Urban,2.0,Water Sports,Monsoon,Group
+Medium,36-50,Udaipur,Rajasthan,Urban,3.3,Relaxation,Autumn,Solo
+Low,50+,Agra,Uttar Pradesh,Beach,1.7,Sightseeing,Autumn,Friends
+High,50+,Kerala,Kerala,Spiritual,2.2,Trekking,Autumn,Group
+Low,18-25,Darjeeling,West Bengal,Urban,1.8,Water Sports,Winter,Friends
+High,26-35,Bangalore,Karnataka,Hill Station,2.9,Relaxation,Autumn,Couple
+High,18-25,Jaipur,Rajasthan,Beach,4.4,Water Sports,Monsoon,Couple
+Low,36-50,Darjeeling,West Bengal,Adventure,3.5,Sightseeing,Winter,Friends
+Medium,36-50,Mussoorie,Uttarakhand,Heritage,2.3,Wildlife,Spring,Friends
+High,50+,Ooty,Tamil Nadu,Spiritual,1.6,Water Sports,Winter,Solo
+Medium,50+,Shimla,Himachal Pradesh,Spiritual,3.4,Relaxation,Spring,Solo
+Medium,26-35,Darjeeling,West Bengal,Beach,2.0,Trekking,Summer,Family
+Low,50+,Jaipur,Rajasthan,Urban,2.7,Relaxation,Winter,Couple
+High,50+,Mumbai,Maharashtra,Urban,3.3,Wildlife,Winter,Couple
+Low,18-25,Mysore,Karnataka,Hill Station,4.7,Wildlife,Summer,Couple
+Low,36-50,Rishikesh,Uttarakhand,Adventure,1.8,Water Sports,Spring,Friends
+Medium,36-50,Mussoorie,Uttarakhand,Adventure,3.8,Sightseeing,Winter,Friends
+Low,26-35,Kolkata,West Bengal,Beach,4.4,Wildlife,Spring,Friends
+High,36-50,Udaipur,Rajasthan,Spiritual,3.4,Relaxation,Spring,Friends
+Low,50+,Rishikesh,Uttarakhand,Heritage,4.3,Sightseeing,Summer,Couple
+Low,,Kolkata,West Bengal,Adventure,3.4,Relaxation,Summer,Couple
+High,26-35,Chennai,Tamil Nadu,Adventure,2.7,Sightseeing,Summer,Family
+High,18-25,Shimla,Himachal Pradesh,Adventure,2.3,Trekking,Summer,Friends
+Low,36-50,Kolkata,West Bengal,Hill Station,1.8,Sightseeing,Summer,Group
+High,18-25,Manali,Himachal Pradesh,Heritage,3.4,Trekking,Monsoon,Family
+Low,50+,Leh,Ladakh,Heritage,4.6,Wildlife,Summer,Group
+Low,50+,Delhi,Delhi,Hill Station,3.3,Pilgrimage,Winter,Solo
+Low,50+,Sikkim,Sikkim,Spiritual,4.1,Sightseeing,Spring,Solo
+Low,36-50,Ooty,Tamil Nadu,Adventure,2.5,Wildlife,Spring,Couple
+Medium,26-35,Leh,Ladakh,Heritage,3.1,Sightseeing,Spring,Family
+Low,50+,Udaipur,Rajasthan,Beach,2.6,Pilgrimage,Autumn,Family
+Medium,26-35,Jaipur,Rajasthan,Heritage,1.9,Water Sports,Monsoon,Family
+High,,Darjeeling,West Bengal,Adventure,3.0,Water Sports,Winter,Family
+High,18-25,Ooty,Tamil Nadu,Spiritual,4.2,Trekking,Spring,Couple
+Low,50+,Hyderabad,Telangana,Urban,2.9,Wildlife,Spring,Family
+High,26-35,Andaman,Andaman & Nicobar,Urban,3.8,Trekking,Monsoon,Solo
+Medium,36-50,Kerala,Kerala,Spiritual,4.2,Relaxation,Autumn,Solo
+Medium,36-50,Udaipur,Rajasthan,Heritage,2.6,Wildlife,Autumn,Friends
+Low,18-25,Delhi,Delhi,Heritage,4.3,Pilgrimage,Summer,Couple
+Medium,50+,Kolkata,West Bengal,Spiritual,2.7,Relaxation,Winter,Couple
+,50+,Agra,Uttar Pradesh,Beach,2.4,Relaxation,Monsoon,Friends
+Low,50+,Mysore,Karnataka,Adventure,2.3,Sightseeing,Winter,Solo
+Medium,36-50,Sikkim,Sikkim,Adventure,2.2,Sightseeing,Autumn,Couple
+Low,36-50,Sikkim,Sikkim,Adventure,4.1,Trekking,Summer,Solo
+Low,36-50,Andaman,Andaman & Nicobar,Beach,4.6,Trekking,Winter,Family
+Medium,36-50,Goa,Goa,Beach,0.6,Relaxation,Summer,Couple
+High,26-35,Mumbai,Maharashtra,Adventure,2.6,Pilgrimage,Summer,Solo
+High,18-25,Andaman,Andaman & Nicobar,Spiritual,3.8,Pilgrimage,Spring,Couple
+Low,50+,Sikkim,Sikkim,Heritage,2.8,Water Sports,Spring,Solo
+Medium,26-35,Chennai,Tamil Nadu,Hill Station,3.4,Relaxation,Spring,Group
+High,26-35,Andaman,Andaman & Nicobar,Beach,4.1,Water Sports,Spring,Group
+Medium,26-35,Rishikesh,Uttarakhand,Heritage,2.9,Wildlife,Winter,Group
+High,36-50,Varanasi,Uttar Pradesh,Spiritual,5.0,Trekking,Spring,Couple
+High,50+,Goa,Goa,Urban,2.5,Water Sports,Winter,Couple
+Low,50+,Bangalore,Karnataka,Adventure,4.9,Water Sports,Spring,Friends
+Low,26-35,Udaipur,Rajasthan,Urban,2.2,Water Sports,Autumn,Friends
+High,26-35,Leh,Ladakh,Beach,1.9,Sightseeing,Autumn,Family
+High,26-35,Ooty,Tamil Nadu,Hill Station,4.1,Trekking,Autumn,Couple
+High,26-35,Hyderabad,Telangana,Adventure,4.0,Wildlife,Autumn,Family
+High,18-25,Jaipur,Rajasthan,Urban,4.3,Trekking,Winter,Group
+Medium,18-25,Kerala,Kerala,Urban,2.7,Trekking,Spring,Friends
+High,,Varanasi,Uttar Pradesh,Spiritual,4.8,Wildlife,Winter,Friends
+High,36-50,Hyderabad,Telangana,Hill Station,1.9,Relaxation,Winter,Group
+High,18-25,Leh,Ladakh,Hill Station,1.6,Trekking,Monsoon,Couple
+Low,50+,Chennai,Tamil Nadu,Adventure,2.6,Relaxation,Monsoon,Group
+High,50+,Chennai,Tamil Nadu,Beach,4.3,Sightseeing,Summer,Solo
+Medium,50+,Kerala,Kerala,Spiritual,3.9,Water Sports,Summer,Group
+Medium,36-50,Goa,Goa,Beach,3.0,Relaxation,Monsoon,Group
+Low,36-50,Rishikesh,Uttarakhand,Spiritual,2.4,Sightseeing,Spring,Group
+Medium,50+,Chennai,Tamil Nadu,Spiritual,1.7,Wildlife,Monsoon,Group
+Medium,50+,Andaman,Andaman & Nicobar,Urban,2.7,Water Sports,Spring,Couple
+High,26-35,Mussoorie,Uttarakhand,Heritage,3.1,Relaxation,Winter,Solo
+Medium,50+,Delhi,Delhi,Urban,3.9,Relaxation,Spring,Solo
+High,26-35,Kolkata,West Bengal,Beach,3.8,Trekking,Winter,Solo
+Low,18-25,Bangalore,Karnataka,Heritage,4.8,Water Sports,Monsoon,Solo
+Medium,36-50,Kolkata,West Bengal,Adventure,1.9,Wildlife,Autumn,Couple
+Low,36-50,Leh,Ladakh,Spiritual,2.7,Wildlife,Summer,Friends
+Low,18-25,Mysore,Karnataka,Beach,3.2,Sightseeing,Winter,Family
+Low,50+,Rishikesh,Uttarakhand,Spiritual,3.8,Relaxation,Summer,Friends
+High,50+,Mumbai,Maharashtra,Heritage,3.2,Trekking,Summer,Solo
+High,18-25,Manali,Himachal Pradesh,Heritage,4.7,Trekking,Spring,Couple
+Low,18-25,Manali,Himachal Pradesh,Heritage,3.6,Relaxation,Autumn,Couple
+Low,26-35,Leh,Ladakh,Beach,1.6,Trekking,Summer,Couple
+Medium,18-25,Kerala,Kerala,Hill Station,1.9,Relaxation,Summer,Group
+Medium,36-50,Andaman,Andaman & Nicobar,Spiritual,4.1,Wildlife,Spring,Group
+Low,18-25,Mussoorie,Uttarakhand,Spiritual,4.0,Trekking,Monsoon,Couple
+Medium,26-35,Darjeeling,West Bengal,Spiritual,2.0,Wildlife,Winter,Friends
+High,26-35,Agra,Uttar Pradesh,Beach,1.7,Wildlife,Winter,Solo
+,50+,Jaipur,Rajasthan,Adventure,3.5,Trekking,Summer,Group
+Medium,18-25,Manali,Himachal Pradesh,Hill Station,3.7,Sightseeing,Summer,Solo
+Low,36-50,Jaipur,Rajasthan,Hill Station,2.0,Trekking,Summer,Group
+Medium,36-50,Jaipur,Rajasthan,Beach,3.2,Water Sports,Monsoon,Group
+Medium,26-35,Goa,Goa,Adventure,2.6,Sightseeing,Winter,Family
+High,50+,Hyderabad,Telangana,Urban,4.8,Sightseeing,Spring,Family
+,50+,Mysore,Karnataka,Heritage,2.3,Relaxation,Spring,Couple
+Low,36-50,Delhi,Delhi,Urban,4.1,Relaxation,Winter,Family
+Medium,50+,Darjeeling,West Bengal,Hill Station,3.3,Trekking,Summer,Friends
+Low,36-50,Chennai,Tamil Nadu,Hill Station,1.5,Pilgrimage,Monsoon,Solo
+Medium,50+,Rishikesh,Uttarakhand,Beach,3.3,Trekking,Autumn,Friends
+,26-35,Leh,Ladakh,Beach,1.8,Water Sports,Autumn,Friends
+High,18-25,Darjeeling,West Bengal,Urban,3.8,Pilgrimage,Monsoon,Solo
+Low,18-25,Udaipur,Rajasthan,Spiritual,3.5,Pilgrimage,Monsoon,Friends
+High,26-35,Goa,Goa,Adventure,1.5,Relaxation,Summer,Friends
+Low,36-50,Goa,Goa,Beach,2.2,Sightseeing,Summer,Friends
+Medium,26-35,Hyderabad,Telangana,Urban,4.2,Wildlife,Autumn,Family
+Low,36-50,Kerala,Kerala,Beach,2.5,Relaxation,Monsoon,Solo
+Low,26-35,Udaipur,Rajasthan,Spiritual,3.2,Pilgrimage,Spring,Friends
+High,26-35,Manali,Himachal Pradesh,Urban,2.6,Wildlife,Winter,Solo
+High,18-25,Delhi,Delhi,Spiritual,4.7,Water Sports,Monsoon,Couple
+Low,26-35,Darjeeling,West Bengal,Spiritual,3.4,Sightseeing,Monsoon,Friends
+High,50+,Udaipur,Rajasthan,Heritage,3.9,Relaxation,Monsoon,Family
+Low,50+,Andaman,Andaman & Nicobar,Adventure,1.8,Pilgrimage,Monsoon,Couple
+Low,18-25,Agra,Uttar Pradesh,Adventure,1.6,Trekking,Summer,Couple
+Low,26-35,Manali,Himachal Pradesh,Hill Station,2.4,Trekking,Monsoon,Friends
+High,36-50,Delhi,Delhi,Adventure,2.6,Water Sports,Monsoon,Family
+Low,26-35,Mumbai,Maharashtra,Spiritual,3.9,Pilgrimage,Monsoon,Friends
+Low,36-50,Leh,Ladakh,Heritage,3.5,Water Sports,Autumn,Solo
+Low,26-35,Goa,Goa,Beach,2.8,Wildlife,Autumn,Couple
+Low,36-50,Jaipur,Rajasthan,Spiritual,3.8,Wildlife,Monsoon,Friends
+High,50+,Mumbai,Maharashtra,Urban,2.1,Sightseeing,Summer,Group
+High,50+,Sikkim,Sikkim,Urban,1.7,Trekking,Autumn,Friends
+,26-35,Delhi,Delhi,Hill Station,4.5,Wildlife,Monsoon,Group
+Low,26-35,Mussoorie,Uttarakhand,Urban,3.5,Trekking,Autumn,Family
+Medium,36-50,Rishikesh,Uttarakhand,Heritage,3.8,Trekking,Spring,Friends
+Low,18-25,Hyderabad,Telangana,Urban,2.6,Wildlife,Spring,Family
+Medium,26-35,Mumbai,Maharashtra,Hill Station,2.8,Sightseeing,Winter,Solo
+Medium,50+,Varanasi,Uttar Pradesh,Beach,1.8,Wildlife,Winter,Family
+High,50+,Jaipur,Rajasthan,Adventure,4.5,Trekking,Summer,Family
+Low,36-50,Udaipur,Rajasthan,Heritage,3.6,Relaxation,Autumn,Friends
+High,18-25,Shimla,Himachal Pradesh,Hill Station,1.8,Pilgrimage,Winter,Family
+High,26-35,Goa,Goa,Spiritual,4.3,Pilgrimage,Summer,Family
+Low,26-35,Hyderabad,Telangana,Heritage,3.1,Water Sports,Winter,Family
+Medium,26-35,Leh,Ladakh,Beach,4.2,Relaxation,Summer,Family
+Low,26-35,Mussoorie,Uttarakhand,Urban,1.5,Trekking,Winter,Friends
+Medium,36-50,Rishikesh,Uttarakhand,Spiritual,1.6,Relaxation,Autumn,Friends
+Low,26-35,Delhi,Delhi,Hill Station,2.1,Water Sports,Summer,Friends
+Low,36-50,Chennai,Tamil Nadu,Urban,2.2,Wildlife,Winter,Group
+,50+,Kolkata,West Bengal,Beach,4.2,Relaxation,Monsoon,Group
+High,18-25,Udaipur,Rajasthan,Urban,4.0,Trekking,Monsoon,Friends
+Medium,18-25,Kolkata,West Bengal,Hill Station,3.7,Sightseeing,Summer,Couple
+Medium,50+,Hyderabad,Telangana,Urban,4.6,Sightseeing,Spring,Friends
+Medium,26-35,Jaipur,Rajasthan,Spiritual,2.4,Water Sports,Monsoon,Solo
+High,26-35,Jaipur,Rajasthan,Hill Station,4.7,Trekking,Spring,Solo
+Medium,18-25,Udaipur,Rajasthan,Adventure,4.7,Water Sports,Monsoon,Family
+Medium,18-25,Agra,Uttar Pradesh,Beach,3.0,Wildlife,Summer,Couple
+Low,18-25,Kolkata,West Bengal,Beach,1.8,Water Sports,Monsoon,Friends
+Medium,36-50,Udaipur,Rajasthan,Urban,4.0,Sightseeing,Winter,Group
+Low,26-35,Shimla,Himachal Pradesh,Adventure,2.7,Water Sports,Autumn,Solo
+Low,50+,Bangalore,Karnataka,Heritage,4.3,Wildlife,Summer,Family
+Low,36-50,Darjeeling,West Bengal,Hill Station,2.1,Wildlife,Monsoon,Friends
+Medium,26-35,Bangalore,Karnataka,Beach,3.4,Trekking,Autumn,Family
+Medium,18-25,Agra,Uttar Pradesh,Heritage,3.3,Pilgrimage,Spring,Family
+Low,26-35,Mussoorie,Uttarakhand,Beach,1.9,Wildlife,Monsoon,Couple
+Low,36-50,Delhi,Delhi,Urban,2.8,Trekking,Summer,Couple
+Medium,50+,Sikkim,Sikkim,Spiritual,1.8,Pilgrimage,Summer,Couple
+Low,36-50,Mumbai,Maharashtra,Adventure,3.1,Sightseeing,Winter,Couple
+Medium,18-25,Leh,Ladakh,Heritage,4.5,Wildlife,Autumn,Solo
+High,26-35,Manali,Himachal Pradesh,Spiritual,2.4,Trekking,Autumn,Couple
+High,18-25,Rishikesh,Uttarakhand,Urban,4.2,Trekking,Spring,Friends
+Low,18-25,Bangalore,Karnataka,Beach,2.1,Sightseeing,Autumn,Family
+Medium,50+,Andaman,Andaman & Nicobar,Beach,3.9,Sightseeing,Winter,Family
+High,50+,Ooty,Tamil Nadu,Spiritual,4.7,Pilgrimage,Autumn,Friends
+Low,50+,Varanasi,Uttar Pradesh,Beach,2.6,Water Sports,Autumn,Family
+Medium,18-25,Leh,Ladakh,Beach,4.7,Water Sports,Summer,Couple
+Low,50+,Rishikesh,Uttarakhand,Beach,3.3,Pilgrimage,Spring,Group
+Low,50+,Sikkim,Sikkim,Urban,2.6,Sightseeing,Summer,Friends
+Medium,36-50,Leh,Ladakh,Hill Station,4.6,Pilgrimage,Summer,Friends
+Low,18-25,Shimla,Himachal Pradesh,Spiritual,1.6,Pilgrimage,Summer,Solo
+Medium,26-35,Sikkim,Sikkim,Spiritual,1.6,Pilgrimage,Summer,Solo
+High,36-50,Delhi,Delhi,Urban,3.6,Sightseeing,Winter,Group
+Medium,18-25,Udaipur,Rajasthan,Spiritual,4.3,Sightseeing,Monsoon,Family
+Medium,18-25,Darjeeling,West Bengal,Hill Station,4.1,Trekking,Summer,Family
+Low,50+,Kolkata,West Bengal,Beach,1.8,Trekking,Autumn,Group
+High,18-25,Sikkim,Sikkim,Heritage,4.8,Sightseeing,Spring,Friends
+Low,18-25,Delhi,Delhi,Heritage,4.0,Sightseeing,Monsoon,Couple
+High,36-50,Manali,Himachal Pradesh,Heritage,4.8,Sightseeing,Spring,Couple
+Low,18-25,Mumbai,Maharashtra,Spiritual,2.7,Trekking,Autumn,Couple
+High,36-50,Bangalore,Karnataka,Adventure,3.9,Wildlife,Summer,Couple
+Medium,18-25,Udaipur,Rajasthan,Heritage,4.5,Water Sports,Spring,Family
+High,50+,Leh,Ladakh,Adventure,2.8,Sightseeing,Winter,Solo
+Low,26-35,Rishikesh,Uttarakhand,Heritage,4.9,Trekking,Winter,Family
+Low,50+,Sikkim,Sikkim,Spiritual,2.4,Wildlife,Autumn,Friends
+Low,36-50,Kerala,Kerala,Urban,2.6,Trekking,Summer,Group
+Low,36-50,Udaipur,Rajasthan,Urban,4.7,Wildlife,Autumn,Family
+Low,50+,Mumbai,Maharashtra,Beach,4.9,Sightseeing,Summer,Friends
+Medium,50+,Shimla,Himachal Pradesh,Hill Station,2.5,Pilgrimage,Summer,Friends
+Low,26-35,Darjeeling,West Bengal,Adventure,2.0,Trekking,Autumn,Family
+Medium,50+,Hyderabad,Telangana,Beach,4.2,Trekking,Summer,Friends
+High,,Udaipur,Rajasthan,Adventure,4.8,Wildlife,Summer,Solo
+Medium,26-35,Goa,Goa,Beach,3.6,Relaxation,Winter,Group
+Medium,36-50,Darjeeling,West Bengal,Hill Station,3.7,Sightseeing,Autumn,Family
+Medium,36-50,Mussoorie,Uttarakhand,Spiritual,4.2,Relaxation,Autumn,Solo
+High,26-35,Chennai,Tamil Nadu,Urban,2.0,Relaxation,Summer,Friends
+Medium,18-25,Darjeeling,West Bengal,Urban,4.9,Trekking,Summer,Couple
+Low,18-25,Udaipur,Rajasthan,Beach,2.8,Wildlife,Autumn,Family
+Low,26-35,Kolkata,West Bengal,Hill Station,3.7,Wildlife,Winter,Friends
+Low,26-35,Leh,Ladakh,Spiritual,3.1,Water Sports,Summer,Friends
+Low,26-35,Mysore,Karnataka,Beach,3.1,Pilgrimage,Winter,Solo
+High,36-50,Udaipur,Rajasthan,Hill Station,4.0,Wildlife,Autumn,Group
+High,18-25,Andaman,Andaman & Nicobar,Urban,5.0,Water Sports,Winter,Friends
+High,18-25,Leh,Ladakh,Hill Station,3.8,Sightseeing,Winter,Group
+Medium,50+,Kolkata,West Bengal,Urban,4.3,Relaxation,Autumn,Friends
+High,50+,Varanasi,Uttar Pradesh,Hill Station,1.6,Water Sports,Autumn,Family
+Low,26-35,Bangalore,Karnataka,Urban,4.3,Sightseeing,Summer,Friends
+Low,26-35,Delhi,Delhi,Urban,2.5,Wildlife,Autumn,Family
+Low,36-50,Darjeeling,West Bengal,Spiritual,1.9,Wildlife,Spring,Group
+Low,18-25,Bangalore,Karnataka,Adventure,1.9,Water Sports,Autumn,Friends
+Medium,50+,Kolkata,West Bengal,Hill Station,3.9,Sightseeing,Autumn,Solo
+Low,18-25,Mussoorie,Uttarakhand,Hill Station,5.0,Relaxation,Autumn,Family
+High,50+,Delhi,Delhi,Heritage,3.8,Water Sports,Spring,Solo
+High,50+,Mumbai,Maharashtra,Adventure,2.4,Wildlife,Winter,Solo
+Medium,50+,Andaman,Andaman & Nicobar,Adventure,2.2,Trekking,Winter,Group
+Low,50+,Sikkim,Sikkim,Urban,3.3,Relaxation,Summer,Friends
+High,18-25,Kerala,Kerala,Spiritual,1.7,Relaxation,Autumn,Friends
+,18-25,Ooty,Tamil Nadu,Adventure,2.9,Relaxation,Monsoon,Group
+Medium,36-50,Delhi,Delhi,Hill Station,3.8,Trekking,Autumn,Family
+Low,26-35,Chennai,Tamil Nadu,Heritage,4.9,Wildlife,Autumn,Family
+Low,36-50,Delhi,Delhi,Adventure,3.0,Trekking,Autumn,Solo
+Medium,26-35,Jaipur,Rajasthan,Beach,2.2,Trekking,Spring,Friends
+Low,18-25,Mussoorie,Uttarakhand,Beach,4.4,Sightseeing,Summer,Group
+Medium,50+,Rishikesh,Uttarakhand,Adventure,4.1,Pilgrimage,Spring,Couple
+Medium,26-35,Ooty,Tamil Nadu,Spiritual,4.5,Pilgrimage,Monsoon,Group
+Low,18-25,Varanasi,Uttar Pradesh,Adventure,2.3,Trekking,Summer,Couple
+Medium,50+,Kolkata,West Bengal,Urban,2.9,Wildlife,Summer,Solo
+High,50+,Kolkata,West Bengal,Hill Station,4.9,Sightseeing,Spring,Friends
+High,18-25,Udaipur,Rajasthan,Urban,2.1,Pilgrimage,Monsoon,Couple
+Medium,50+,Manali,Himachal Pradesh,Spiritual,3.9,Trekking,Summer,Group
+High,26-35,Mumbai,Maharashtra,Hill Station,2.3,Wildlife,Winter,Friends
+Medium,50+,Delhi,Delhi,Urban,3.3,Sightseeing,Monsoon,Couple
+Low,18-25,Kerala,Kerala,Urban,4.3,Trekking,Summer,Solo
+Low,36-50,Mussoorie,Uttarakhand,Hill Station,3.2,Wildlife,Winter,Couple
+Medium,26-35,Kolkata,West Bengal,Beach,4.3,Sightseeing,Monsoon,Family
+Low,18-25,Manali,Himachal Pradesh,Beach,3.0,Wildlife,Monsoon,Solo
+Medium,18-25,Bangalore,Karnataka,Urban,5.0,Trekking,Summer,Friends
+High,26-35,Andaman,Andaman & Nicobar,Beach,3.0,Relaxation,Winter,Friends
+High,36-50,Goa,Goa,Heritage,2.0,Pilgrimage,Autumn,Group
+Low,50+,Mysore,Karnataka,Hill Station,2.9,Sightseeing,Autumn,Solo
+Low,18-25,Chennai,Tamil Nadu,Urban,4.1,Pilgrimage,Spring,Solo
+Medium,50+,Rishikesh,Uttarakhand,Hill Station,4.5,Sightseeing,Monsoon,Couple
+High,18-25,Agra,Uttar Pradesh,Spiritual,3.1,Pilgrimage,Spring,Couple
+High,36-50,Varanasi,Uttar Pradesh,Urban,3.6,Relaxation,Autumn,Solo
+High,18-25,Rishikesh,Uttarakhand,Heritage,4.5,Pilgrimage,Autumn,Couple
+High,50+,Rishikesh,Uttarakhand,Urban,4.3,Sightseeing,Winter,Couple
+High,50+,Mussoorie,Uttarakhand,Spiritual,3.8,Water Sports,Autumn,Family
+High,26-35,Jaipur,Rajasthan,Hill Station,4.4,Sightseeing,Monsoon,Couple
+High,36-50,Jaipur,Rajasthan,Beach,3.5,Wildlife,Autumn,Group
+Medium,50+,Ooty,Tamil Nadu,Adventure,1.5,Water Sports,Spring,Friends
+High,36-50,Goa,Goa,Adventure,1.6,Relaxation,Winter,Friends
+Low,50+,Mysore,Karnataka,Heritage,4.9,Pilgrimage,Spring,Solo
+Medium,36-50,Mussoorie,Uttarakhand,Adventure,2.0,Wildlife,Spring,Friends
+High,50+,Varanasi,Uttar Pradesh,Heritage,2.9,Pilgrimage,Monsoon,Solo
+High,26-35,Agra,Uttar Pradesh,Beach,4.8,Sightseeing,Winter,Solo
+Medium,18-25,Mysore,Karnataka,Beach,2.2,Relaxation,Monsoon,Solo
+Medium,36-50,Mumbai,Maharashtra,Hill Station,4.5,Wildlife,Spring,Solo
+High,26-35,Ooty,Tamil Nadu,Urban,4.4,Trekking,Autumn,Solo
+High,50+,Varanasi,Uttar Pradesh,Beach,5.0,Wildlife,Autumn,Friends
+High,50+,Jaipur,Rajasthan,Heritage,2.5,Sightseeing,Summer,Friends
+Low,,Ooty,Tamil Nadu,Beach,2.6,Relaxation,Autumn,Solo
+Low,26-35,Rishikesh,Uttarakhand,Spiritual,4.7,Sightseeing,Winter,Group
+Medium,18-25,Kerala,Kerala,Urban,2.3,Trekking,Autumn,Family
+,26-35,Darjeeling,West Bengal,Urban,3.4,Water Sports,Autumn,Friends
+Low,26-35,Kolkata,West Bengal,Heritage,4.0,Trekking,Summer,Solo
+,18-25,Goa,Goa,Hill Station,2.5,Relaxation,Winter,Couple
+Low,50+,Ooty,Tamil Nadu,Adventure,4.8,Trekking,Summer,Solo
+Low,50+,Mysore,Karnataka,Adventure,3.8,Relaxation,Winter,Friends
+Low,50+,Mysore,Karnataka,Urban,1.7,Trekking,Autumn,Friends
+Low,36-50,Andaman,Andaman & Nicobar,Adventure,2.0,Water Sports,Spring,Group
+Low,50+,Bangalore,Karnataka,Heritage,2.2,Water Sports,Winter,Couple
+Medium,26-35,Darjeeling,West Bengal,Beach,2.4,Pilgrimage,Monsoon,Family
+Low,26-35,Sikkim,Sikkim,Spiritual,4.1,Relaxation,Spring,Solo
+Medium,26-35,Manali,Himachal Pradesh,Beach,1.8,Trekking,Monsoon,Couple
+Low,26-35,Goa,Goa,Spiritual,2.7,Wildlife,Winter,Friends
+Low,,Darjeeling,West Bengal,Beach,4.7,Sightseeing,Summer,Friends
+Medium,18-25,Mumbai,Maharashtra,Heritage,3.4,Wildlife,Winter,Friends
+High,36-50,Rishikesh,Uttarakhand,Adventure,2.4,Wildlife,Winter,Family
+Medium,18-25,Manali,Himachal Pradesh,Beach,4.8,Sightseeing,Monsoon,Couple
+High,18-25,Mysore,Karnataka,Urban,2.4,Wildlife,Monsoon,Family
+Medium,26-35,Goa,Goa,Beach,4.7,Relaxation,Summer,Family
+High,36-50,Sikkim,Sikkim,Adventure,4.0,Sightseeing,Monsoon,Group
+Medium,18-25,Varanasi,Uttar Pradesh,Beach,4.1,Wildlife,Monsoon,Couple
+High,26-35,Kerala,Kerala,Beach,4.2,Relaxation,Monsoon,Couple
+Medium,36-50,Agra,Uttar Pradesh,Adventure,3.3,Relaxation,Monsoon,Family
+High,36-50,Mussoorie,Uttarakhand,Heritage,4.4,Water Sports,Autumn,Family
+Low,50+,Mussoorie,Uttarakhand,Hill Station,4.4,Water Sports,Winter,Family
+High,18-25,Mysore,Karnataka,Spiritual,2.8,Pilgrimage,Autumn,Couple
+High,26-35,Kerala,Kerala,Spiritual,2.9,Relaxation,Monsoon,Family
+,50+,Mysore,Karnataka,Hill Station,4.6,Trekking,Summer,Couple
+High,18-25,Goa,Goa,Urban,3.3,Pilgrimage,Autumn,Friends
+Low,50+,Ooty,Tamil Nadu,Beach,4.5,Trekking,Spring,Friends
+High,50+,Varanasi,Uttar Pradesh,Beach,3.7,Pilgrimage,Winter,Group
+Medium,26-35,Mussoorie,Uttarakhand,Heritage,3.6,Trekking,Spring,Family
+High,50+,Andaman,Andaman & Nicobar,Hill Station,1.6,Relaxation,Spring,Family
+High,36-50,Mussoorie,Uttarakhand,Adventure,2.5,Trekking,Winter,Couple
+Medium,36-50,Mussoorie,Uttarakhand,Hill Station,3.3,Wildlife,Spring,Solo
+Low,50+,Mumbai,Maharashtra,Spiritual,3.6,Trekking,Autumn,Solo
+High,18-25,Manali,Himachal Pradesh,Spiritual,3.7,Water Sports,Winter,Group
+Low,18-25,Jaipur,Rajasthan,Beach,4.0,Trekking,Autumn,Group
+High,26-35,Ooty,Tamil Nadu,Hill Station,3.8,Relaxation,Spring,Family
+Medium,50+,Shimla,Himachal Pradesh,Adventure,4.5,Wildlife,Monsoon,Group
+High,26-35,Andaman,Andaman & Nicobar,Urban,2.5,Water Sports,Autumn,Couple
+High,50+,Shimla,Himachal Pradesh,Urban,3.7,Pilgrimage,Autumn,Couple
+Low,18-25,Goa,Goa,Urban,1.7,Pilgrimage,Autumn,Couple
+Medium,50+,Mysore,Karnataka,Beach,3.2,Water Sports,Autumn,Group
+Medium,,Jaipur,Rajasthan,Beach,2.4,Relaxation,Autumn,Solo
+Medium,18-25,Rishikesh,Uttarakhand,Spiritual,2.8,Pilgrimage,Autumn,Solo
+High,36-50,Udaipur,Rajasthan,Spiritual,2.7,Pilgrimage,Summer,Group
+High,26-35,Ooty,Tamil Nadu,Urban,1.7,Water Sports,Winter,Group
+Medium,26-35,Kerala,Kerala,Spiritual,3.1,Relaxation,Monsoon,Friends
+Low,18-25,Agra,Uttar Pradesh,Beach,5.0,Relaxation,Summer,Family
+Low,50+,Leh,Ladakh,Urban,2.5,Sightseeing,Winter,Solo
+Medium,26-35,Leh,Ladakh,Heritage,4.1,Trekking,Spring,Solo
+,36-50,Bangalore,Karnataka,Heritage,3.4,Wildlife,Autumn,Couple
+High,36-50,Mussoorie,Uttarakhand,Hill Station,2.6,Water Sports,Monsoon,Friends
+Low,36-50,Chennai,Tamil Nadu,Hill Station,1.8,Pilgrimage,Autumn,Family
+Medium,26-35,Bangalore,Karnataka,Heritage,2.3,Relaxation,Spring,Couple
+Medium,18-25,Andaman,Andaman & Nicobar,Hill Station,4.2,Trekking,Monsoon,Couple
+Medium,50+,Goa,Goa,Hill Station,2.5,Wildlife,Summer,Family
+High,50+,Rishikesh,Uttarakhand,Spiritual,2.0,Sightseeing,Spring,Family
+High,50+,Jaipur,Rajasthan,Adventure,2.7,Wildlife,Summer,Group
+Low,26-35,Shimla,Himachal Pradesh,Heritage,3.5,Water Sports,Monsoon,Family
+High,18-25,Bangalore,Karnataka,Adventure,4.0,Pilgrimage,Autumn,Friends
+Medium,36-50,Jaipur,Rajasthan,Beach,2.9,Water Sports,Summer,Family
+Medium,50+,Udaipur,Rajasthan,Adventure,3.2,Pilgrimage,Autumn,Family
+Low,26-35,Delhi,Delhi,Urban,3.1,Sightseeing,Monsoon,Group
+,36-50,Mussoorie,Uttarakhand,Heritage,1.5,Trekking,Winter,Group
+Low,36-50,Bangalore,Karnataka,Spiritual,2.9,Wildlife,Autumn,Solo
+Low,18-25,Varanasi,Uttar Pradesh,Spiritual,3.6,Trekking,Summer,Friends
+High,36-50,Agra,Uttar Pradesh,Urban,3.5,Trekking,Autumn,Group
+Medium,50+,Rishikesh,Uttarakhand,Urban,4.1,Trekking,Monsoon,Solo
+Medium,26-35,Bangalore,Karnataka,Hill Station,3.8,Pilgrimage,Spring,Friends
+Medium,18-25,Delhi,Delhi,Beach,2.5,Sightseeing,Spring,Friends
+Low,18-25,Mumbai,Maharashtra,Urban,2.4,Wildlife,Autumn,Friends
+Medium,26-35,Agra,Uttar Pradesh,Urban,3.1,Water Sports,Autumn,Friends
+Medium,36-50,Sikkim,Sikkim,Hill Station,4.1,Water Sports,Monsoon,Family
+Medium,50+,Varanasi,Uttar Pradesh,Heritage,1.8,Wildlife,Summer,Family
+High,36-50,Goa,Goa,Adventure,4.8,Water Sports,Autumn,Family
+,36-50,Mussoorie,Uttarakhand,Urban,3.4,Sightseeing,Monsoon,Group
+Low,50+,Leh,Ladakh,Urban,2.6,Pilgrimage,Spring,Family
+Medium,18-25,Leh,Ladakh,Adventure,3.9,Sightseeing,Winter,Solo
+High,18-25,Leh,Ladakh,Spiritual,1.7,Trekking,Autumn,Couple
+Low,36-50,Leh,Ladakh,Heritage,3.2,Pilgrimage,Winter,Couple
+Low,36-50,Mussoorie,Uttarakhand,Hill Station,3.2,Trekking,Autumn,Friends
+Medium,50+,Agra,Uttar Pradesh,Spiritual,2.1,Wildlife,Monsoon,Friends
+Medium,36-50,Manali,Himachal Pradesh,Spiritual,4.4,Trekking,Winter,Group
+High,36-50,Udaipur,Rajasthan,Beach,4.3,Relaxation,Winter,Solo
+Medium,18-25,Jaipur,Rajasthan,Heritage,2.0,Trekking,Autumn,Couple
+Low,26-35,Chennai,Tamil Nadu,Spiritual,2.8,Trekking,Autumn,Solo
+Medium,36-50,Jaipur,Rajasthan,Adventure,1.9,Water Sports,Spring,Friends
+Medium,36-50,Ooty,Tamil Nadu,Spiritual,4.5,Sightseeing,Monsoon,Friends
+Medium,26-35,Varanasi,Uttar Pradesh,Urban,2.6,Trekking,Summer,Friends
+High,36-50,Goa,Goa,Spiritual,3.0,Relaxation,Monsoon,Couple
+Medium,36-50,Goa,Goa,Hill Station,2.6,Trekking,Winter,Couple
+High,18-25,Bangalore,Karnataka,Spiritual,2.6,Pilgrimage,Summer,Group
+High,36-50,Udaipur,Rajasthan,Adventure,4.1,Water Sports,Summer,Friends
+Low,26-35,Kerala,Kerala,Heritage,4.1,Pilgrimage,Winter,Couple
+Low,36-50,Kolkata,West Bengal,Hill Station,3.3,Pilgrimage,Monsoon,Couple
+Low,26-35,Udaipur,Rajasthan,Spiritual,3.8,Pilgrimage,Spring,Friends
+High,50+,Manali,Himachal Pradesh,Beach,3.3,Pilgrimage,Monsoon,Couple
+High,18-25,Kerala,Kerala,Heritage,0.5,Sightseeing,Autumn,Family
+Low,18-25,Varanasi,Uttar Pradesh,Spiritual,2.8,Water Sports,Monsoon,Couple
+Low,36-50,Goa,Goa,Urban,4.1,Sightseeing,Monsoon,Group
+Low,26-35,Varanasi,Uttar Pradesh,Hill Station,4.7,Sightseeing,Spring,Friends
+Low,36-50,Mumbai,Maharashtra,Heritage,1.6,Wildlife,Monsoon,Couple
+Low,36-50,Andaman,Andaman & Nicobar,Urban,2.8,Water Sports,Monsoon,Solo
+High,26-35,Jaipur,Rajasthan,Beach,2.3,Wildlife,Winter,Solo
+Medium,18-25,Kolkata,West Bengal,Heritage,4.4,Wildlife,Winter,Group
+Low,36-50,Hyderabad,Telangana,Spiritual,4.5,Wildlife,Autumn,Couple
+High,18-25,Manali,Himachal Pradesh,Hill Station,2.2,Trekking,Winter,Group
+High,50+,Hyderabad,Telangana,Spiritual,4.0,Sightseeing,Winter,Group
+Medium,36-50,Goa,Goa,Hill Station,4.1,Trekking,Winter,Family
+Low,26-35,Darjeeling,West Bengal,Urban,2.1,Trekking,Summer,Family
+Medium,18-25,Chennai,Tamil Nadu,Adventure,3.0,Relaxation,Summer,Couple
+Low,18-25,Hyderabad,Telangana,Spiritual,3.7,Wildlife,Summer,Solo
+High,36-50,Ooty,Tamil Nadu,Urban,1.6,Water Sports,Spring,Family
+Low,50+,Kolkata,West Bengal,Hill Station,2.9,Pilgrimage,Summer,Family
+High,18-25,Varanasi,Uttar Pradesh,Heritage,2.0,Relaxation,Autumn,Friends
+Medium,26-35,Delhi,Delhi,Spiritual,3.4,Relaxation,Winter,Solo
+Medium,50+,Mysore,Karnataka,Urban,4.5,Wildlife,Summer,Group
+Medium,18-25,Andaman,Andaman & Nicobar,Hill Station,3.3,Wildlife,Spring,Group
+Medium,50+,Andaman,Andaman & Nicobar,Adventure,1.6,Pilgrimage,Summer,Group
+High,26-35,Andaman,Andaman & Nicobar,Heritage,1.6,Water Sports,Autumn,Friends
+High,36-50,Ooty,Tamil Nadu,Spiritual,3.6,Pilgrimage,Spring,Friends
+High,,Goa,Goa,Spiritual,2.6,Trekking,Spring,Solo
+Medium,18-25,Bangalore,Karnataka,Beach,1.1,Relaxation,Spring,Couple
+High,26-35,Varanasi,Uttar Pradesh,Urban,4.2,Relaxation,Autumn,Friends
+Low,50+,Andaman,Andaman & Nicobar,Heritage,4.5,Relaxation,Spring,Couple
+Medium,26-35,Rishikesh,Uttarakhand,Heritage,4.6,Relaxation,Summer,Couple
+Medium,50+,Rishikesh,Uttarakhand,Heritage,2.6,Sightseeing,Winter,Friends
+Low,18-25,Andaman,Andaman & Nicobar,Heritage,3.8,Wildlife,Spring,Solo
+Low,26-35,Manali,Himachal Pradesh,Spiritual,2.5,Trekking,Monsoon,Family
+Medium,36-50,Mussoorie,Uttarakhand,Spiritual,4.2,Water Sports,Monsoon,Family
+High,50+,Sikkim,Sikkim,Heritage,1.9,Wildlife,Winter,Friends
+Low,50+,Rishikesh,Uttarakhand,Heritage,4.2,Water Sports,Autumn,Group
+Low,36-50,Hyderabad,Telangana,Hill Station,3.0,Pilgrimage,Monsoon,Solo
+Low,36-50,Hyderabad,Telangana,Urban,4.5,Pilgrimage,Autumn,Group
+Low,26-35,Sikkim,Sikkim,Urban,4.1,Sightseeing,Summer,Friends
+Medium,36-50,Manali,Himachal Pradesh,Beach,2.8,Water Sports,Winter,Friends
+High,50+,Shimla,Himachal Pradesh,Hill Station,4.7,Trekking,Spring,Family
+Medium,36-50,Kerala,Kerala,Spiritual,2.5,Water Sports,Spring,Friends
+Medium,26-35,Varanasi,Uttar Pradesh,Hill Station,4.9,Water Sports,Autumn,Solo
+Low,36-50,Bangalore,Karnataka,Spiritual,4.2,Wildlife,Summer,Couple
+Low,18-25,Mussoorie,Uttarakhand,Spiritual,5.0,Water Sports,Winter,Solo
+Medium,26-35,Leh,Ladakh,Heritage,1.7,Sightseeing,Winter,Family
+High,36-50,Agra,Uttar Pradesh,Adventure,2.5,Pilgrimage,Winter,Group
+Medium,50+,Delhi,Delhi,Spiritual,4.1,Water Sports,Winter,Solo
+Low,26-35,Kerala,Kerala,Beach,4.7,Pilgrimage,Autumn,Couple
+Medium,50+,Rishikesh,Uttarakhand,Heritage,1.6,Relaxation,Spring,Group
+High,36-50,Rishikesh,Uttarakhand,Beach,1.5,Pilgrimage,Winter,Family
+High,18-25,Kolkata,West Bengal,Spiritual,2.4,Water Sports,Autumn,Group
+,50+,Andaman,Andaman & Nicobar,Beach,4.5,Water Sports,Summer,Couple
+Low,18-25,Goa,Goa,Beach,4.2,Trekking,Monsoon,Solo
+High,26-35,Varanasi,Uttar Pradesh,Adventure,2.7,Water Sports,Monsoon,Group
+Medium,26-35,Leh,Ladakh,Hill Station,1.5,Sightseeing,Summer,Group
+Low,18-25,Udaipur,Rajasthan,Hill Station,3.4,Water Sports,Monsoon,Friends
+High,26-35,Agra,Uttar Pradesh,Hill Station,2.3,Sightseeing,Autumn,Family
+Medium,36-50,Varanasi,Uttar Pradesh,Heritage,4.1,Wildlife,Summer,Group
+High,50+,Rishikesh,Uttarakhand,Urban,3.1,Sightseeing,Monsoon,Couple
+Medium,50+,Mysore,Karnataka,Spiritual,3.9,Trekking,Monsoon,Group
+High,,Hyderabad,Telangana,Adventure,4.5,Pilgrimage,Winter,Couple
+High,50+,Mumbai,Maharashtra,Spiritual,3.4,Water Sports,Monsoon,Family
+High,50+,Chennai,Tamil Nadu,Urban,2.7,Wildlife,Summer,Family
+High,50+,Andaman,Andaman & Nicobar,Beach,4.2,Sightseeing,Monsoon,Family
+Medium,26-35,Kolkata,West Bengal,Heritage,2.4,Pilgrimage,Monsoon,Solo
+Low,26-35,Ooty,Tamil Nadu,Beach,4.6,Sightseeing,Autumn,Group
+Low,,Mussoorie,Uttarakhand,Spiritual,1.7,Pilgrimage,Monsoon,Group
+Low,50+,Jaipur,Rajasthan,Urban,4.4,Relaxation,Spring,Solo
+Medium,18-25,Hyderabad,Telangana,Spiritual,1.8,Relaxation,Spring,Friends
+Low,36-50,Darjeeling,West Bengal,Spiritual,1.7,Relaxation,Summer,Couple
+High,26-35,Mysore,Karnataka,Urban,2.8,Relaxation,Summer,Family
+High,26-35,Udaipur,Rajasthan,Beach,4.8,Wildlife,Monsoon,Friends
+High,26-35,Bangalore,Karnataka,Beach,4.9,Wildlife,Spring,Friends
+Low,26-35,Manali,Himachal Pradesh,Heritage,2.2,Relaxation,Autumn,Friends
+High,18-25,Mumbai,Maharashtra,Urban,2.0,Wildlife,Winter,Couple
+Low,36-50,Sikkim,Sikkim,Hill Station,2.7,Trekking,Summer,Couple
+High,26-35,Chennai,Tamil Nadu,Beach,2.7,Pilgrimage,Autumn,Group
+Low,36-50,Bangalore,Karnataka,Spiritual,4.2,Water Sports,Monsoon,Solo
+Low,18-25,Kolkata,West Bengal,Adventure,3.1,Trekking,Winter,Family
+Medium,18-25,Shimla,Himachal Pradesh,Urban,4.2,Pilgrimage,Spring,Solo
+Low,50+,Leh,Ladakh,Beach,4.1,Sightseeing,Autumn,Solo
+High,18-25,Sikkim,Sikkim,Heritage,3.5,Pilgrimage,Spring,Friends
+High,18-25,Darjeeling,West Bengal,Hill Station,4.4,Wildlife,Summer,Group
+Low,18-25,Ooty,Tamil Nadu,Hill Station,2.2,Pilgrimage,Spring,Friends
+Medium,18-25,Kolkata,West Bengal,Urban,2.1,Sightseeing,Spring,Friends
+High,26-35,Darjeeling,West Bengal,Hill Station,4.1,Water Sports,Autumn,Solo
+Medium,36-50,Goa,Goa,Adventure,2.4,Relaxation,Monsoon,Friends
+Low,18-25,Darjeeling,West Bengal,Beach,1.5,Water Sports,Summer,Group
+High,26-35,Goa,Goa,Spiritual,4.7,Trekking,Monsoon,Family
+High,50+,Chennai,Tamil Nadu,Heritage,3.7,Water Sports,Summer,Family
+Medium,18-25,Varanasi,Uttar Pradesh,Heritage,3.1,Wildlife,Spring,Group
+Medium,50+,Mussoorie,Uttarakhand,Adventure,4.0,Trekking,Spring,Friends
+High,26-35,Udaipur,Rajasthan,Urban,2.7,Trekking,Winter,Family
+,50+,Sikkim,Sikkim,Urban,4.8,Water Sports,Autumn,Family
+High,50+,Shimla,Himachal Pradesh,Adventure,1.7,Relaxation,Winter,Solo
+Medium,26-35,Agra,Uttar Pradesh,Adventure,3.7,Trekking,Winter,Family
+High,50+,Manali,Himachal Pradesh,Hill Station,4.2,Water Sports,Autumn,Family
+Medium,18-25,Udaipur,Rajasthan,Beach,3.1,Trekking,Autumn,Friends
+High,50+,Mysore,Karnataka,Hill Station,4.1,Trekking,Winter,Family
+Medium,26-35,Kerala,Kerala,Beach,4.7,Wildlife,Winter,Friends
+High,36-50,Darjeeling,West Bengal,Hill Station,4.1,Water Sports,Autumn,Solo
+High,18-25,Manali,Himachal Pradesh,Spiritual,2.6,Wildlife,Autumn,Couple
+High,50+,Delhi,Delhi,Spiritual,3.5,Wildlife,Autumn,Friends
+High,18-25,Chennai,Tamil Nadu,Heritage,4.7,Water Sports,Monsoon,Friends
+High,26-35,Udaipur,Rajasthan,Spiritual,3.1,Water Sports,Spring,Solo
+Low,26-35,Andaman,Andaman & Nicobar,Spiritual,3.9,Wildlife,Spring,Family
+,18-25,Darjeeling,West Bengal,Beach,3.1,Relaxation,Summer,Solo
+Medium,26-35,Ooty,Tamil Nadu,Urban,1.9,Pilgrimage,Summer,Group
+Low,50+,Rishikesh,Uttarakhand,Adventure,1.7,Sightseeing,Monsoon,Group
+High,50+,Andaman,Andaman & Nicobar,Urban,4.8,Sightseeing,Spring,Family
+Medium,18-25,Andaman,Andaman & Nicobar,Spiritual,3.6,Sightseeing,Spring,Family
+Medium,26-35,Mysore,Karnataka,Hill Station,1.9,Water Sports,Monsoon,Group
+Low,26-35,Leh,Ladakh,Adventure,4.5,Sightseeing,Autumn,Solo
+High,36-50,Bangalore,Karnataka,Hill Station,3.3,Trekking,Spring,Couple
+Low,36-50,Varanasi,Uttar Pradesh,Hill Station,4.2,Sightseeing,Autumn,Family
+High,26-35,Manali,Himachal Pradesh,Spiritual,1.9,Trekking,Winter,Family
+Medium,18-25,Delhi,Delhi,Adventure,4.7,Relaxation,Autumn,Friends
+High,18-25,Bangalore,Karnataka,Adventure,3.6,Pilgrimage,Autumn,Family
+Medium,18-25,Jaipur,Rajasthan,Heritage,4.1,Sightseeing,Winter,Family
+High,36-50,Hyderabad,Telangana,Hill Station,1.6,Sightseeing,Summer,Family
+High,26-35,Chennai,Tamil Nadu,Hill Station,2.6,Pilgrimage,Autumn,Group
+High,36-50,Andaman,Andaman & Nicobar,Heritage,2.4,Sightseeing,Monsoon,Couple
+High,18-25,Chennai,Tamil Nadu,Adventure,4.8,Sightseeing,Summer,Group
+High,18-25,Jaipur,Rajasthan,Hill Station,2.1,Trekking,Monsoon,Friends
+Low,18-25,Goa,Goa,Beach,4.0,Water Sports,Spring,Group
+Medium,50+,Goa,Goa,Heritage,1.6,Trekking,Monsoon,Group
+High,36-50,Delhi,Delhi,Adventure,2.4,Pilgrimage,Summer,Friends
+Medium,,Ooty,Tamil Nadu,Heritage,4.3,Relaxation,Summer,Group
+Medium,18-25,Delhi,Delhi,Heritage,4.3,Relaxation,Summer,Solo
+Medium,18-25,Varanasi,Uttar Pradesh,Adventure,4.8,Relaxation,Winter,Solo
+Medium,26-35,Kolkata,West Bengal,Beach,4.7,Relaxation,Summer,Solo
+High,26-35,Bangalore,Karnataka,Beach,1.8,Relaxation,Summer,Solo
+High,18-25,Agra,Uttar Pradesh,Adventure,4.4,Sightseeing,Monsoon,Friends
+Low,18-25,Mussoorie,Uttarakhand,Hill Station,3.1,Wildlife,Spring,Family
+High,50+,Ooty,Tamil Nadu,Hill Station,4.5,Pilgrimage,Spring,Family
+Low,18-25,Jaipur,Rajasthan,Hill Station,1.8,Sightseeing,Monsoon,Friends
+Medium,36-50,Manali,Himachal Pradesh,Heritage,4.4,Trekking,Monsoon,Couple
+Low,26-35,Mumbai,Maharashtra,Beach,2.1,Wildlife,Monsoon,Group
+High,50+,Jaipur,Rajasthan,Hill Station,2.7,Wildlife,Summer,Family
+High,18-25,Sikkim,Sikkim,Adventure,1.6,Sightseeing,Monsoon,Family
+High,18-25,Varanasi,Uttar Pradesh,Adventure,1.9,Relaxation,Monsoon,Friends
+Low,26-35,Bangalore,Karnataka,Spiritual,3.1,Water Sports,Autumn,Couple
+High,18-25,Mussoorie,Uttarakhand,Adventure,4.4,Water Sports,Monsoon,Friends
+High,36-50,Mumbai,Maharashtra,Spiritual,4.2,Relaxation,Autumn,Family
+Medium,36-50,Darjeeling,West Bengal,Adventure,2.3,Pilgrimage,Autumn,Couple
+Low,,Kerala,Kerala,Heritage,2.0,Relaxation,Spring,Couple
+High,50+,Andaman,Andaman & Nicobar,Beach,2.9,Water Sports,Spring,Solo
+Low,36-50,Darjeeling,West Bengal,Spiritual,4.6,Pilgrimage,Winter,Solo
+High,18-25,Kolkata,West Bengal,Adventure,1.8,Wildlife,Summer,Friends
+High,26-35,Agra,Uttar Pradesh,Spiritual,3.4,Sightseeing,Monsoon,Group
+High,50+,Kolkata,West Bengal,Spiritual,1.8,Sightseeing,Winter,Friends
+,50+,Manali,Himachal Pradesh,Heritage,3.1,Trekking,Winter,Solo
+Low,50+,Goa,Goa,Adventure,1.9,Water Sports,Autumn,Couple
+Medium,18-25,Chennai,Tamil Nadu,Beach,1.8,Sightseeing,Autumn,Group
+High,50+,Hyderabad,Telangana,Adventure,2.2,Pilgrimage,Monsoon,Friends
+High,,Kolkata,West Bengal,Urban,2.4,Trekking,Autumn,Friends
+Medium,36-50,Udaipur,Rajasthan,Hill Station,2.5,Relaxation,Monsoon,Friends
+Low,36-50,Rishikesh,Uttarakhand,Urban,3.8,Pilgrimage,Monsoon,Family
+Medium,18-25,Kerala,Kerala,Urban,1.7,Water Sports,Autumn,Solo
+Low,18-25,Agra,Uttar Pradesh,Urban,1.8,Sightseeing,Monsoon,Family
+High,36-50,Darjeeling,West Bengal,Hill Station,2.2,Pilgrimage,Autumn,Couple
+Low,26-35,Agra,Uttar Pradesh,Urban,4.6,Trekking,Monsoon,Couple
+Medium,50+,Ooty,Tamil Nadu,Spiritual,3.7,Pilgrimage,Spring,Family
+Low,36-50,Rishikesh,Uttarakhand,Beach,4.1,Pilgrimage,Winter,Group
+Medium,50+,Rishikesh,Uttarakhand,Urban,2.8,Wildlife,Summer,Solo
+High,50+,Jaipur,Rajasthan,Beach,2.2,Water Sports,Monsoon,Solo
+Medium,50+,Andaman,Andaman & Nicobar,Beach,1.6,Relaxation,Monsoon,Solo
+Medium,36-50,Darjeeling,West Bengal,Beach,3.2,Water Sports,Monsoon,Family
+Low,50+,Mumbai,Maharashtra,Beach,3.5,Pilgrimage,Monsoon,Solo
+High,,Ooty,Tamil Nadu,Adventure,4.6,Relaxation,Monsoon,Couple
+Low,18-25,Bangalore,Karnataka,Heritage,4.6,Trekking,Summer,Couple
+Low,18-25,Varanasi,Uttar Pradesh,Urban,3.0,Pilgrimage,Winter,Friends
+High,50+,Bangalore,Karnataka,Spiritual,3.0,Water Sports,Autumn,Group
+High,18-25,Bangalore,Karnataka,Hill Station,2.1,Pilgrimage,Winter,Solo
+Low,26-35,Shimla,Himachal Pradesh,Spiritual,2.4,Trekking,Autumn,Family
+Medium,26-35,Goa,Goa,Beach,4.7,Pilgrimage,Monsoon,Couple
+Medium,50+,Kolkata,West Bengal,Urban,2.0,Trekking,Spring,Friends
+High,26-35,Mussoorie,Uttarakhand,Spiritual,4.9,Water Sports,Winter,Group
+High,26-35,Agra,Uttar Pradesh,Spiritual,3.3,Trekking,Summer,Solo
+High,18-25,Bangalore,Karnataka,Spiritual,3.1,Relaxation,Autumn,Friends
+Low,18-25,Sikkim,Sikkim,Beach,2.1,Pilgrimage,Spring,Family
+Medium,18-25,Kolkata,West Bengal,Hill Station,3.8,Wildlife,Monsoon,Friends
+High,18-25,Chennai,Tamil Nadu,Heritage,3.1,Trekking,Spring,Friends
+High,50+,Manali,Himachal Pradesh,Urban,2.8,Pilgrimage,Autumn,Friends
+Medium,50+,Kolkata,West Bengal,Beach,2.4,Trekking,Autumn,Family
+Medium,36-50,Rishikesh,Uttarakhand,Adventure,1.7,Sightseeing,Spring,Friends
+High,50+,Mussoorie,Uttarakhand,Adventure,2.2,Relaxation,Spring,Couple
+High,18-25,Shimla,Himachal Pradesh,Beach,4.0,Relaxation,Summer,Couple
+Low,36-50,Varanasi,Uttar Pradesh,Beach,4.0,Pilgrimage,Autumn,Friends
+Low,26-35,Hyderabad,Telangana,Urban,2.7,Sightseeing,Autumn,Friends
+Medium,50+,Shimla,Himachal Pradesh,Spiritual,3.8,Pilgrimage,Summer,Friends
+Low,18-25,Hyderabad,Telangana,Hill Station,2.4,Trekking,Spring,Group
+Low,36-50,Manali,Himachal Pradesh,Beach,4.0,Trekking,Autumn,Couple
+Medium,26-35,Manali,Himachal Pradesh,Adventure,1.6,Wildlife,Winter,Solo
+High,18-25,Varanasi,Uttar Pradesh,Adventure,2.0,Relaxation,Monsoon,Family
+High,18-25,Manali,Himachal Pradesh,Spiritual,2.4,Water Sports,Autumn,Couple
+Medium,36-50,Goa,Goa,Spiritual,4.2,Sightseeing,Summer,Couple
+Medium,18-25,Chennai,Tamil Nadu,Heritage,1.7,Water Sports,Spring,Couple
+High,18-25,Rishikesh,Uttarakhand,Heritage,2.2,Pilgrimage,Winter,Family
+Medium,18-25,Ooty,Tamil Nadu,Spiritual,2.8,Relaxation,Summer,Solo
+High,18-25,Ooty,Tamil Nadu,Spiritual,1.5,Trekking,Monsoon,Solo
+High,26-35,Mumbai,Maharashtra,Hill Station,4.2,Wildlife,Spring,Group
+Medium,18-25,Mumbai,Maharashtra,Adventure,3.5,Water Sports,Winter,Friends
+High,36-50,Goa,Goa,Beach,4.7,Wildlife,Spring,Family
+Medium,50+,Mysore,Karnataka,Beach,1.6,Relaxation,Spring,Solo
+Medium,36-50,Kolkata,West Bengal,Hill Station,2.4,Relaxation,Spring,Group
+Low,26-35,Jaipur,Rajasthan,Hill Station,4.1,Pilgrimage,Spring,Family
+High,18-25,Manali,Himachal Pradesh,Hill Station,3.9,Water Sports,Autumn,Group
+Medium,26-35,Hyderabad,Telangana,Beach,2.4,Pilgrimage,Spring,Friends
+Medium,36-50,Sikkim,Sikkim,Heritage,3.6,Relaxation,Autumn,Friends
+Medium,50+,Varanasi,Uttar Pradesh,Urban,4.3,Relaxation,Summer,Solo
+High,26-35,Bangalore,Karnataka,Hill Station,1.6,Trekking,Winter,Group
+High,26-35,Udaipur,Rajasthan,Urban,4.0,Water Sports,Monsoon,Group
+High,36-50,Agra,Uttar Pradesh,Adventure,2.4,Water Sports,Monsoon,Couple
+High,26-35,Sikkim,Sikkim,Hill Station,4.8,Wildlife,Winter,Family
+Medium,50+,Mysore,Karnataka,Adventure,3.4,Pilgrimage,Summer,Family
+Low,36-50,Hyderabad,Telangana,Heritage,1.6,Sightseeing,Summer,Family
+Low,18-25,Kerala,Kerala,Hill Station,2.9,Pilgrimage,Winter,Group
+Medium,36-50,Shimla,Himachal Pradesh,Spiritual,4.9,Sightseeing,Winter,Solo
+Medium,36-50,Mussoorie,Uttarakhand,Hill Station,4.1,Relaxation,Spring,Friends
+High,26-35,Hyderabad,Telangana,Hill Station,2.6,Trekking,Autumn,Friends
+High,50+,Goa,Goa,Spiritual,3.5,Trekking,Monsoon,Family
+High,50+,Leh,Ladakh,Urban,3.6,Trekking,Spring,Couple
+Low,50+,Andaman,Andaman & Nicobar,Spiritual,1.6,Pilgrimage,Spring,Family
+Low,18-25,Mysore,Karnataka,Beach,2.1,Water Sports,Winter,Family
+High,18-25,Goa,Goa,Adventure,3.4,Water Sports,Autumn,Couple
+Low,18-25,Sikkim,Sikkim,Spiritual,2.9,Trekking,Winter,Couple
+High,26-35,Shimla,Himachal Pradesh,Heritage,2.2,Pilgrimage,Autumn,Friends
+Low,50+,Ooty,Tamil Nadu,Hill Station,4.2,Sightseeing,Autumn,Friends
+Medium,50+,Agra,Uttar Pradesh,Hill Station,3.2,Trekking,Summer,Solo
+Low,36-50,Hyderabad,Telangana,Adventure,2.6,Sightseeing,Winter,Friends
+High,50+,Manali,Himachal Pradesh,Spiritual,2.1,Trekking,Monsoon,Couple
+Medium,18-25,Hyderabad,Telangana,Adventure,3.6,Pilgrimage,Spring,Friends
+High,26-35,Darjeeling,West Bengal,Urban,3.8,Water Sports,Winter,Family
+Medium,26-35,Agra,Uttar Pradesh,Spiritual,3.8,Wildlife,Winter,Family
+Medium,50+,Shimla,Himachal Pradesh,Adventure,2.3,Sightseeing,Winter,Group
+Low,36-50,Agra,Uttar Pradesh,Adventure,3.6,Wildlife,Monsoon,Couple
+High,36-50,Varanasi,Uttar Pradesh,Urban,4.7,Sightseeing,Winter,Solo
+Low,36-50,Delhi,Delhi,Hill Station,2.7,Water Sports,Monsoon,Group
+Medium,36-50,Hyderabad,Telangana,Heritage,2.2,Trekking,Winter,Solo
+Low,26-35,Delhi,Delhi,Beach,4.2,Water Sports,Winter,Family
+Medium,18-25,Mysore,Karnataka,Adventure,2.1,Relaxation,Autumn,Family
+Medium,18-25,Manali,Himachal Pradesh,Heritage,2.4,Relaxation,Summer,Group
+Medium,50+,Sikkim,Sikkim,Hill Station,1.9,Relaxation,Summer,Couple
+Low,50+,Kolkata,West Bengal,Heritage,2.4,Water Sports,Monsoon,Couple
+Low,36-50,Manali,Himachal Pradesh,Beach,2.9,Wildlife,Monsoon,Group
+High,18-25,Sikkim,Sikkim,Beach,1.7,Sightseeing,Autumn,Group
+Low,18-25,Mysore,Karnataka,Hill Station,4.6,Water Sports,Winter,Group
+Low,36-50,Ooty,Tamil Nadu,Heritage,3.3,Relaxation,Winter,Solo
+High,50+,Kolkata,West Bengal,Beach,3.6,Wildlife,Monsoon,Group
+Medium,26-35,Andaman,Andaman & Nicobar,Heritage,2.8,Trekking,Summer,Friends
+High,26-35,Bangalore,Karnataka,Urban,3.8,Sightseeing,Summer,Family
+Medium,26-35,Mysore,Karnataka,Spiritual,3.0,Relaxation,Summer,Group
+High,50+,Ooty,Tamil Nadu,Spiritual,4.2,Relaxation,Winter,Group
+Low,50+,Manali,Himachal Pradesh,Hill Station,4.4,Relaxation,Winter,Couple
+Low,36-50,Agra,Uttar Pradesh,Adventure,3.9,Water Sports,Spring,Solo
+Low,50+,Mumbai,Maharashtra,Hill Station,3.2,Pilgrimage,Winter,Solo
+High,36-50,Goa,Goa,Urban,4.2,Wildlife,Winter,Solo
+Low,36-50,Mussoorie,Uttarakhand,Urban,3.2,Trekking,Summer,Friends
+High,18-25,Chennai,Tamil Nadu,Beach,1.9,Trekking,Monsoon,Group
+Low,18-25,Delhi,Delhi,Heritage,1.9,Water Sports,Winter,Family
+Low,50+,Sikkim,Sikkim,Heritage,4.8,Wildlife,Autumn,Group
+High,50+,Sikkim,Sikkim,Heritage,2.2,Pilgrimage,Summer,Family
+Medium,36-50,Delhi,Delhi,Heritage,4.4,Trekking,Spring,Couple
+Low,50+,Rishikesh,Uttarakhand,Beach,2.4,Water Sports,Summer,Family
+Low,18-25,Hyderabad,Telangana,Heritage,3.0,Wildlife,Winter,Friends
+Medium,18-25,Mumbai,Maharashtra,Adventure,3.8,Water Sports,Autumn,Solo
+Medium,50+,Varanasi,Uttar Pradesh,Adventure,2.1,Trekking,Monsoon,Couple
+Medium,18-25,Rishikesh,Uttarakhand,Hill Station,4.1,Trekking,Spring,Solo
+Medium,26-35,Kolkata,West Bengal,Heritage,3.9,Relaxation,Summer,Solo
+Low,18-25,Hyderabad,Telangana,Urban,3.4,Pilgrimage,Autumn,Family
+High,36-50,Rishikesh,Uttarakhand,Spiritual,3.5,Trekking,Spring,Solo
+Low,50+,Shimla,Himachal Pradesh,Beach,1.9,Sightseeing,Summer,Solo
+Low,36-50,Sikkim,Sikkim,Heritage,3.0,Pilgrimage,Autumn,Friends
+Medium,18-25,Jaipur,Rajasthan,Heritage,1.8,Sightseeing,Summer,Friends
+Low,18-25,Kerala,Kerala,Spiritual,2.6,Relaxation,Spring,Friends
+High,50+,Agra,Uttar Pradesh,Adventure,4.7,Relaxation,Summer,Friends
+Medium,50+,Manali,Himachal Pradesh,Hill Station,3.5,Relaxation,Monsoon,Friends
+Low,,Agra,Uttar Pradesh,Beach,4.1,Wildlife,Winter,Couple
+Medium,50+,Mysore,Karnataka,Beach,3.5,Trekking,Spring,Family
+Low,36-50,Leh,Ladakh,Urban,2.2,Trekking,Summer,Group
+Medium,36-50,Rishikesh,Uttarakhand,Spiritual,3.6,Relaxation,Monsoon,Group
+Low,36-50,Chennai,Tamil Nadu,Spiritual,4.1,Trekking,Summer,Couple
+High,18-25,Kerala,Kerala,Spiritual,2.0,Water Sports,Spring,Solo
+Low,,Goa,Goa,Urban,4.4,Trekking,Summer,Group
+Low,26-35,Goa,Goa,Hill Station,3.4,Sightseeing,Spring,Family
+High,26-35,Sikkim,Sikkim,Hill Station,1.5,Water Sports,Winter,Couple
+Low,50+,Agra,Uttar Pradesh,Urban,3.3,Relaxation,Spring,Solo
+High,26-35,Udaipur,Rajasthan,Adventure,2.9,Sightseeing,Summer,Family
+Low,36-50,Sikkim,Sikkim,Beach,2.5,Sightseeing,Winter,Couple
+High,50+,Sikkim,Sikkim,Adventure,4.2,Trekking,Summer,Family
+Medium,26-35,Ooty,Tamil Nadu,Hill Station,4.6,Wildlife,Monsoon,Couple
+High,18-25,Goa,Goa,Beach,4.2,Sightseeing,Spring,Couple
+Low,50+,Chennai,Tamil Nadu,Adventure,4.5,Wildlife,Summer,Friends
+Medium,50+,Mumbai,Maharashtra,Urban,4.7,Wildlife,Summer,Friends
+High,26-35,Chennai,Tamil Nadu,Urban,4.7,Sightseeing,Winter,Family
+Medium,36-50,Kerala,Kerala,Urban,1.9,Wildlife,Autumn,Solo
+High,26-35,Mysore,Karnataka,Urban,3.1,Pilgrimage,Spring,Couple
+High,26-35,Delhi,Delhi,Adventure,1.5,Wildlife,Winter,Group
+Medium,18-25,Ooty,Tamil Nadu,Urban,3.3,Water Sports,Autumn,Family
+High,18-25,Manali,Himachal Pradesh,Adventure,4.7,Sightseeing,Autumn,Solo
+Low,18-25,Jaipur,Rajasthan,Beach,2.2,Relaxation,Spring,Group
+High,26-35,Goa,Goa,Beach,3.7,Pilgrimage,Summer,Couple
+High,18-25,Goa,Goa,Beach,3.8,Sightseeing,Summer,Group
+Low,18-25,Mumbai,Maharashtra,Spiritual,2.1,Relaxation,Summer,Friends
+Medium,,Shimla,Himachal Pradesh,Spiritual,2.3,Relaxation,Spring,Family
+High,18-25,Mysore,Karnataka,Beach,3.1,Wildlife,Spring,Solo
+Medium,50+,Mussoorie,Uttarakhand,Urban,2.2,Relaxation,Winter,Family
+Low,18-25,Mussoorie,Uttarakhand,Adventure,3.5,Trekking,Winter,Group
+Medium,36-50,Mumbai,Maharashtra,Beach,3.2,Trekking,Summer,Friends
+Low,26-35,Delhi,Delhi,Hill Station,3.3,Relaxation,Monsoon,Couple
+Low,36-50,Varanasi,Uttar Pradesh,Hill Station,2.0,Relaxation,Summer,Friends
+High,18-25,Agra,Uttar Pradesh,Beach,3.3,Trekking,Winter,Solo
+Low,36-50,Andaman,Andaman & Nicobar,Beach,1.7,Water Sports,Winter,Family
+Medium,26-35,Mysore,Karnataka,Adventure,4.6,Water Sports,Autumn,Friends
+Medium,50+,Mussoorie,Uttarakhand,Beach,2.7,Pilgrimage,Monsoon,Group
+Low,36-50,Darjeeling,West Bengal,Heritage,4.5,Wildlife,Autumn,Group
+Medium,36-50,Mysore,Karnataka,Urban,4.0,Sightseeing,Summer,Couple
+Medium,18-25,Leh,Ladakh,Hill Station,4.2,Sightseeing,Autumn,Friends
+Low,26-35,Hyderabad,Telangana,Spiritual,2.6,Trekking,Monsoon,Family
+Medium,36-50,Chennai,Tamil Nadu,Beach,2.3,Pilgrimage,Winter,Group
+Medium,18-25,Kerala,Kerala,Spiritual,2.9,Trekking,Monsoon,Friends
+High,36-50,Rishikesh,Uttarakhand,Beach,1.6,Wildlife,Spring,Couple
+Medium,18-25,Sikkim,Sikkim,Beach,4.7,Pilgrimage,Autumn,Family
+Medium,,Agra,Uttar Pradesh,Hill Station,2.9,Wildlife,Autumn,Friends
+Low,26-35,Chennai,Tamil Nadu,Hill Station,5.0,Water Sports,Autumn,Solo
+High,26-35,Manali,Himachal Pradesh,Hill Station,4.2,Trekking,Autumn,Friends
+Low,36-50,Manali,Himachal Pradesh,Hill Station,1.8,Relaxation,Winter,Couple
+High,18-25,Bangalore,Karnataka,Urban,3.8,Wildlife,Winter,Couple
+Medium,50+,Sikkim,Sikkim,Hill Station,2.4,Sightseeing,Monsoon,Group
+Low,50+,Chennai,Tamil Nadu,Spiritual,2.4,Water Sports,Summer,Solo
+Low,36-50,Goa,Goa,Spiritual,2.4,Wildlife,Winter,Group
+High,36-50,Shimla,Himachal Pradesh,Beach,4.7,Trekking,Summer,Group
+Medium,50+,Varanasi,Uttar Pradesh,Beach,3.2,Sightseeing,Autumn,Group
+High,50+,Udaipur,Rajasthan,Beach,3.8,Trekking,Spring,Couple
+Low,50+,Shimla,Himachal Pradesh,Hill Station,2.5,Sightseeing,Monsoon,Friends
+High,36-50,Chennai,Tamil Nadu,Spiritual,3.3,Trekking,Autumn,Couple
+High,26-35,Mumbai,Maharashtra,Adventure,2.7,Water Sports,Autumn,Friends
+Low,18-25,Mysore,Karnataka,Hill Station,2.6,Trekking,Monsoon,Couple
+High,36-50,Andaman,Andaman & Nicobar,Beach,2.4,Trekking,Winter,Friends
+Medium,50+,Mysore,Karnataka,Urban,2.9,Trekking,Winter,Family
+Medium,18-25,Delhi,Delhi,Heritage,3.8,Sightseeing,Spring,Couple
+Low,26-35,Leh,Ladakh,Adventure,2.3,Wildlife,Spring,Group
+Medium,50+,Kerala,Kerala,Beach,4.9,Pilgrimage,Monsoon,Couple
+Low,26-35,Shimla,Himachal Pradesh,Beach,1.9,Sightseeing,Monsoon,Couple
+Low,18-25,Rishikesh,Uttarakhand,Beach,3.2,Relaxation,Winter,Couple
+Low,36-50,Varanasi,Uttar Pradesh,Heritage,1.8,Pilgrimage,Autumn,Friends
+Low,18-25,Rishikesh,Uttarakhand,Spiritual,1.6,Wildlife,Monsoon,Solo
+Low,36-50,Manali,Himachal Pradesh,Heritage,4.7,Water Sports,Winter,Group
+High,36-50,Mussoorie,Uttarakhand,Heritage,4.3,Relaxation,Winter,Family
+Low,18-25,Bangalore,Karnataka,Heritage,3.9,Sightseeing,Monsoon,Friends
+Medium,36-50,Varanasi,Uttar Pradesh,Urban,4.5,Pilgrimage,Autumn,Group
+High,50+,Delhi,Delhi,Spiritual,4.3,Wildlife,Spring,Solo
+High,26-35,Delhi,Delhi,Urban,3.8,Sightseeing,Autumn,Solo
+Low,26-35,Agra,Uttar Pradesh,Urban,4.5,Wildlife,Summer,Friends
+Low,18-25,Ooty,Tamil Nadu,Adventure,2.9,Water Sports,Autumn,Group
+Medium,36-50,Delhi,Delhi,Hill Station,3.4,Wildlife,Autumn,Family
+High,26-35,Agra,Uttar Pradesh,Heritage,4.2,Water Sports,Monsoon,Friends
+Low,26-35,Delhi,Delhi,Urban,1.8,Wildlife,Winter,Family
+Medium,36-50,Mussoorie,Uttarakhand,Urban,4.5,Sightseeing,Monsoon,Solo
+Medium,26-35,Manali,Himachal Pradesh,Spiritual,2.0,Sightseeing,Summer,Solo
+Medium,50+,Leh,Ladakh,Spiritual,4.5,Trekking,Autumn,Solo
+Low,26-35,Chennai,Tamil Nadu,Adventure,2.6,Water Sports,Winter,Friends
+High,50+,Manali,Himachal Pradesh,Hill Station,2.6,Pilgrimage,Spring,Family
+High,36-50,Jaipur,Rajasthan,Beach,1.8,Trekking,Monsoon,Solo
+Low,50+,Hyderabad,Telangana,Urban,4.6,Pilgrimage,Spring,Group
+Low,26-35,Kolkata,West Bengal,Adventure,2.1,Water Sports,Summer,Family
+Low,26-35,Darjeeling,West Bengal,Urban,3.7,Trekking,Summer,Couple
+Medium,26-35,Andaman,Andaman & Nicobar,Urban,3.8,Sightseeing,Winter,Family
+Low,26-35,Bangalore,Karnataka,Spiritual,2.5,Water Sports,Winter,Solo
+Medium,36-50,Varanasi,Uttar Pradesh,Beach,4.9,Relaxation,Autumn,Family
+High,18-25,Shimla,Himachal Pradesh,Urban,1.7,Wildlife,Autumn,Solo
+Low,18-25,Manali,Himachal Pradesh,Beach,3.6,Relaxation,Summer,Solo
+Low,26-35,Mussoorie,Uttarakhand,Beach,3.2,Water Sports,Summer,Solo
+Medium,36-50,Delhi,Delhi,Adventure,2.4,Trekking,Winter,Couple
+High,18-25,Mysore,Karnataka,Adventure,2.1,Sightseeing,Autumn,Family
+Low,26-35,Leh,Ladakh,Beach,4.1,Water Sports,Spring,Couple
+High,18-25,Shimla,Himachal Pradesh,Beach,4.7,Wildlife,Monsoon,Couple
+Medium,26-35,Kolkata,West Bengal,Hill Station,1.9,Trekking,Winter,Solo
+Low,26-35,Delhi,Delhi,Heritage,2.2,Relaxation,Monsoon,Couple
+Medium,26-35,Bangalore,Karnataka,Hill Station,5.0,Water Sports,Summer,Solo
+Medium,26-35,Goa,Goa,Spiritual,1.6,Pilgrimage,Monsoon,Group
+Low,36-50,Delhi,Delhi,Spiritual,3.3,Trekking,Monsoon,Group
+High,36-50,Hyderabad,Telangana,Adventure,3.3,Wildlife,Autumn,Couple
+Low,26-35,Manali,Himachal Pradesh,Heritage,2.4,Sightseeing,Summer,Friends
+High,26-35,Varanasi,Uttar Pradesh,Adventure,3.8,Relaxation,Monsoon,Friends
+Medium,36-50,Shimla,Himachal Pradesh,Adventure,4.8,Water Sports,Spring,Solo
+Low,36-50,Manali,Himachal Pradesh,Adventure,3.1,Relaxation,Summer,Group
+High,26-35,Udaipur,Rajasthan,Hill Station,4.1,Water Sports,Spring,Solo
+Low,50+,Agra,Uttar Pradesh,Beach,3.8,Water Sports,Monsoon,Family
+Low,50+,Shimla,Himachal Pradesh,Urban,3.2,Sightseeing,Autumn,Friends
+Medium,18-25,Leh,Ladakh,Adventure,1.7,Trekking,Autumn,Group
+Medium,50+,Udaipur,Rajasthan,Heritage,4.1,Water Sports,Monsoon,Family
+Low,36-50,Ooty,Tamil Nadu,Heritage,2.8,Trekking,Summer,Friends
+Low,26-35,Shimla,Himachal Pradesh,Hill Station,2.3,Relaxation,Monsoon,Solo
+High,26-35,Mysore,Karnataka,Beach,4.8,Relaxation,Autumn,Family
+High,50+,Manali,Himachal Pradesh,Urban,4.2,Relaxation,Summer,Friends
+Medium,50+,Leh,Ladakh,Spiritual,4.9,Sightseeing,Summer,Solo
+High,26-35,Mysore,Karnataka,Hill Station,2.4,Trekking,Autumn,Group
+High,18-25,Leh,Ladakh,Beach,4.4,Relaxation,Winter,Family
+High,18-25,Kerala,Kerala,Heritage,3.6,Pilgrimage,Monsoon,Family
+Low,50+,Kolkata,West Bengal,Hill Station,4.9,Wildlife,Monsoon,Solo
+Low,26-35,Hyderabad,Telangana,Hill Station,4.8,Water Sports,Autumn,Couple
+Medium,50+,Chennai,Tamil Nadu,Spiritual,4.9,Sightseeing,Summer,Couple
+Low,36-50,Delhi,Delhi,Urban,4.8,Wildlife,Autumn,Solo
+Medium,36-50,Chennai,Tamil Nadu,Spiritual,1.5,Wildlife,Summer,Couple
+Medium,26-35,Agra,Uttar Pradesh,Spiritual,4.1,Trekking,Summer,Friends
+Low,18-25,Darjeeling,West Bengal,Heritage,2.5,Wildlife,Autumn,Friends
+Medium,18-25,Rishikesh,Uttarakhand,Adventure,4.0,Trekking,Winter,Friends
+Medium,18-25,Manali,Himachal Pradesh,Heritage,4.9,Wildlife,Winter,Solo
+High,18-25,Mussoorie,Uttarakhand,Urban,1.6,Wildlife,Winter,Group
+Low,50+,Andaman,Andaman & Nicobar,Hill Station,3.5,Pilgrimage,Autumn,Family
+High,50+,Udaipur,Rajasthan,Adventure,4.1,Trekking,Winter,Solo
+,50+,Hyderabad,Telangana,Spiritual,2.4,Sightseeing,Winter,Group
+Medium,50+,Darjeeling,West Bengal,Heritage,2.3,Pilgrimage,Monsoon,Group
+Low,36-50,Mussoorie,Uttarakhand,Heritage,1.7,Trekking,Spring,Couple
+Medium,26-35,Andaman,Andaman & Nicobar,Hill Station,1.8,Sightseeing,Monsoon,Solo
+Medium,50+,Kerala,Kerala,Spiritual,3.8,Relaxation,Monsoon,Solo
+High,50+,Goa,Goa,Adventure,3.3,Trekking,Monsoon,Solo
+Medium,18-25,Shimla,Himachal Pradesh,Heritage,1.6,Pilgrimage,Spring,Family
+Medium,36-50,Hyderabad,Telangana,Beach,4.9,Trekking,Monsoon,Solo
+High,36-50,Shimla,Himachal Pradesh,Hill Station,3.8,Relaxation,Autumn,Family
+High,18-25,Kerala,Kerala,Heritage,3.3,Pilgrimage,Winter,Couple
+High,26-35,Udaipur,Rajasthan,Heritage,2.5,Wildlife,Monsoon,Solo
+Low,36-50,Darjeeling,West Bengal,Spiritual,3.8,Pilgrimage,Spring,Couple
+High,18-25,Hyderabad,Telangana,Hill Station,2.8,Sightseeing,Winter,Friends
+Medium,26-35,Mumbai,Maharashtra,Hill Station,4.0,Relaxation,Winter,Group
+Low,18-25,Manali,Himachal Pradesh,Hill Station,3.9,Pilgrimage,Winter,Couple
+Low,50+,Leh,Ladakh,Adventure,1.8,Relaxation,Spring,Couple
+Low,36-50,Shimla,Himachal Pradesh,Spiritual,4.7,Pilgrimage,Spring,Couple
+Medium,26-35,Kolkata,West Bengal,Urban,3.2,Sightseeing,Autumn,Group
+Low,26-35,Darjeeling,West Bengal,Hill Station,2.9,Trekking,Spring,Family
+Medium,26-35,Udaipur,Rajasthan,Urban,4.8,Sightseeing,Spring,Friends
+High,18-25,Chennai,Tamil Nadu,Urban,3.0,Trekking,Spring,Group
+High,26-35,Andaman,Andaman & Nicobar,Heritage,4.0,Trekking,Spring,Solo
+Medium,36-50,Sikkim,Sikkim,Heritage,3.8,Wildlife,Winter,Couple
+Low,50+,Shimla,Himachal Pradesh,Adventure,2.1,Sightseeing,Winter,Solo
+High,18-25,Goa,Goa,Hill Station,5.0,Wildlife,Summer,Solo
+Low,18-25,Agra,Uttar Pradesh,Beach,3.1,Pilgrimage,Autumn,Couple
+High,18-25,Goa,Goa,Spiritual,2.9,Relaxation,Monsoon,Couple
+High,50+,Andaman,Andaman & Nicobar,Heritage,4.7,Sightseeing,Monsoon,Friends
+Low,50+,Chennai,Tamil Nadu,Heritage,3.4,Water Sports,Autumn,Couple
+High,50+,Mysore,Karnataka,Beach,5.9,Water Sports,Winter,Family
+Low,18-25,Darjeeling,West Bengal,Adventure,2.3,Water Sports,Autumn,Solo
+Medium,36-50,Manali,Himachal Pradesh,Hill Station,2.1,Water Sports,Monsoon,Couple
+Medium,26-35,Delhi,Delhi,Urban,1.7,Relaxation,Autumn,Family
+Low,36-50,Kolkata,West Bengal,Heritage,4.6,Relaxation,Spring,Couple
+Low,18-25,Kolkata,West Bengal,Urban,2.2,Pilgrimage,Winter,Family
+Medium,36-50,Jaipur,Rajasthan,Hill Station,2.6,Pilgrimage,Summer,Group
+High,50+,Mumbai,Maharashtra,Beach,2.5,Pilgrimage,Monsoon,Couple
+Medium,36-50,Mysore,Karnataka,Heritage,2.6,Water Sports,Monsoon,Family
+Low,36-50,Goa,Goa,Spiritual,3.8,Pilgrimage,Winter,Solo
+High,,Mysore,Karnataka,Beach,4.8,Water Sports,Winter,Couple
+Low,50+,Delhi,Delhi,Beach,2.7,Water Sports,Winter,Friends
+High,26-35,Ooty,Tamil Nadu,Adventure,2.9,Relaxation,Winter,Friends
+Medium,50+,Darjeeling,West Bengal,Hill Station,4.2,Wildlife,Autumn,Couple
+Low,26-35,Jaipur,Rajasthan,Heritage,3.0,Trekking,Spring,Family
+Low,50+,Hyderabad,Telangana,Hill Station,4.7,Relaxation,Autumn,Group
+Medium,36-50,Leh,Ladakh,Spiritual,3.3,Sightseeing,Autumn,Solo
+Low,36-50,Jaipur,Rajasthan,Hill Station,2.7,Trekking,Winter,Group
+High,26-35,Chennai,Tamil Nadu,Adventure,4.9,Pilgrimage,Spring,Family
+High,18-25,Hyderabad,Telangana,Beach,3.0,Pilgrimage,Monsoon,Friends
+Low,26-35,Bangalore,Karnataka,Urban,2.3,Wildlife,Spring,Couple
+Low,36-50,Rishikesh,Uttarakhand,Spiritual,2.1,Trekking,Autumn,Group
+High,18-25,Sikkim,Sikkim,Heritage,5.0,Water Sports,Spring,Couple
+Low,18-25,Andaman,Andaman & Nicobar,Hill Station,4.1,Water Sports,Summer,Group
+High,26-35,Shimla,Himachal Pradesh,Urban,2.9,Relaxation,Autumn,Solo
+Low,18-25,Rishikesh,Uttarakhand,Heritage,4.4,Relaxation,Winter,Group
+High,,Mysore,Karnataka,Hill Station,3.4,Water Sports,Autumn,Solo
+Low,26-35,Kerala,Kerala,Urban,2.6,Water Sports,Spring,Family
+Low,18-25,Hyderabad,Telangana,Adventure,4.1,Pilgrimage,Autumn,Friends
+Low,50+,Mysore,Karnataka,Beach,4.1,Sightseeing,Summer,Couple
+Low,50+,Mussoorie,Uttarakhand,Heritage,3.3,Sightseeing,Autumn,Group
+Medium,50+,Sikkim,Sikkim,Adventure,1.7,Pilgrimage,Autumn,Family
+Low,36-50,Agra,Uttar Pradesh,Adventure,1.8,Trekking,Summer,Group
+Low,36-50,Chennai,Tamil Nadu,Beach,4.3,Pilgrimage,Monsoon,Friends
+Low,50+,Andaman,Andaman & Nicobar,Adventure,4.4,Trekking,Spring,Couple
+Medium,26-35,Manali,Himachal Pradesh,Urban,3.9,Sightseeing,Monsoon,Solo
+Medium,50+,Mussoorie,Uttarakhand,Urban,4.4,Trekking,Autumn,Friends
+High,18-25,Andaman,Andaman & Nicobar,Beach,4.0,Trekking,Spring,Family
+Medium,26-35,Ooty,Tamil Nadu,Beach,4.6,Sightseeing,Monsoon,Group
+Medium,18-25,Manali,Himachal Pradesh,Beach,2.0,Pilgrimage,Monsoon,Couple
+Low,36-50,Shimla,Himachal Pradesh,Spiritual,2.9,Pilgrimage,Monsoon,Solo
+Low,26-35,Kerala,Kerala,Adventure,3.1,Water Sports,Monsoon,Solo
+Low,26-35,Manali,Himachal Pradesh,Hill Station,2.5,Trekking,Spring,Couple
+Low,18-25,Varanasi,Uttar Pradesh,Spiritual,4.0,Trekking,Summer,Solo
+Medium,18-25,Mussoorie,Uttarakhand,Beach,4.7,Wildlife,Summer,Couple
+Medium,,Bangalore,Karnataka,Urban,2.9,Relaxation,Summer,Group
+High,50+,Ooty,Tamil Nadu,Spiritual,4.8,Water Sports,Spring,Family
+High,50+,Agra,Uttar Pradesh,Hill Station,3.3,Sightseeing,Autumn,Family
+Low,26-35,Shimla,Himachal Pradesh,Urban,3.3,Wildlife,Winter,Friends
+Medium,50+,Bangalore,Karnataka,Beach,3.6,Trekking,Winter,Couple
+Low,36-50,Jaipur,Rajasthan,Adventure,2.4,Water Sports,Summer,Group
+Medium,36-50,Mussoorie,Uttarakhand,Heritage,2.8,Water Sports,Monsoon,Group
+Medium,18-25,Sikkim,Sikkim,Spiritual,3.4,Trekking,Summer,Group
+Medium,36-50,Shimla,Himachal Pradesh,Spiritual,4.8,Wildlife,Monsoon,Solo
+Low,18-25,Kerala,Kerala,Beach,3.7,Wildlife,Monsoon,Family
+High,50+,Andaman,Andaman & Nicobar,Heritage,2.7,Relaxation,Spring,Couple
+Low,36-50,Kolkata,West Bengal,Hill Station,1.5,Water Sports,Monsoon,Couple
+High,18-25,Andaman,Andaman & Nicobar,Beach,4.9,Sightseeing,Monsoon,Friends
+Medium,26-35,Mysore,Karnataka,Hill Station,3.2,Wildlife,Autumn,Family
+High,26-35,Varanasi,Uttar Pradesh,Urban,4.8,Trekking,Monsoon,Group
+Medium,26-35,Jaipur,Rajasthan,Beach,3.4,Pilgrimage,Monsoon,Couple
+High,36-50,Kolkata,West Bengal,Spiritual,3.6,Water Sports,Monsoon,Family
+High,36-50,Andaman,Andaman & Nicobar,Beach,4.0,Relaxation,Autumn,Solo
+Low,18-25,Bangalore,Karnataka,Spiritual,2.6,Trekking,Winter,Solo
+Medium,36-50,Kolkata,West Bengal,Spiritual,3.9,Relaxation,Spring,Solo
+Low,26-35,Ooty,Tamil Nadu,Adventure,3.3,Wildlife,Summer,Friends
+High,18-25,Delhi,Delhi,Hill Station,3.9,Wildlife,Winter,Solo
+High,50+,Hyderabad,Telangana,Spiritual,4.4,Wildlife,Spring,Group
+,26-35,Mussoorie,Uttarakhand,Beach,2.1,Sightseeing,Autumn,Solo
+Low,18-25,Mysore,Karnataka,Spiritual,3.6,Wildlife,Winter,Family
+High,18-25,Rishikesh,Uttarakhand,Spiritual,1.7,Sightseeing,Summer,Family
+High,26-35,Mysore,Karnataka,Beach,1.9,Trekking,Monsoon,Solo
+High,18-25,Agra,Uttar Pradesh,Beach,3.9,Sightseeing,Spring,Solo
+High,18-25,Darjeeling,West Bengal,Beach,1.7,Sightseeing,Summer,Family
+Medium,50+,Varanasi,Uttar Pradesh,Heritage,3.6,Sightseeing,Autumn,Group
+Medium,18-25,Udaipur,Rajasthan,Beach,2.3,Wildlife,Winter,Solo
+High,36-50,Hyderabad,Telangana,Adventure,2.6,Relaxation,Spring,Friends
+High,26-35,Kolkata,West Bengal,Heritage,2.0,Wildlife,Monsoon,Family
+High,26-35,Darjeeling,West Bengal,Adventure,2.4,Wildlife,Monsoon,Friends
+Medium,26-35,Delhi,Delhi,Hill Station,4.4,Sightseeing,Summer,Solo
+Low,26-35,Leh,Ladakh,Spiritual,3.7,Wildlife,Winter,Solo
+Low,36-50,Kolkata,West Bengal,Heritage,4.8,Trekking,Autumn,Group
+Low,26-35,Mumbai,Maharashtra,Spiritual,1.7,Pilgrimage,Monsoon,Solo
+Low,36-50,Jaipur,Rajasthan,Heritage,4.3,Water Sports,Monsoon,Family
+High,18-25,Rishikesh,Uttarakhand,Hill Station,3.9,Wildlife,Autumn,Group
+Medium,18-25,Leh,Ladakh,Hill Station,2.4,Wildlife,Winter,Group
+Low,26-35,Mussoorie,Uttarakhand,Spiritual,4.1,Water Sports,Spring,Solo
+Medium,26-35,Andaman,Andaman & Nicobar,Urban,4.0,Wildlife,Spring,Couple
+Medium,18-25,Udaipur,Rajasthan,Beach,3.1,Relaxation,Autumn,Friends
+High,18-25,Kerala,Kerala,Adventure,3.9,Relaxation,Monsoon,Couple
+Medium,26-35,Leh,Ladakh,Heritage,3.1,Water Sports,Winter,Group
+Low,50+,Varanasi,Uttar Pradesh,Adventure,2.7,Pilgrimage,Monsoon,Couple
+Medium,18-25,Mussoorie,Uttarakhand,Adventure,3.1,Sightseeing,Monsoon,Solo
+Low,36-50,Chennai,Tamil Nadu,Heritage,4.6,Wildlife,Winter,Group
+Low,26-35,Udaipur,Rajasthan,Hill Station,2.8,Wildlife,Monsoon,Family
+Medium,18-25,Udaipur,Rajasthan,Beach,2.9,Pilgrimage,Summer,Couple
+High,18-25,Manali,Himachal Pradesh,Urban,3.6,Water Sports,Summer,Friends
+High,50+,Kolkata,West Bengal,Hill Station,4.1,Wildlife,Winter,Couple
+High,26-35,Ooty,Tamil Nadu,Heritage,4.1,Wildlife,Spring,Family
+Medium,36-50,Agra,Uttar Pradesh,Urban,1.6,Relaxation,Winter,Friends
+Medium,50+,Varanasi,Uttar Pradesh,Spiritual,3.9,Trekking,Spring,Group
+Low,26-35,Sikkim,Sikkim,Hill Station,3.1,Relaxation,Monsoon,Friends
+Medium,26-35,Mysore,Karnataka,Heritage,3.3,Pilgrimage,Monsoon,Solo
+Medium,18-25,Rishikesh,Uttarakhand,Spiritual,3.5,Trekking,Autumn,Friends
+Medium,26-35,Agra,Uttar Pradesh,Heritage,4.1,Relaxation,Summer,Friends
+Medium,26-35,Mysore,Karnataka,Urban,4.4,Wildlife,Autumn,Couple
+Low,18-25,Varanasi,Uttar Pradesh,Urban,3.8,Pilgrimage,Winter,Group
+Medium,36-50,Hyderabad,Telangana,Beach,3.5,Wildlife,Winter,Group
+High,36-50,Rishikesh,Uttarakhand,Heritage,2.8,Sightseeing,Winter,Couple
+High,50+,Rishikesh,Uttarakhand,Heritage,2.0,Pilgrimage,Autumn,Friends
+Medium,18-25,Shimla,Himachal Pradesh,Urban,4.9,Sightseeing,Summer,Solo
+High,50+,Ooty,Tamil Nadu,Beach,3.1,Sightseeing,Spring,Family
+High,18-25,Shimla,Himachal Pradesh,Adventure,3.5,Sightseeing,Monsoon,Group
+High,50+,Varanasi,Uttar Pradesh,Spiritual,4.1,Relaxation,Summer,Friends
+Low,26-35,Bangalore,Karnataka,Urban,1.7,Wildlife,Monsoon,Solo
+Low,,Manali,Himachal Pradesh,Adventure,4.5,Trekking,Summer,Friends
+Medium,36-50,Hyderabad,Telangana,Urban,4.3,Pilgrimage,Winter,Friends
+,26-35,Ooty,Tamil Nadu,Hill Station,4.2,Wildlife,Autumn,Solo
+Medium,36-50,Sikkim,Sikkim,Beach,1.6,Water Sports,Winter,Group
+Low,36-50,Mumbai,Maharashtra,Heritage,3.3,Water Sports,Summer,Family
+High,50+,Darjeeling,West Bengal,Hill Station,1.7,Relaxation,Winter,Group
+High,18-25,Kolkata,West Bengal,Beach,3.4,Wildlife,Winter,Family
+Low,18-25,Darjeeling,West Bengal,Beach,4.0,Relaxation,Monsoon,Couple
+High,50+,Delhi,Delhi,Beach,1.9,Pilgrimage,Autumn,Group
+Medium,26-35,Mussoorie,Uttarakhand,Heritage,3.9,Pilgrimage,Spring,Group
+Low,36-50,Mussoorie,Uttarakhand,Adventure,3.1,Wildlife,Autumn,Couple
+High,26-35,Jaipur,Rajasthan,Hill Station,4.3,Wildlife,Monsoon,Solo
+High,18-25,Jaipur,Rajasthan,Beach,3.4,Trekking,Monsoon,Friends
+High,36-50,Kolkata,West Bengal,Spiritual,2.7,Sightseeing,Monsoon,Solo
+High,36-50,Sikkim,Sikkim,Heritage,2.7,Water Sports,Spring,Solo
+Low,36-50,Mysore,Karnataka,Adventure,4.6,Sightseeing,Monsoon,Friends
+Medium,36-50,Mussoorie,Uttarakhand,Spiritual,3.1,Pilgrimage,Spring,Couple
+High,18-25,Goa,Goa,Spiritual,2.9,Wildlife,Monsoon,Family
+High,36-50,Bangalore,Karnataka,Urban,1.6,Sightseeing,Monsoon,Family
+High,36-50,Shimla,Himachal Pradesh,Adventure,2.8,Sightseeing,Spring,Friends
+Low,26-35,Kolkata,West Bengal,Heritage,4.5,Sightseeing,Spring,Family
+High,26-35,Varanasi,Uttar Pradesh,Spiritual,4.2,Relaxation,Spring,Solo
+Low,50+,Agra,Uttar Pradesh,Beach,2.3,Wildlife,Monsoon,Group
+High,18-25,Shimla,Himachal Pradesh,Urban,2.9,Sightseeing,Monsoon,Solo
+Medium,50+,Chennai,Tamil Nadu,Beach,2.2,Trekking,Summer,Friends
+Medium,50+,Varanasi,Uttar Pradesh,Heritage,4.8,Relaxation,Autumn,Solo
+Low,26-35,Kolkata,West Bengal,Beach,3.6,Trekking,Monsoon,Couple
+Medium,18-25,Udaipur,Rajasthan,Spiritual,4.1,Pilgrimage,Winter,Couple
+Low,50+,Kerala,Kerala,Heritage,4.0,Water Sports,Monsoon,Friends
+Medium,26-35,Varanasi,Uttar Pradesh,Adventure,4.6,Wildlife,Autumn,Group
+Low,26-35,Agra,Uttar Pradesh,Heritage,4.8,Pilgrimage,Autumn,Friends
+Medium,50+,Mysore,Karnataka,Beach,1.6,Wildlife,Autumn,Group
+Medium,50+,Kerala,Kerala,Beach,4.9,Water Sports,Spring,Couple
+Medium,18-25,Mumbai,Maharashtra,Hill Station,4.5,Relaxation,Winter,Friends
+High,50+,Rishikesh,Uttarakhand,Adventure,2.8,Relaxation,Autumn,Solo
+High,26-35,Kolkata,West Bengal,Heritage,4.4,Trekking,Autumn,Friends
+Low,36-50,Shimla,Himachal Pradesh,Hill Station,4.1,Water Sports,Winter,Friends
+Medium,36-50,Mumbai,Maharashtra,Spiritual,4.3,Relaxation,Spring,Couple
+Low,50+,Mussoorie,Uttarakhand,Urban,2.3,Wildlife,Spring,Family
+High,18-25,Manali,Himachal Pradesh,Heritage,3.8,Wildlife,Autumn,Couple
+High,26-35,Hyderabad,Telangana,Adventure,1.6,Pilgrimage,Winter,Friends
+Medium,36-50,Ooty,Tamil Nadu,Hill Station,4.5,Water Sports,Spring,Couple
+Low,50+,Agra,Uttar Pradesh,Heritage,4.8,Pilgrimage,Autumn,Family
+Medium,50+,Hyderabad,Telangana,Beach,3.8,Pilgrimage,Monsoon,Solo
+Medium,26-35,Leh,Ladakh,Heritage,3.3,Relaxation,Winter,Solo
+High,50+,Mysore,Karnataka,Spiritual,4.0,Water Sports,Summer,Group
+Medium,,Goa,Goa,Heritage,2.6,Sightseeing,Summer,Group
+High,36-50,Jaipur,Rajasthan,Hill Station,3.7,Trekking,Autumn,Couple
+High,18-25,Varanasi,Uttar Pradesh,Urban,4.0,Sightseeing,Monsoon,Friends
+Medium,26-35,Sikkim,Sikkim,Adventure,2.0,Wildlife,Autumn,Family
+Medium,18-25,Delhi,Delhi,Hill Station,2.0,Water Sports,Spring,Group
+High,18-25,Leh,Ladakh,Adventure,4.0,Pilgrimage,Autumn,Family
+Low,50+,Sikkim,Sikkim,Beach,3.0,Pilgrimage,Autumn,Friends
+Low,50+,Agra,Uttar Pradesh,Hill Station,4.6,Water Sports,Summer,Solo
+Medium,36-50,Mumbai,Maharashtra,Spiritual,2.6,Wildlife,Winter,Friends
+High,36-50,Andaman,Andaman & Nicobar,Urban,1.6,Sightseeing,Summer,Couple
+High,50+,Sikkim,Sikkim,Hill Station,3.8,Water Sports,Monsoon,Solo
+,36-50,Mumbai,Maharashtra,Hill Station,3.9,Sightseeing,Autumn,Family
+High,36-50,Manali,Himachal Pradesh,Beach,3.4,Sightseeing,Spring,Family
+High,50+,Mysore,Karnataka,Hill Station,3.9,Pilgrimage,Summer,Friends
+High,50+,Ooty,Tamil Nadu,Adventure,3.3,Water Sports,Spring,Group
+Low,50+,Leh,Ladakh,Heritage,3.9,Sightseeing,Summer,Friends
+Medium,26-35,Andaman,Andaman & Nicobar,Urban,1.7,Relaxation,Monsoon,Group
+Low,50+,Delhi,Delhi,Spiritual,2.8,Trekking,Autumn,Family
+Low,18-25,Udaipur,Rajasthan,Hill Station,2.2,Trekking,Autumn,Group
+Medium,50+,Manali,Himachal Pradesh,Spiritual,1.8,Sightseeing,Autumn,Couple
+,50+,Agra,Uttar Pradesh,Adventure,2.3,Pilgrimage,Autumn,Family
+Medium,26-35,Leh,Ladakh,Hill Station,2.2,Relaxation,Autumn,Friends
+High,26-35,Leh,Ladakh,Spiritual,4.9,Pilgrimage,Spring,Friends
+Medium,50+,Mussoorie,Uttarakhand,Heritage,2.5,Water Sports,Monsoon,Group
+Medium,50+,Kerala,Kerala,Adventure,2.3,Wildlife,Monsoon,Group
+Medium,18-25,Mussoorie,Uttarakhand,Heritage,4.4,Pilgrimage,Monsoon,Family
+High,50+,Agra,Uttar Pradesh,Urban,3.0,Pilgrimage,Monsoon,Group
+Low,50+,Udaipur,Rajasthan,Beach,3.0,Relaxation,Summer,Group
+Medium,50+,Ooty,Tamil Nadu,Spiritual,3.1,Sightseeing,Monsoon,Friends
+Low,26-35,Sikkim,Sikkim,Adventure,3.0,Sightseeing,Summer,Group
+High,50+,Rishikesh,Uttarakhand,Adventure,2.6,Sightseeing,Spring,Couple
+Low,18-25,Kerala,Kerala,Urban,2.5,Pilgrimage,Summer,Family
+Medium,50+,Delhi,Delhi,Urban,4.6,Pilgrimage,Monsoon,Group
+Low,50+,Chennai,Tamil Nadu,Adventure,2.1,Trekking,Spring,Family
+Low,50+,Goa,Goa,Urban,2.1,Relaxation,Winter,Family
+High,36-50,Kolkata,West Bengal,Heritage,3.5,Water Sports,Summer,Family
+High,18-25,Manali,Himachal Pradesh,Adventure,2.7,Pilgrimage,Autumn,Couple
+Medium,26-35,Rishikesh,Uttarakhand,Hill Station,3.0,Pilgrimage,Spring,Group
+High,26-35,Jaipur,Rajasthan,Hill Station,4.3,Pilgrimage,Winter,Family
+Medium,36-50,Andaman,Andaman & Nicobar,Adventure,4.7,Trekking,Monsoon,Family
+Medium,36-50,Bangalore,Karnataka,Heritage,4.3,Relaxation,Winter,Group
+Low,50+,Mysore,Karnataka,Spiritual,2.3,Sightseeing,Monsoon,Group
+Medium,50+,Andaman,Andaman & Nicobar,Hill Station,4.9,Water Sports,Spring,Friends
+High,26-35,Manali,Himachal Pradesh,Beach,2.8,Sightseeing,Summer,Solo
+High,36-50,Udaipur,Rajasthan,Urban,2.1,Water Sports,Autumn,Group
+High,50+,Kolkata,West Bengal,Adventure,3.2,Wildlife,Winter,Solo
+High,26-35,Andaman,Andaman & Nicobar,Heritage,4.0,Trekking,Winter,Group
+Low,26-35,Andaman,Andaman & Nicobar,Urban,1.8,Wildlife,Summer,Group
+Medium,50+,Kerala,Kerala,Beach,3.7,Trekking,Monsoon,Friends
+High,36-50,Mussoorie,Uttarakhand,Hill Station,4.5,Trekking,Autumn,Family
+High,50+,Shimla,Himachal Pradesh,Heritage,2.4,Pilgrimage,Winter,Friends
+High,26-35,Jaipur,Rajasthan,Spiritual,3.9,Trekking,Monsoon,Solo
+High,36-50,Hyderabad,Telangana,Heritage,2.9,Wildlife,Monsoon,Solo
+Medium,18-25,Shimla,Himachal Pradesh,Urban,2.9,Pilgrimage,Monsoon,Friends
+Medium,26-35,Kolkata,West Bengal,Heritage,2.5,Relaxation,Summer,Family
+High,26-35,Delhi,Delhi,Heritage,3.7,Pilgrimage,Monsoon,Friends
+Medium,36-50,Rishikesh,Uttarakhand,Adventure,2.8,Wildlife,Spring,Couple
+Low,18-25,Shimla,Himachal Pradesh,Heritage,4.4,Relaxation,Winter,Couple
+High,18-25,Udaipur,Rajasthan,Beach,4.9,Wildlife,Summer,Couple
+Low,50+,Agra,Uttar Pradesh,Hill Station,4.8,Sightseeing,Spring,Family
+Low,50+,Jaipur,Rajasthan,Spiritual,2.1,Pilgrimage,Summer,Family
+High,50+,Delhi,Delhi,Urban,1.5,Trekking,Autumn,Solo
+Medium,50+,Kerala,Kerala,Hill Station,3.0,Wildlife,Winter,Solo
+Low,26-35,Hyderabad,Telangana,Hill Station,4.1,Sightseeing,Spring,Group
+Low,50+,Delhi,Delhi,Adventure,4.9,Relaxation,Monsoon,Friends
+Low,36-50,Chennai,Tamil Nadu,Hill Station,4.2,Pilgrimage,Winter,Friends
+Medium,36-50,Shimla,Himachal Pradesh,Spiritual,3.5,Trekking,Spring,Solo
+High,18-25,Mumbai,Maharashtra,Spiritual,1.6,Sightseeing,Summer,Solo
+High,26-35,Udaipur,Rajasthan,Heritage,4.4,Water Sports,Monsoon,Solo
+Medium,36-50,Agra,Uttar Pradesh,Urban,2.1,Trekking,Summer,Friends
+Low,26-35,Mumbai,Maharashtra,Beach,1.7,Sightseeing,Summer,Solo
+Medium,36-50,Leh,Ladakh,Urban,4.5,Relaxation,Autumn,Friends
+High,18-25,Hyderabad,Telangana,Heritage,3.5,Water Sports,Autumn,Group
+Medium,26-35,Bangalore,Karnataka,Beach,1.9,Water Sports,Summer,Solo
+Low,50+,Udaipur,Rajasthan,Adventure,2.9,Sightseeing,Spring,Couple
+Medium,26-35,Mumbai,Maharashtra,Beach,1.8,Wildlife,Winter,Family
+Medium,18-25,Kolkata,West Bengal,Beach,3.7,Relaxation,Monsoon,Friends
+High,36-50,Varanasi,Uttar Pradesh,Hill Station,2.5,Wildlife,Summer,Group
+High,36-50,Mumbai,Maharashtra,Adventure,4.5,Water Sports,Spring,Friends
+Low,50+,Chennai,Tamil Nadu,Adventure,2.8,Sightseeing,Monsoon,Solo
+Low,50+,Darjeeling,West Bengal,Hill Station,3.2,Relaxation,Winter,Family
+High,18-25,Manali,Himachal Pradesh,Heritage,1.7,Sightseeing,Winter,Family
+Medium,50+,Jaipur,Rajasthan,Hill Station,2.5,Trekking,Winter,Group
+High,26-35,Mumbai,Maharashtra,Beach,3.9,Wildlife,Autumn,Couple
+Medium,50+,Andaman,Andaman & Nicobar,Spiritual,4.1,Trekking,Summer,Solo
+High,36-50,Mussoorie,Uttarakhand,Spiritual,2.3,Wildlife,Summer,Couple
+High,18-25,Chennai,Tamil Nadu,Urban,3.3,Sightseeing,Monsoon,Friends
+Low,50+,Hyderabad,Telangana,Heritage,4.4,Water Sports,Summer,Family
+Low,36-50,Rishikesh,Uttarakhand,Beach,2.8,Wildlife,Summer,Family
+Medium,18-25,Mysore,Karnataka,Urban,2.0,Sightseeing,Monsoon,Group
+High,26-35,Agra,Uttar Pradesh,Spiritual,3.0,Trekking,Summer,Group
+High,36-50,Leh,Ladakh,Hill Station,3.6,Water Sports,Monsoon,Family
+Medium,36-50,Manali,Himachal Pradesh,Urban,1.5,Sightseeing,Summer,Solo
+High,26-35,Kolkata,West Bengal,Spiritual,2.7,Relaxation,Monsoon,Couple
+High,50+,Varanasi,Uttar Pradesh,Hill Station,3.6,Pilgrimage,Summer,Group
+Medium,18-25,Rishikesh,Uttarakhand,Urban,4.8,Water Sports,Spring,Family
+Low,26-35,Varanasi,Uttar Pradesh,Hill Station,2.9,Sightseeing,Summer,Solo
+Medium,18-25,Delhi,Delhi,Adventure,2.1,Relaxation,Winter,Family
+High,18-25,Hyderabad,Telangana,Spiritual,3.4,Water Sports,Winter,Family
+High,18-25,Goa,Goa,Beach,2.5,Sightseeing,Monsoon,Friends
+Medium,50+,Udaipur,Rajasthan,Beach,2.3,Relaxation,Winter,Solo
+Medium,50+,Ooty,Tamil Nadu,Hill Station,3.6,Water Sports,Winter,Family
+High,18-25,Andaman,Andaman & Nicobar,Heritage,4.7,Wildlife,Spring,Friends
+High,36-50,Leh,Ladakh,Heritage,4.4,Wildlife,Spring,Family
+Low,26-35,Darjeeling,West Bengal,Spiritual,2.1,Sightseeing,Summer,Solo
+Low,18-25,Rishikesh,Uttarakhand,Spiritual,4.2,Relaxation,Summer,Friends
+Medium,18-25,Darjeeling,West Bengal,Heritage,2.3,Relaxation,Monsoon,Family
+Low,50+,Mysore,Karnataka,Spiritual,2.5,Wildlife,Autumn,Friends
+Low,26-35,Ooty,Tamil Nadu,Adventure,4.7,Pilgrimage,Summer,Group
+Medium,26-35,Agra,Uttar Pradesh,Hill Station,4.7,Pilgrimage,Winter,Family
+Low,50+,Varanasi,Uttar Pradesh,Spiritual,2.1,Trekking,Summer,Group
+Low,36-50,Mysore,Karnataka,Heritage,1.7,Sightseeing,Summer,Family
+High,50+,Mussoorie,Uttarakhand,Urban,2.5,Water Sports,Autumn,Family
+Low,26-35,Bangalore,Karnataka,Hill Station,3.5,Sightseeing,Autumn,Solo
+Low,36-50,Hyderabad,Telangana,Heritage,0.8,Wildlife,Summer,Solo
+Medium,18-25,Shimla,Himachal Pradesh,Heritage,3.0,Relaxation,Summer,Solo
+Low,50+,Darjeeling,West Bengal,Hill Station,2.5,Water Sports,Spring,Couple
+Low,50+,Rishikesh,Uttarakhand,Adventure,1.6,Wildlife,Summer,Group
+Low,36-50,Shimla,Himachal Pradesh,Hill Station,4.3,Wildlife,Monsoon,Friends
+Medium,36-50,Varanasi,Uttar Pradesh,Beach,4.3,Water Sports,Summer,Solo
+High,50+,Rishikesh,Uttarakhand,Hill Station,2.3,Trekking,Monsoon,Solo
+Medium,18-25,Bangalore,Karnataka,Hill Station,2.0,Wildlife,Spring,Friends
+Medium,36-50,Mussoorie,Uttarakhand,Heritage,2.0,Water Sports,Summer,Couple
+Low,36-50,Delhi,Delhi,Beach,3.1,Wildlife,Summer,Family
+High,36-50,Udaipur,Rajasthan,Spiritual,2.4,Sightseeing,Autumn,Family
+Low,50+,Mysore,Karnataka,Heritage,3.3,Trekking,Summer,Group
+High,26-35,Varanasi,Uttar Pradesh,Spiritual,2.8,Wildlife,Monsoon,Group
+Medium,26-35,Mumbai,Maharashtra,Urban,2.2,Sightseeing,Spring,Solo
+Medium,50+,Mysore,Karnataka,Heritage,4.1,Sightseeing,Summer,Group
+Medium,26-35,Mussoorie,Uttarakhand,Urban,2.0,Trekking,Monsoon,Couple
+Low,18-25,Manali,Himachal Pradesh,Spiritual,4.3,Relaxation,Summer,Solo
+High,26-35,Agra,Uttar Pradesh,Urban,3.5,Pilgrimage,Winter,Group
+High,26-35,Ooty,Tamil Nadu,Hill Station,4.4,Pilgrimage,Autumn,Solo
+High,50+,Shimla,Himachal Pradesh,Hill Station,1.5,Relaxation,Autumn,Couple
+Medium,36-50,Kerala,Kerala,Urban,4.1,Relaxation,Monsoon,Solo
+Medium,50+,Goa,Goa,Spiritual,1.7,Sightseeing,Spring,Friends
+High,18-25,Mumbai,Maharashtra,Beach,4.8,Trekking,Autumn,Group
+High,26-35,Shimla,Himachal Pradesh,Heritage,4.0,Wildlife,Monsoon,Solo
+High,50+,Jaipur,Rajasthan,Hill Station,2.6,Water Sports,Summer,Family
+High,50+,Hyderabad,Telangana,Spiritual,2.6,Trekking,Winter,Friends
+Medium,50+,Goa,Goa,Beach,4.5,Wildlife,Summer,Couple
+Medium,26-35,Sikkim,Sikkim,Heritage,4.7,Pilgrimage,Summer,Solo
+Medium,18-25,Mussoorie,Uttarakhand,Adventure,4.6,Relaxation,Summer,Solo
+Low,36-50,Darjeeling,West Bengal,Adventure,4.3,Sightseeing,Autumn,Solo
+Low,50+,Manali,Himachal Pradesh,Spiritual,4.4,Wildlife,Spring,Family
+Low,18-25,Mussoorie,Uttarakhand,Urban,3.5,Relaxation,Spring,Couple
+Low,26-35,Bangalore,Karnataka,Beach,1.6,Wildlife,Spring,Friends
+Low,18-25,Ooty,Tamil Nadu,Adventure,1.8,Water Sports,Spring,Friends
+High,26-35,Chennai,Tamil Nadu,Beach,3.8,Relaxation,Winter,Group
+Medium,18-25,Manali,Himachal Pradesh,Urban,2.9,Wildlife,Autumn,Couple
+Low,18-25,Varanasi,Uttar Pradesh,Heritage,3.5,Sightseeing,Spring,Family
+High,18-25,Agra,Uttar Pradesh,Heritage,2.3,Water Sports,Winter,Family
+Medium,26-35,Udaipur,Rajasthan,Hill Station,3.8,Sightseeing,Spring,Solo
+Low,18-25,Mussoorie,Uttarakhand,Spiritual,2.3,Wildlife,Winter,Friends
+Low,36-50,Delhi,Delhi,Spiritual,3.1,Wildlife,Spring,Family
+Medium,18-25,Bangalore,Karnataka,Heritage,3.2,Trekking,Spring,Family
+High,50+,Delhi,Delhi,Heritage,2.1,Wildlife,Autumn,Group
+Medium,26-35,Mumbai,Maharashtra,Adventure,4.6,Sightseeing,Autumn,Friends
+High,36-50,Varanasi,Uttar Pradesh,Beach,3.3,Relaxation,Winter,Couple
+Medium,18-25,Varanasi,Uttar Pradesh,Adventure,4.5,Trekking,Winter,Couple
+Low,18-25,Mumbai,Maharashtra,Heritage,2.4,Wildlife,Summer,Friends
+High,18-25,Mysore,Karnataka,Heritage,2.1,Relaxation,Autumn,Solo
+High,18-25,Bangalore,Karnataka,Hill Station,1.6,Relaxation,Summer,Couple
+Low,36-50,Jaipur,Rajasthan,Adventure,1.8,Pilgrimage,Monsoon,Group
+High,36-50,Varanasi,Uttar Pradesh,Hill Station,2.0,Wildlife,Spring,Group
+High,50+,Agra,Uttar Pradesh,Urban,1.8,Pilgrimage,Summer,Solo
+Medium,26-35,Andaman,Andaman & Nicobar,Spiritual,4.6,Water Sports,Winter,Family
+Low,26-35,Chennai,Tamil Nadu,Beach,4.7,Pilgrimage,Spring,Friends
+High,26-35,Rishikesh,Uttarakhand,Adventure,4.8,Pilgrimage,Winter,Friends
+Low,36-50,Rishikesh,Uttarakhand,Hill Station,4.9,Wildlife,Winter,Group
+Low,26-35,Kolkata,West Bengal,Beach,3.2,Trekking,Summer,Friends
+,36-50,Varanasi,Uttar Pradesh,Spiritual,3.4,Trekking,Summer,Couple
+Medium,50+,Sikkim,Sikkim,Spiritual,2.0,Sightseeing,Summer,Group
+Low,50+,Mussoorie,Uttarakhand,Adventure,2.0,Wildlife,Spring,Couple
+Low,50+,Mussoorie,Uttarakhand,Beach,4.2,Pilgrimage,Summer,Family
+Low,18-25,Bangalore,Karnataka,Adventure,4.5,Sightseeing,Autumn,Family
+Low,36-50,Jaipur,Rajasthan,Urban,4.2,Water Sports,Monsoon,Friends
+Low,50+,Goa,Goa,Spiritual,4.4,Water Sports,Autumn,Friends
+Low,50+,Kerala,Kerala,Hill Station,2.5,Relaxation,Autumn,Family
+Medium,50+,Sikkim,Sikkim,Beach,3.1,Water Sports,Summer,Couple
+Low,18-25,Chennai,Tamil Nadu,Spiritual,3.1,Water Sports,Autumn,Family
+High,18-25,Sikkim,Sikkim,Heritage,5.0,Pilgrimage,Winter,Friends
+High,26-35,Kolkata,West Bengal,Spiritual,4.8,Wildlife,Monsoon,Solo
+Medium,,Shimla,Himachal Pradesh,Spiritual,3.6,Water Sports,Autumn,Couple
+Low,26-35,Bangalore,Karnataka,Hill Station,2.0,Water Sports,Monsoon,Family
+High,26-35,Varanasi,Uttar Pradesh,Adventure,2.4,Water Sports,Monsoon,Group
+Low,26-35,Kerala,Kerala,Spiritual,2.8,Trekking,Autumn,Friends
+Medium,36-50,Agra,Uttar Pradesh,Beach,4.6,Sightseeing,Winter,Solo
+Low,36-50,Agra,Uttar Pradesh,Hill Station,2.1,Pilgrimage,Summer,Friends
+Medium,26-35,Manali,Himachal Pradesh,Hill Station,2.3,Sightseeing,Autumn,Solo
+High,36-50,Chennai,Tamil Nadu,Beach,2.7,Trekking,Summer,Family
+Medium,50+,Mysore,Karnataka,Heritage,4.7,Water Sports,Monsoon,Couple
+Medium,36-50,Shimla,Himachal Pradesh,Heritage,3.3,Pilgrimage,Winter,Solo
+High,18-25,Agra,Uttar Pradesh,Hill Station,3.8,Trekking,Monsoon,Family
+High,26-35,Manali,Himachal Pradesh,Beach,2.9,Relaxation,Monsoon,Group
+Low,18-25,Kerala,Kerala,Spiritual,2.2,Water Sports,Summer,Family
+High,50+,Andaman,Andaman & Nicobar,Beach,2.3,Water Sports,Winter,Couple
+Medium,26-35,Ooty,Tamil Nadu,Adventure,4.3,Relaxation,Spring,Couple
+Low,36-50,Kerala,Kerala,Urban,4.6,Sightseeing,Summer,Solo
+Medium,18-25,Agra,Uttar Pradesh,Urban,3.2,Sightseeing,Autumn,Family
+Low,50+,Sikkim,Sikkim,Hill Station,2.7,Trekking,Spring,Solo
+High,50+,Mumbai,Maharashtra,Hill Station,4.3,Sightseeing,Winter,Group
+Low,50+,Udaipur,Rajasthan,Hill Station,3.9,Sightseeing,Spring,Couple
+High,18-25,Mumbai,Maharashtra,Heritage,1.6,Wildlife,Winter,Friends
+Low,18-25,Hyderabad,Telangana,Urban,2.7,Wildlife,Monsoon,Family
+High,18-25,Rishikesh,Uttarakhand,Hill Station,3.9,Wildlife,Summer,Friends
+Low,26-35,Mussoorie,Uttarakhand,Heritage,3.5,Relaxation,Summer,Couple
+Low,18-25,Kolkata,West Bengal,Hill Station,4.9,Wildlife,Winter,Friends
+Medium,18-25,Mysore,Karnataka,Spiritual,4.5,Pilgrimage,Spring,Family
+High,36-50,Mumbai,Maharashtra,Hill Station,1.7,Sightseeing,Spring,Couple
+Low,26-35,Mumbai,Maharashtra,Spiritual,4.0,Relaxation,Autumn,Solo
+High,36-50,Agra,Uttar Pradesh,Adventure,2.7,Water Sports,Autumn,Friends
+Low,26-35,Manali,Himachal Pradesh,Beach,3.9,Pilgrimage,Autumn,Friends
+High,18-25,Darjeeling,West Bengal,Urban,3.7,Trekking,Spring,Couple
+Low,36-50,Bangalore,Karnataka,Spiritual,3.3,Trekking,Spring,Family
+High,26-35,Jaipur,Rajasthan,Heritage,4.5,Water Sports,Monsoon,Couple
+High,18-25,Chennai,Tamil Nadu,Beach,4.0,Trekking,Spring,Solo
+High,18-25,Mumbai,Maharashtra,Heritage,4.6,Sightseeing,Autumn,Family
+High,36-50,Andaman,Andaman & Nicobar,Urban,2.5,Pilgrimage,Winter,Couple
+High,36-50,Darjeeling,West Bengal,Heritage,2.7,Wildlife,Summer,Family
+High,26-35,Jaipur,Rajasthan,Spiritual,3.7,Pilgrimage,Autumn,Couple
+Medium,36-50,Darjeeling,West Bengal,Beach,2.6,Wildlife,Monsoon,Family
+Low,26-35,Delhi,Delhi,Hill Station,1.6,Pilgrimage,Summer,Group
+Medium,18-25,Leh,Ladakh,Beach,3.1,Water Sports,Winter,Group
+High,26-35,Chennai,Tamil Nadu,Beach,3.4,Wildlife,Summer,Friends
+Low,50+,Leh,Ladakh,Spiritual,4.3,Water Sports,Autumn,Family
+Medium,18-25,Shimla,Himachal Pradesh,Heritage,4.1,Relaxation,Summer,Friends
+Medium,50+,Agra,Uttar Pradesh,Beach,4.9,Relaxation,Autumn,Solo
+Medium,26-35,Mumbai,Maharashtra,Spiritual,4.2,Wildlife,Autumn,Friends
+Medium,36-50,Kolkata,West Bengal,Adventure,2.5,Trekking,Summer,Couple
+Medium,18-25,Delhi,Delhi,Beach,3.7,Relaxation,Monsoon,Family
+Low,36-50,Udaipur,Rajasthan,Urban,3.9,Wildlife,Spring,Family
+Medium,50+,Rishikesh,Uttarakhand,Adventure,5.0,Sightseeing,Spring,Friends
+Medium,18-25,Andaman,Andaman & Nicobar,Adventure,2.0,Wildlife,Summer,Couple
+High,26-35,Rishikesh,Uttarakhand,Adventure,2.2,Pilgrimage,Summer,Solo
+Medium,50+,Rishikesh,Uttarakhand,Adventure,2.0,Water Sports,Spring,Friends
+Medium,50+,Mussoorie,Uttarakhand,Heritage,3.6,Relaxation,Summer,Friends
+Low,26-35,Darjeeling,West Bengal,Hill Station,2.0,Trekking,Summer,Family
+Medium,18-25,Rishikesh,Uttarakhand,Spiritual,3.8,Wildlife,Monsoon,Couple
+High,,Andaman,Andaman & Nicobar,Heritage,4.3,Pilgrimage,Autumn,Family
+Low,26-35,Mussoorie,Uttarakhand,Beach,3.0,Pilgrimage,Monsoon,Family
+Medium,36-50,Hyderabad,Telangana,Beach,3.5,Trekking,Spring,Solo
+,36-50,Mussoorie,Uttarakhand,Adventure,4.7,Pilgrimage,Winter,Friends
+High,50+,Ooty,Tamil Nadu,Hill Station,3.5,Wildlife,Monsoon,Family
+Medium,50+,Leh,Ladakh,Adventure,2.2,Trekking,Autumn,Solo
+Medium,18-25,Shimla,Himachal Pradesh,Beach,2.7,Wildlife,Monsoon,Group
+Medium,36-50,Shimla,Himachal Pradesh,Hill Station,3.4,Relaxation,Monsoon,Solo
+Low,50+,Manali,Himachal Pradesh,Beach,2.0,Water Sports,Summer,Friends
+Low,18-25,Goa,Goa,Urban,3.6,Pilgrimage,Summer,Solo
+High,26-35,Mussoorie,Uttarakhand,Heritage,5.0,Water Sports,Autumn,Group
+High,26-35,Kolkata,West Bengal,Urban,3.8,Water Sports,Winter,Group
+Medium,36-50,Chennai,Tamil Nadu,Heritage,2.8,Water Sports,Winter,Friends
+Medium,18-25,Udaipur,Rajasthan,Hill Station,2.7,Wildlife,Summer,Couple
+Low,18-25,Kerala,Kerala,Urban,4.8,Sightseeing,Summer,Friends
+High,26-35,Andaman,Andaman & Nicobar,Beach,4.6,Water Sports,Spring,Family
+Low,26-35,Kolkata,West Bengal,Adventure,3.2,Sightseeing,Monsoon,Solo
+High,36-50,Leh,Ladakh,Hill Station,2.7,Pilgrimage,Spring,Family
+Low,26-35,Udaipur,Rajasthan,Urban,4.0,Relaxation,Monsoon,Couple
+Medium,26-35,Mysore,Karnataka,Beach,0.8,Pilgrimage,Winter,Solo
+High,26-35,Jaipur,Rajasthan,Hill Station,2.6,Wildlife,Autumn,Couple
+Low,18-25,Kerala,Kerala,Adventure,3.0,Trekking,Autumn,Family
+Low,36-50,Sikkim,Sikkim,Adventure,2.4,Relaxation,Winter,Solo
+Medium,18-25,Bangalore,Karnataka,Hill Station,2.3,Sightseeing,Winter,Friends
+High,50+,Mumbai,Maharashtra,Adventure,1.5,Trekking,Autumn,Friends
+High,18-25,Leh,Ladakh,Adventure,3.7,Trekking,Monsoon,Group
+Medium,36-50,Goa,Goa,Heritage,3.7,Trekking,Autumn,Group
+Low,36-50,Mysore,Karnataka,Beach,2.2,Sightseeing,Spring,Group
+Medium,18-25,Mumbai,Maharashtra,Hill Station,4.8,Wildlife,Autumn,Group
+Medium,,Agra,Uttar Pradesh,Spiritual,2.9,Water Sports,Spring,Solo
+Low,50+,Hyderabad,Telangana,Urban,1.6,Sightseeing,Winter,Solo
+Low,18-25,Kerala,Kerala,Hill Station,2.3,Water Sports,Summer,Friends
+High,26-35,Varanasi,Uttar Pradesh,Urban,3.9,Wildlife,Summer,Solo
+Medium,50+,Mysore,Karnataka,Beach,2.2,Trekking,Spring,Solo
+Low,36-50,Mysore,Karnataka,Beach,1.7,Relaxation,Winter,Couple
+Low,50+,Goa,Goa,Adventure,3.7,Water Sports,Monsoon,Solo
+Medium,18-25,Mumbai,Maharashtra,Spiritual,3.3,Wildlife,Summer,Friends
+Medium,26-35,Chennai,Tamil Nadu,Adventure,4.2,Sightseeing,Autumn,Family
+Medium,18-25,Bangalore,Karnataka,Urban,4.2,Pilgrimage,Summer,Solo
+Medium,26-35,Mussoorie,Uttarakhand,Beach,4.9,Relaxation,Monsoon,Friends
+High,18-25,Mussoorie,Uttarakhand,Spiritual,1.7,Trekking,Autumn,Family
+High,50+,Delhi,Delhi,Spiritual,1.6,Water Sports,Autumn,Friends
+Medium,18-25,Kerala,Kerala,Heritage,5.0,Pilgrimage,Spring,Solo
+High,18-25,Sikkim,Sikkim,Hill Station,3.8,Relaxation,Autumn,Family
+High,18-25,Delhi,Delhi,Spiritual,4.0,Wildlife,Monsoon,Family
+Medium,26-35,Andaman,Andaman & Nicobar,Beach,1.8,Wildlife,Monsoon,Family
+Low,50+,Goa,Goa,Urban,1.7,Pilgrimage,Spring,Solo
+Low,36-50,Udaipur,Rajasthan,Urban,2.1,Relaxation,Autumn,Solo
+Low,18-25,Leh,Ladakh,Hill Station,3.0,Trekking,Winter,Couple
+Medium,50+,Darjeeling,West Bengal,Hill Station,1.9,Sightseeing,Winter,Friends
+Low,50+,Kolkata,West Bengal,Urban,3.1,Trekking,Autumn,Friends
+Low,36-50,Ooty,Tamil Nadu,Hill Station,3.5,Water Sports,Summer,Friends
+Medium,50+,Bangalore,Karnataka,Beach,1.5,Wildlife,Spring,Solo
+High,,Sikkim,Sikkim,Beach,1.9,Pilgrimage,Summer,Friends
+Medium,36-50,Manali,Himachal Pradesh,Urban,2.8,Water Sports,Monsoon,Friends
+Low,50+,Andaman,Andaman & Nicobar,Heritage,1.7,Sightseeing,Winter,Family
+Medium,26-35,Chennai,Tamil Nadu,Adventure,2.0,Sightseeing,Spring,Couple
+Medium,36-50,Varanasi,Uttar Pradesh,Heritage,2.3,Water Sports,Monsoon,Group
+,50+,Bangalore,Karnataka,Urban,3.0,Sightseeing,Autumn,Solo
+High,18-25,Mysore,Karnataka,Urban,4.0,Sightseeing,Winter,Couple
+,26-35,Kerala,Kerala,Urban,2.0,Pilgrimage,Monsoon,Solo
+Low,18-25,Mumbai,Maharashtra,Urban,4.1,Trekking,Monsoon,Family
+Low,36-50,Mysore,Karnataka,Beach,4.5,Trekking,Winter,Solo
+Medium,26-35,Delhi,Delhi,Spiritual,3.8,Wildlife,Monsoon,Family
+Medium,26-35,Leh,Ladakh,Urban,1.7,Trekking,Winter,Group
+High,26-35,Bangalore,Karnataka,Heritage,3.0,Relaxation,Winter,Family
+Low,36-50,Andaman,Andaman & Nicobar,Hill Station,3.8,Trekking,Spring,Couple
+Low,26-35,Varanasi,Uttar Pradesh,Urban,4.9,Relaxation,Autumn,Solo
+Medium,36-50,Darjeeling,West Bengal,Hill Station,4.8,Wildlife,Spring,Family
+,18-25,Darjeeling,West Bengal,Beach,2.9,Water Sports,Winter,Friends
+High,36-50,Kerala,Kerala,Hill Station,3.7,Sightseeing,Summer,Solo
+High,36-50,Rishikesh,Uttarakhand,Beach,4.6,Wildlife,Spring,Family
+Low,18-25,Kerala,Kerala,Beach,4.4,Trekking,Summer,Friends
+Medium,50+,Goa,Goa,Beach,3.2,Trekking,Monsoon,Friends
+Medium,26-35,Rishikesh,Uttarakhand,Hill Station,2.4,Water Sports,Monsoon,Couple
+Medium,18-25,Leh,Ladakh,Adventure,2.0,Trekking,Spring,Solo
+Medium,50+,Ooty,Tamil Nadu,Beach,3.2,Sightseeing,Summer,Friends
+Low,26-35,Chennai,Tamil Nadu,Spiritual,4.0,Water Sports,Winter,Solo
+Low,26-35,Mumbai,Maharashtra,Heritage,4.9,Relaxation,Monsoon,Couple
+Low,36-50,Sikkim,Sikkim,Adventure,4.5,Trekking,Spring,Couple
+Medium,36-50,Mussoorie,Uttarakhand,Beach,2.2,Trekking,Monsoon,Couple
+Medium,50+,Mussoorie,Uttarakhand,Hill Station,4.0,Sightseeing,Spring,Couple
+High,26-35,Rishikesh,Uttarakhand,Heritage,2.5,Pilgrimage,Summer,Couple
+High,36-50,Bangalore,Karnataka,Beach,3.9,Wildlife,Monsoon,Group
+Medium,36-50,Chennai,Tamil Nadu,Heritage,3.8,Pilgrimage,Monsoon,Couple
+Medium,36-50,Ooty,Tamil Nadu,Hill Station,2.5,Relaxation,Winter,Solo
+Low,36-50,Chennai,Tamil Nadu,Beach,2.3,Sightseeing,Spring,Friends
+,50+,Varanasi,Uttar Pradesh,Spiritual,1.9,Wildlife,Summer,Family
+Low,18-25,Varanasi,Uttar Pradesh,Beach,1.7,Water Sports,Autumn,Group
+Medium,18-25,Kerala,Kerala,Beach,4.5,Water Sports,Summer,Friends
+Medium,36-50,Hyderabad,Telangana,Urban,1.7,Relaxation,Summer,Group
+High,26-35,Agra,Uttar Pradesh,Hill Station,1.8,Sightseeing,Autumn,Friends
+High,36-50,Chennai,Tamil Nadu,Heritage,2.3,Pilgrimage,Winter,Friends
+Medium,18-25,Bangalore,Karnataka,Heritage,4.6,Trekking,Summer,Family
+Low,50+,Sikkim,Sikkim,Spiritual,2.7,Wildlife,Monsoon,Group
+Medium,36-50,Chennai,Tamil Nadu,Urban,2.2,Trekking,Autumn,Couple
+High,18-25,Mumbai,Maharashtra,Beach,2.2,Water Sports,Spring,Family
+High,36-50,Mysore,Karnataka,Urban,2.7,Relaxation,Spring,Solo
+Medium,26-35,Goa,Goa,Heritage,4.1,Water Sports,Winter,Group
+High,36-50,Jaipur,Rajasthan,Beach,2.4,Relaxation,Autumn,Friends
+High,18-25,Kolkata,West Bengal,Adventure,4.6,Pilgrimage,Spring,Group
+Low,26-35,Darjeeling,West Bengal,Hill Station,3.5,Sightseeing,Winter,Group
+Medium,50+,Sikkim,Sikkim,Heritage,3.4,Trekking,Summer,Solo
+High,36-50,Shimla,Himachal Pradesh,Beach,2.4,Wildlife,Monsoon,Solo
+High,50+,Kolkata,West Bengal,Spiritual,4.4,Wildlife,Autumn,Couple
+Medium,18-25,Mumbai,Maharashtra,Hill Station,3.5,Sightseeing,Spring,Family
+Medium,18-25,Mussoorie,Uttarakhand,Spiritual,2.0,Trekking,Winter,Family
+Low,36-50,Ooty,Tamil Nadu,Beach,2.2,Relaxation,Autumn,Family
+Low,18-25,Delhi,Delhi,Spiritual,3.1,Pilgrimage,Spring,Couple
+Medium,18-25,Mumbai,Maharashtra,Adventure,4.2,Wildlife,Monsoon,Group
+Medium,18-25,Mussoorie,Uttarakhand,Spiritual,4.8,Pilgrimage,Spring,Solo
+High,18-25,Chennai,Tamil Nadu,Hill Station,3.8,Wildlife,Spring,Solo
+High,36-50,Ooty,Tamil Nadu,Urban,3.3,Wildlife,Monsoon,Friends
+Medium,50+,Mussoorie,Uttarakhand,Beach,2.4,Water Sports,Winter,Solo
+Low,18-25,Jaipur,Rajasthan,Adventure,3.9,Trekking,Monsoon,Friends
+Low,18-25,Jaipur,Rajasthan,Hill Station,4.9,Trekking,Winter,Group
+Medium,36-50,Manali,Himachal Pradesh,Adventure,3.2,Pilgrimage,Winter,Family
+High,36-50,Rishikesh,Uttarakhand,Hill Station,2.1,Wildlife,Monsoon,Solo
+High,50+,Delhi,Delhi,Hill Station,1.9,Pilgrimage,Spring,Group
+Medium,18-25,Goa,Goa,Adventure,2.4,Wildlife,Autumn,Group
+Low,50+,Bangalore,Karnataka,Adventure,3.5,Water Sports,Spring,Group
+High,26-35,Kerala,Kerala,Beach,4.8,Relaxation,Monsoon,Family
+High,18-25,Rishikesh,Uttarakhand,Heritage,2.5,Water Sports,Summer,Family
+Low,36-50,Goa,Goa,Urban,2.6,Water Sports,Winter,Solo
+High,26-35,Mysore,Karnataka,Hill Station,3.2,Sightseeing,Monsoon,Couple
+Medium,36-50,Darjeeling,West Bengal,Spiritual,4.7,Water Sports,Summer,Friends
+Low,36-50,Mussoorie,Uttarakhand,Adventure,3.0,Wildlife,Monsoon,Friends
+High,36-50,Delhi,Delhi,Beach,2.3,Relaxation,Spring,Family
+Low,26-35,Bangalore,Karnataka,Urban,2.1,Water Sports,Spring,Friends
+Low,36-50,Rishikesh,Uttarakhand,Urban,3.1,Relaxation,Summer,Group
+High,36-50,Leh,Ladakh,Hill Station,4.3,Wildlife,Autumn,Group
+Medium,18-25,Leh,Ladakh,Beach,2.5,Wildlife,Summer,Family
+High,18-25,Chennai,Tamil Nadu,Urban,3.3,Pilgrimage,Spring,Group
+High,26-35,Mussoorie,Uttarakhand,Beach,3.6,Relaxation,Autumn,Friends
+Medium,50+,Shimla,Himachal Pradesh,Spiritual,3.1,Trekking,Summer,Couple
+Medium,50+,Delhi,Delhi,Heritage,2.2,Wildlife,Monsoon,Solo
+Medium,36-50,Leh,Ladakh,Urban,4.7,Pilgrimage,Monsoon,Friends
+High,18-25,Mumbai,Maharashtra,Spiritual,3.5,Pilgrimage,Winter,Group
+Medium,18-25,Kolkata,West Bengal,Spiritual,4.1,Water Sports,Spring,Solo
+Low,18-25,Goa,Goa,Urban,3.7,Trekking,Summer,Friends
+High,36-50,Goa,Goa,Urban,5.0,Water Sports,Autumn,Group
+Medium,18-25,Kerala,Kerala,Adventure,3.1,Sightseeing,Winter,Group
+High,50+,Goa,Goa,Beach,3.0,Pilgrimage,Autumn,Friends
+Medium,50+,Hyderabad,Telangana,Beach,2.8,Pilgrimage,Autumn,Couple
+Medium,36-50,Jaipur,Rajasthan,Beach,2.8,Wildlife,Summer,Group
+High,50+,Jaipur,Rajasthan,Hill Station,2.5,Pilgrimage,Winter,Friends
+Low,36-50,Darjeeling,West Bengal,Beach,4.9,Trekking,Autumn,Solo
+Low,18-25,Jaipur,Rajasthan,Spiritual,4.5,Water Sports,Summer,Couple
+Medium,50+,Manali,Himachal Pradesh,Heritage,2.6,Relaxation,Autumn,Group
+High,18-25,Ooty,Tamil Nadu,Adventure,2.6,Water Sports,Monsoon,Family
+Medium,36-50,Agra,Uttar Pradesh,Spiritual,1.9,Water Sports,Winter,Couple
+Low,26-35,Shimla,Himachal Pradesh,Heritage,4.6,Wildlife,Spring,Couple
+Medium,26-35,Chennai,Tamil Nadu,Adventure,2.8,Water Sports,Spring,Couple
+Low,50+,Hyderabad,Telangana,Beach,3.5,Pilgrimage,Autumn,Family
+Low,26-35,Hyderabad,Telangana,Urban,4.7,Trekking,Spring,Group
+Low,36-50,Ooty,Tamil Nadu,Hill Station,2.9,Pilgrimage,Monsoon,Friends
+Medium,26-35,Mussoorie,Uttarakhand,Heritage,4.3,Pilgrimage,Summer,Couple
+High,36-50,Udaipur,Rajasthan,Spiritual,3.0,Wildlife,Autumn,Family
+Medium,50+,Darjeeling,West Bengal,Beach,4.0,Pilgrimage,Autumn,Family
+High,50+,Hyderabad,Telangana,Hill Station,3.0,Water Sports,Winter,Solo
+High,26-35,Delhi,Delhi,Spiritual,2.9,Wildlife,Winter,Couple
+Low,50+,Delhi,Delhi,Spiritual,5.0,Pilgrimage,Spring,Solo
+Medium,36-50,Udaipur,Rajasthan,Adventure,3.6,Pilgrimage,Winter,Group
+Low,36-50,Rishikesh,Uttarakhand,Urban,2.8,Pilgrimage,Autumn,Solo
+,36-50,Darjeeling,West Bengal,Spiritual,2.4,Wildlife,Spring,Solo
+Low,18-25,Bangalore,Karnataka,Heritage,1.6,Wildlife,Autumn,Solo
+Medium,18-25,Kerala,Kerala,Spiritual,4.0,Pilgrimage,Winter,Couple
+Medium,26-35,Leh,Ladakh,Urban,2.8,Wildlife,Monsoon,Group
+Medium,26-35,Agra,Uttar Pradesh,Spiritual,4.4,Water Sports,Autumn,Solo
+Low,36-50,Udaipur,Rajasthan,Beach,2.8,Sightseeing,Monsoon,Family
+Medium,18-25,Kerala,Kerala,Spiritual,2.8,Relaxation,Autumn,Solo
+High,50+,Andaman,Andaman & Nicobar,Adventure,4.2,Water Sports,Autumn,Group
+Low,26-35,Varanasi,Uttar Pradesh,Beach,3.2,Relaxation,Summer,Family
+Low,36-50,Jaipur,Rajasthan,Hill Station,4.6,Sightseeing,Monsoon,Solo
+High,50+,Rishikesh,Uttarakhand,Beach,3.6,Pilgrimage,Winter,Family
+High,50+,Shimla,Himachal Pradesh,Adventure,2.3,Water Sports,Summer,Family
+Medium,36-50,Sikkim,Sikkim,Adventure,3.5,Water Sports,Spring,Solo
+Medium,26-35,Kerala,Kerala,Urban,1.5,Pilgrimage,Spring,Couple
+Low,36-50,Delhi,Delhi,Adventure,2.6,Relaxation,Spring,Solo
+Low,50+,Mysore,Karnataka,Adventure,2.2,Wildlife,Monsoon,Family
+Medium,50+,Darjeeling,West Bengal,Urban,3.8,Water Sports,Winter,Family
+High,50+,Manali,Himachal Pradesh,Heritage,2.0,Pilgrimage,Autumn,Family
+High,26-35,Hyderabad,Telangana,Heritage,2.5,Wildlife,Winter,Friends
+Low,18-25,Chennai,Tamil Nadu,Hill Station,2.7,Trekking,Monsoon,Family
+High,50+,Agra,Uttar Pradesh,Spiritual,1.5,Relaxation,Summer,Friends
+Low,26-35,Udaipur,Rajasthan,Heritage,1.7,Relaxation,Monsoon,Friends
+High,26-35,Chennai,Tamil Nadu,Hill Station,2.6,Relaxation,Monsoon,Couple
+Low,26-35,Kolkata,West Bengal,Hill Station,2.3,Wildlife,Winter,Group
+High,26-35,Varanasi,Uttar Pradesh,Heritage,1.9,Water Sports,Spring,Group
+Medium,26-35,Udaipur,Rajasthan,Spiritual,2.0,Pilgrimage,Winter,Solo
+Low,18-25,Goa,Goa,Spiritual,4.4,Trekking,Summer,Family
+Low,36-50,Chennai,Tamil Nadu,Hill Station,3.9,Wildlife,Autumn,Family
+Medium,36-50,Manali,Himachal Pradesh,Adventure,3.2,Wildlife,Winter,Family
+High,50+,Agra,Uttar Pradesh,Hill Station,4.7,Wildlife,Monsoon,Solo
+Low,26-35,Sikkim,Sikkim,Adventure,1.6,Pilgrimage,Monsoon,Solo
+,26-35,Jaipur,Rajasthan,Heritage,2.7,Water Sports,Monsoon,Couple
+Medium,18-25,Kolkata,West Bengal,Hill Station,4.4,Sightseeing,Summer,Friends
+Medium,36-50,Mumbai,Maharashtra,Spiritual,3.7,Pilgrimage,Winter,Couple
+Medium,26-35,Darjeeling,West Bengal,Adventure,4.9,Water Sports,Spring,Solo
+Low,26-35,Hyderabad,Telangana,Hill Station,4.8,Wildlife,Summer,Group
+Medium,36-50,Bangalore,Karnataka,Beach,2.1,Sightseeing,Summer,Family
+High,18-25,Rishikesh,Uttarakhand,Beach,4.9,Water Sports,Summer,Family
+High,50+,Sikkim,Sikkim,Urban,4.8,Water Sports,Monsoon,Family
+Low,36-50,Udaipur,Rajasthan,Adventure,2.8,Water Sports,Winter,Solo
+Low,18-25,Darjeeling,West Bengal,Adventure,4.9,Sightseeing,Autumn,Couple
+Low,26-35,Bangalore,Karnataka,Beach,1.6,Relaxation,Monsoon,Couple
+Low,36-50,Jaipur,Rajasthan,Adventure,3.8,Water Sports,Winter,Family
+Low,50+,Mysore,Karnataka,Spiritual,2.4,Pilgrimage,Spring,Couple
+Medium,26-35,Mysore,Karnataka,Urban,2.0,Wildlife,Winter,Family
+Medium,26-35,Mysore,Karnataka,Adventure,3.5,Sightseeing,Spring,Friends
+Low,,Ooty,Tamil Nadu,Heritage,2.6,Pilgrimage,Winter,Friends
+Low,36-50,Andaman,Andaman & Nicobar,Urban,3.8,Trekking,Spring,Family
+Medium,36-50,Jaipur,Rajasthan,Adventure,3.4,Wildlife,Winter,Group
+Medium,18-25,Shimla,Himachal Pradesh,Heritage,2.9,Pilgrimage,Winter,Solo
+Low,26-35,Darjeeling,West Bengal,Hill Station,2.1,Pilgrimage,Winter,Family
+High,50+,Mysore,Karnataka,Spiritual,3.6,Trekking,Winter,Solo
+Medium,36-50,Hyderabad,Telangana,Spiritual,4.4,Relaxation,Summer,Solo
+Low,26-35,Hyderabad,Telangana,Spiritual,3.6,Sightseeing,Spring,Solo
+Medium,50+,Mysore,Karnataka,Adventure,3.6,Wildlife,Autumn,Family
+High,36-50,Ooty,Tamil Nadu,Urban,3.3,Pilgrimage,Spring,Friends
+Medium,18-25,Hyderabad,Telangana,Hill Station,2.9,Trekking,Monsoon,Solo
+Low,50+,Shimla,Himachal Pradesh,Adventure,3.1,Wildlife,Monsoon,Family
+Medium,18-25,Mumbai,Maharashtra,Spiritual,5.0,Trekking,Autumn,Friends
+Low,50+,Udaipur,Rajasthan,Beach,4.1,Wildlife,Monsoon,Solo
+Low,26-35,Hyderabad,Telangana,Adventure,3.0,Pilgrimage,Autumn,Friends
+Low,36-50,Mussoorie,Uttarakhand,Urban,3.1,Trekking,Monsoon,Couple
+High,18-25,Shimla,Himachal Pradesh,Spiritual,3.2,Trekking,Autumn,Couple
+High,50+,Andaman,Andaman & Nicobar,Hill Station,3.8,Wildlife,Summer,Friends
+Low,26-35,Darjeeling,West Bengal,Heritage,3.1,Wildlife,Monsoon,Group
+Medium,50+,Manali,Himachal Pradesh,Spiritual,3.9,Sightseeing,Autumn,Family
+Low,26-35,Shimla,Himachal Pradesh,Hill Station,2.7,Water Sports,Winter,Group
+High,50+,Udaipur,Rajasthan,Heritage,2.9,Trekking,Summer,Solo
+High,50+,Ooty,Tamil Nadu,Heritage,4.5,Water Sports,Summer,Friends
+Low,26-35,Udaipur,Rajasthan,Spiritual,2.7,Relaxation,Summer,Solo
+Medium,50+,Delhi,Delhi,Adventure,4.9,Pilgrimage,Spring,Family
+Medium,36-50,Shimla,Himachal Pradesh,Spiritual,2.1,Pilgrimage,Spring,Couple
+,26-35,Shimla,Himachal Pradesh,Urban,2.3,Trekking,Autumn,Group
+Low,18-25,Agra,Uttar Pradesh,Spiritual,3.1,Relaxation,Summer,Family
+Medium,26-35,Ooty,Tamil Nadu,Urban,4.3,Wildlife,Winter,Family
+Medium,36-50,Andaman,Andaman & Nicobar,Spiritual,4.1,Relaxation,Spring,Solo
+Low,36-50,Kerala,Kerala,Spiritual,2.1,Wildlife,Autumn,Group
+High,50+,Goa,Goa,Beach,2.3,Trekking,Summer,Solo
+Low,26-35,Sikkim,Sikkim,Spiritual,3.5,Water Sports,Spring,Couple
+Low,50+,Udaipur,Rajasthan,Beach,2.5,Water Sports,Spring,Family
+Medium,26-35,Chennai,Tamil Nadu,Spiritual,3.0,Sightseeing,Winter,Group
+Low,50+,Jaipur,Rajasthan,Heritage,3.2,Relaxation,Autumn,Family
+Medium,36-50,Darjeeling,West Bengal,Spiritual,3.6,Sightseeing,Autumn,Friends
+Medium,36-50,Mysore,Karnataka,Spiritual,2.4,Wildlife,Monsoon,Couple
+Medium,36-50,Varanasi,Uttar Pradesh,Urban,2.8,Water Sports,Winter,Group
+Low,18-25,Udaipur,Rajasthan,Spiritual,1.8,Wildlife,Autumn,Group
+High,50+,Goa,Goa,Beach,3.3,Trekking,Spring,Friends
+Medium,36-50,Shimla,Himachal Pradesh,Hill Station,4.4,Pilgrimage,Winter,Family
+Low,,Udaipur,Rajasthan,Hill Station,1.9,Sightseeing,Winter,Family
+High,50+,Delhi,Delhi,Spiritual,1.9,Sightseeing,Monsoon,Friends
+High,50+,Mussoorie,Uttarakhand,Spiritual,1.8,Pilgrimage,Winter,Couple
+High,18-25,Delhi,Delhi,Urban,4.5,Relaxation,Summer,Family
+Medium,50+,Andaman,Andaman & Nicobar,Heritage,1.8,Pilgrimage,Autumn,Friends
+Medium,50+,Hyderabad,Telangana,Spiritual,4.9,Sightseeing,Monsoon,Friends
+Low,50+,Jaipur,Rajasthan,Spiritual,2.8,Water Sports,Spring,Solo
+High,50+,Shimla,Himachal Pradesh,Adventure,2.7,Trekking,Winter,Family
+High,36-50,Mysore,Karnataka,Beach,1.8,Water Sports,Autumn,Family
+Low,50+,Chennai,Tamil Nadu,Beach,3.5,Trekking,Winter,Solo
+High,26-35,Agra,Uttar Pradesh,Beach,3.6,Relaxation,Spring,Solo
+Medium,50+,Ooty,Tamil Nadu,Urban,3.2,Relaxation,Monsoon,Friends
+High,36-50,Hyderabad,Telangana,Adventure,2.6,Sightseeing,Autumn,Group
+High,36-50,Varanasi,Uttar Pradesh,Heritage,2.8,Wildlife,Spring,Family
+Low,18-25,Jaipur,Rajasthan,Hill Station,2.6,Relaxation,Spring,Family
+Medium,18-25,Darjeeling,West Bengal,Hill Station,3.0,Sightseeing,Summer,Group
+Low,50+,Agra,Uttar Pradesh,Hill Station,2.7,Relaxation,Winter,Friends
+Low,18-25,Kolkata,West Bengal,Beach,3.9,Wildlife,Autumn,Solo
+Low,18-25,Udaipur,Rajasthan,Urban,2.5,Relaxation,Autumn,Group
+Medium,50+,Chennai,Tamil Nadu,Adventure,2.7,Pilgrimage,Monsoon,Friends
+High,26-35,Hyderabad,Telangana,Adventure,3.0,Water Sports,Autumn,Solo
+Low,26-35,Leh,Ladakh,Urban,1.5,Sightseeing,Winter,Family
+Low,36-50,Goa,Goa,Urban,3.2,Relaxation,Winter,Solo
+High,26-35,Ooty,Tamil Nadu,Heritage,2.4,Trekking,Summer,Family
+High,50+,Jaipur,Rajasthan,Hill Station,1.7,Trekking,Summer,Family
+Medium,26-35,Mysore,Karnataka,Spiritual,4.7,Trekking,Spring,Family
+Low,18-25,Manali,Himachal Pradesh,Adventure,2.6,Pilgrimage,Autumn,Family
+Medium,18-25,Goa,Goa,Heritage,3.0,Water Sports,Monsoon,Family
+High,18-25,Kolkata,West Bengal,Urban,4.4,Pilgrimage,Summer,Solo
+High,18-25,Goa,Goa,Heritage,2.1,Wildlife,Spring,Couple
+Medium,50+,Hyderabad,Telangana,Heritage,4.5,Water Sports,Winter,Couple
+Low,50+,Goa,Goa,Hill Station,2.3,Sightseeing,Monsoon,Friends
+High,26-35,Leh,Ladakh,Heritage,3.6,Relaxation,Summer,Family
+High,50+,Bangalore,Karnataka,Hill Station,3.9,Sightseeing,Spring,Couple
+Medium,50+,Manali,Himachal Pradesh,Hill Station,4.7,Pilgrimage,Summer,Group
+Medium,,Goa,Goa,Spiritual,3.6,Sightseeing,Summer,Solo
+High,50+,Leh,Ladakh,Beach,3.1,Wildlife,Winter,Friends
+High,50+,Goa,Goa,Beach,3.5,Trekking,Winter,Group
+Low,36-50,Manali,Himachal Pradesh,Spiritual,2.2,Trekking,Autumn,Group
+Low,26-35,Delhi,Delhi,Urban,3.9,Sightseeing,Summer,Family
+Low,18-25,Varanasi,Uttar Pradesh,Beach,2.2,Water Sports,Autumn,Solo
+Medium,50+,Udaipur,Rajasthan,Adventure,3.5,Water Sports,Spring,Group
+High,50+,Goa,Goa,Spiritual,3.8,Sightseeing,Winter,Friends
+High,18-25,Shimla,Himachal Pradesh,Urban,4.6,Relaxation,Summer,Couple
+Low,18-25,Mysore,Karnataka,Urban,3.1,Trekking,Spring,Couple
+High,18-25,Jaipur,Rajasthan,Hill Station,4.2,Relaxation,Spring,Solo
+High,18-25,Varanasi,Uttar Pradesh,Heritage,1.1,Wildlife,Summer,Friends
+Medium,50+,Shimla,Himachal Pradesh,Heritage,3.3,Trekking,Autumn,Friends
+High,50+,Leh,Ladakh,Spiritual,3.6,Pilgrimage,Spring,Group
+Medium,50+,Manali,Himachal Pradesh,Urban,3.7,Relaxation,Monsoon,Couple
+Low,18-25,Ooty,Tamil Nadu,Urban,4.1,Relaxation,Monsoon,Family
+High,26-35,Chennai,Tamil Nadu,Urban,2.5,Sightseeing,Spring,Group
+Medium,50+,Andaman,Andaman & Nicobar,Spiritual,3.7,Pilgrimage,Monsoon,Solo
+Low,26-35,Goa,Goa,Spiritual,2.2,Sightseeing,Monsoon,Family
+Low,36-50,Manali,Himachal Pradesh,Heritage,2.3,Relaxation,Autumn,Solo
+High,36-50,Jaipur,Rajasthan,Heritage,1.7,Water Sports,Autumn,Family
+Medium,36-50,Andaman,Andaman & Nicobar,Adventure,4.1,Sightseeing,Monsoon,Family
+Medium,50+,Goa,Goa,Spiritual,3.3,Sightseeing,Spring,Friends
+Low,18-25,Bangalore,Karnataka,Beach,2.3,Pilgrimage,Autumn,Solo
+Low,36-50,Udaipur,Rajasthan,Urban,3.4,Sightseeing,Autumn,Group
+Low,26-35,Bangalore,Karnataka,Adventure,2.7,Water Sports,Monsoon,Family
+Medium,18-25,Jaipur,Rajasthan,Spiritual,4.4,Trekking,Autumn,Family
+Low,26-35,Udaipur,Rajasthan,Heritage,3.3,Pilgrimage,Summer,Friends
+Low,18-25,Chennai,Tamil Nadu,Adventure,1.6,Sightseeing,Summer,Friends
+Low,18-25,Sikkim,Sikkim,Urban,4.9,Trekking,Autumn,Family
+High,36-50,Manali,Himachal Pradesh,Spiritual,1.8,Wildlife,Monsoon,Family
+Medium,50+,Kolkata,West Bengal,Adventure,3.9,Sightseeing,Spring,Solo
+Medium,18-25,Kerala,Kerala,Beach,3.0,Relaxation,Summer,Couple
+Low,,Mysore,Karnataka,Urban,2.4,Pilgrimage,Winter,Couple
+Medium,50+,Sikkim,Sikkim,Spiritual,3.9,Sightseeing,Monsoon,Group
+High,26-35,Sikkim,Sikkim,Urban,1.9,Wildlife,Spring,Solo
+Low,26-35,Mysore,Karnataka,Spiritual,4.5,Trekking,Winter,Couple
+Medium,26-35,Kolkata,West Bengal,Hill Station,2.4,Trekking,Winter,Family
+High,26-35,Chennai,Tamil Nadu,Adventure,2.8,Relaxation,Autumn,Solo
+High,26-35,Mumbai,Maharashtra,Adventure,0.0,Relaxation,Summer,Family
+Medium,26-35,Darjeeling,West Bengal,Beach,3.2,Trekking,Autumn,Couple
+,50+,Goa,Goa,Adventure,4.6,Trekking,Spring,Solo
+Low,26-35,Sikkim,Sikkim,Heritage,3.9,Water Sports,Winter,Friends
+High,18-25,Delhi,Delhi,Heritage,2.9,Wildlife,Spring,Group
+Low,36-50,Hyderabad,Telangana,Adventure,3.8,Trekking,Monsoon,Family
+High,26-35,Agra,Uttar Pradesh,Spiritual,4.8,Trekking,Summer,Family
+Low,26-35,Ooty,Tamil Nadu,Beach,2.2,Water Sports,Monsoon,Couple
+Low,36-50,Hyderabad,Telangana,Adventure,3.4,Pilgrimage,Summer,Couple
+High,50+,Varanasi,Uttar Pradesh,Hill Station,2.3,Sightseeing,Autumn,Family
+Medium,36-50,Hyderabad,Telangana,Beach,4.5,Sightseeing,Monsoon,Family
+High,,Sikkim,Sikkim,Urban,4.0,Relaxation,Summer,Group
+Medium,36-50,Leh,Ladakh,Adventure,4.3,Wildlife,Summer,Family
+High,36-50,Darjeeling,West Bengal,Hill Station,4.8,Trekking,Spring,Family
+Medium,36-50,Shimla,Himachal Pradesh,Hill Station,2.3,Water Sports,Spring,Couple
+Low,50+,Ooty,Tamil Nadu,Heritage,1.7,Water Sports,Winter,Couple
+High,26-35,Rishikesh,Uttarakhand,Spiritual,2.5,Water Sports,Spring,Friends
+High,18-25,Agra,Uttar Pradesh,Adventure,2.9,Wildlife,Monsoon,Friends
+High,18-25,Mumbai,Maharashtra,Urban,3.7,Water Sports,Spring,Solo
+Low,50+,Mumbai,Maharashtra,Hill Station,4.3,Sightseeing,Autumn,Couple
+Medium,50+,Udaipur,Rajasthan,Urban,2.7,Sightseeing,Autumn,Family
+High,50+,Kolkata,West Bengal,Hill Station,3.2,Sightseeing,Autumn,Friends
+Medium,18-25,Udaipur,Rajasthan,Beach,4.2,Trekking,Winter,Solo
+Medium,18-25,Udaipur,Rajasthan,Adventure,2.3,Pilgrimage,Summer,Family
+High,36-50,Mumbai,Maharashtra,Adventure,2.3,Trekking,Spring,Solo
+Low,26-35,Delhi,Delhi,Adventure,3.6,Wildlife,Winter,Group
+Low,36-50,Varanasi,Uttar Pradesh,Spiritual,3.0,Water Sports,Winter,Family
+High,26-35,Hyderabad,Telangana,Beach,4.8,Trekking,Winter,Family
+Medium,26-35,Kerala,Kerala,Spiritual,2.7,Wildlife,Winter,Couple
+Medium,50+,Chennai,Tamil Nadu,Spiritual,4.2,Wildlife,Summer,Family
+Medium,18-25,Shimla,Himachal Pradesh,Hill Station,3.5,Relaxation,Spring,Group
+High,18-25,Hyderabad,Telangana,Adventure,1.7,Wildlife,Autumn,Group
+High,50+,Manali,Himachal Pradesh,Heritage,1.8,Pilgrimage,Summer,Group
+High,26-35,Sikkim,Sikkim,Heritage,2.2,Trekking,Autumn,Solo
+Medium,36-50,Darjeeling,West Bengal,Hill Station,2.0,Water Sports,Monsoon,Solo
+Low,50+,Shimla,Himachal Pradesh,Heritage,2.7,Wildlife,Winter,Couple
+Medium,36-50,Mumbai,Maharashtra,Hill Station,3.5,Pilgrimage,Winter,Friends
+Medium,50+,Chennai,Tamil Nadu,Spiritual,3.6,Water Sports,Spring,Family
+High,26-35,Rishikesh,Uttarakhand,Beach,3.6,Wildlife,Winter,Group
+Medium,26-35,Rishikesh,Uttarakhand,Adventure,1.9,Water Sports,Monsoon,Solo
+Medium,50+,Andaman,Andaman & Nicobar,Hill Station,3.6,Water Sports,Spring,Couple
+High,50+,Goa,Goa,Urban,2.9,Trekking,Autumn,Solo
+Medium,18-25,Agra,Uttar Pradesh,Heritage,4.7,Wildlife,Winter,Group
+Low,50+,Mussoorie,Uttarakhand,Heritage,4.7,Trekking,Monsoon,Solo
+Medium,36-50,Delhi,Delhi,Spiritual,4.2,Pilgrimage,Autumn,Solo
+Medium,26-35,Kolkata,West Bengal,Adventure,4.0,Sightseeing,Summer,Solo
+High,50+,Mumbai,Maharashtra,Heritage,1.9,Water Sports,Summer,Couple
+High,26-35,Sikkim,Sikkim,Hill Station,1.8,Relaxation,Spring,Friends
+High,26-35,Mysore,Karnataka,Urban,4.4,Water Sports,Summer,Group
+High,50+,Kolkata,West Bengal,Beach,3.0,Pilgrimage,Spring,Group
+Medium,50+,Bangalore,Karnataka,Spiritual,3.1,Sightseeing,Monsoon,Family
+Medium,26-35,Hyderabad,Telangana,Urban,4.5,Sightseeing,Summer,Family
+High,26-35,Kolkata,West Bengal,Beach,3.7,Sightseeing,Winter,Solo
+Low,50+,Agra,Uttar Pradesh,Spiritual,2.1,Water Sports,Spring,Family
+High,26-35,Shimla,Himachal Pradesh,Heritage,2.2,Sightseeing,Winter,Group
+Low,18-25,Jaipur,Rajasthan,Hill Station,1.5,Pilgrimage,Spring,Group
+Low,50+,Mumbai,Maharashtra,Beach,4.0,Relaxation,Monsoon,Solo
+Medium,26-35,Hyderabad,Telangana,Adventure,3.2,Pilgrimage,Monsoon,Couple
+Low,18-25,Andaman,Andaman & Nicobar,Beach,4.8,Sightseeing,Summer,Friends
+,18-25,Hyderabad,Telangana,Heritage,4.0,Pilgrimage,Autumn,Friends
+Medium,50+,Mysore,Karnataka,Spiritual,1.9,Wildlife,Summer,Solo
+Medium,50+,Bangalore,Karnataka,Spiritual,2.1,Trekking,Monsoon,Friends
+Medium,,Mumbai,Maharashtra,Adventure,3.3,Water Sports,Spring,Friends
+Medium,26-35,Kerala,Kerala,Hill Station,4.7,Water Sports,Winter,Couple
+High,36-50,Andaman,Andaman & Nicobar,Adventure,2.4,Pilgrimage,Summer,Couple
+,36-50,Mysore,Karnataka,Spiritual,4.4,Trekking,Monsoon,Group
+Medium,50+,Darjeeling,West Bengal,Adventure,2.6,Sightseeing,Winter,Couple
+Low,18-25,Mysore,Karnataka,Adventure,2.4,Water Sports,Winter,Family
+Medium,18-25,Shimla,Himachal Pradesh,Heritage,4.7,Wildlife,Monsoon,Group
+Medium,18-25,Delhi,Delhi,Beach,1.7,Sightseeing,Autumn,Friends
+High,,Darjeeling,West Bengal,Heritage,3.8,Relaxation,Spring,Friends
+Medium,26-35,Kerala,Kerala,Urban,1.7,Wildlife,Spring,Group
+Medium,50+,Leh,Ladakh,Urban,4.3,Relaxation,Autumn,Couple
+,36-50,Agra,Uttar Pradesh,Urban,4.4,Relaxation,Summer,Solo
+High,50+,Ooty,Tamil Nadu,Adventure,4.6,Relaxation,Autumn,Group
+Low,18-25,Agra,Uttar Pradesh,Hill Station,2.2,Relaxation,Autumn,Family
+Medium,26-35,Mussoorie,Uttarakhand,Beach,1.9,Relaxation,Autumn,Friends
+Medium,50+,Manali,Himachal Pradesh,Heritage,3.3,Pilgrimage,Spring,Family
+Low,36-50,Jaipur,Rajasthan,Adventure,2.5,Sightseeing,Autumn,Couple
+Medium,18-25,Rishikesh,Uttarakhand,Hill Station,3.6,Relaxation,Spring,Solo
+Medium,18-25,Mumbai,Maharashtra,Urban,3.3,Trekking,Autumn,Friends
+Medium,26-35,Sikkim,Sikkim,Heritage,2.0,Sightseeing,Spring,Solo
+Low,26-35,Rishikesh,Uttarakhand,Heritage,4.1,Sightseeing,Winter,Couple
+High,18-25,Mussoorie,Uttarakhand,Heritage,4.3,Pilgrimage,Autumn,Friends
+High,36-50,Rishikesh,Uttarakhand,Adventure,4.9,Wildlife,Spring,Solo
+Low,50+,Kolkata,West Bengal,Adventure,2.9,Trekking,Monsoon,Solo
+Low,26-35,Bangalore,Karnataka,Adventure,2.7,Pilgrimage,Autumn,Group
+Low,50+,Udaipur,Rajasthan,Urban,2.2,Sightseeing,Spring,Friends
+High,50+,Mysore,Karnataka,Hill Station,2.1,Pilgrimage,Summer,Family
+Low,50+,Kolkata,West Bengal,Hill Station,2.6,Sightseeing,Autumn,Couple
+Low,36-50,Udaipur,Rajasthan,Urban,4.9,Water Sports,Spring,Solo
+High,18-25,Manali,Himachal Pradesh,Heritage,1.8,Wildlife,Summer,Friends
+Low,18-25,Mumbai,Maharashtra,Beach,2.4,Pilgrimage,Spring,Couple
+Medium,50+,Kerala,Kerala,Adventure,1.8,Sightseeing,Monsoon,Couple
+High,18-25,Leh,Ladakh,Heritage,2.5,Sightseeing,Winter,Group
+Medium,,Goa,Goa,Adventure,1.8,Sightseeing,Autumn,Couple
+Medium,26-35,Andaman,Andaman & Nicobar,Spiritual,3.3,Relaxation,Summer,Solo
+Low,26-35,Leh,Ladakh,Spiritual,3.0,Trekking,Monsoon,Friends
+High,26-35,Mussoorie,Uttarakhand,Hill Station,2.1,Sightseeing,Winter,Solo
+Low,18-25,Darjeeling,West Bengal,Beach,2.1,Wildlife,Summer,Couple
+Medium,26-35,Andaman,Andaman & Nicobar,Heritage,3.7,Relaxation,Summer,Couple
+Low,26-35,Bangalore,Karnataka,Spiritual,2.9,Pilgrimage,Winter,Group
+Medium,18-25,Shimla,Himachal Pradesh,Adventure,1.7,Pilgrimage,Summer,Friends
+High,36-50,Mussoorie,Uttarakhand,Hill Station,4.7,Sightseeing,Autumn,Solo
+Low,26-35,Sikkim,Sikkim,Hill Station,2.9,Wildlife,Monsoon,Friends
+Medium,50+,Mussoorie,Uttarakhand,Heritage,6.2,Sightseeing,Autumn,Friends
+Medium,36-50,Mussoorie,Uttarakhand,Beach,2.9,Water Sports,Summer,Solo
+High,18-25,Leh,Ladakh,Urban,4.4,Trekking,Autumn,Friends
+High,50+,Rishikesh,Uttarakhand,Hill Station,4.7,Sightseeing,Monsoon,Friends
+Low,18-25,Udaipur,Rajasthan,Heritage,2.1,Wildlife,Summer,Solo
+High,50+,Delhi,Delhi,Hill Station,4.6,Water Sports,Autumn,Solo
+High,50+,Udaipur,Rajasthan,Heritage,1.9,Trekking,Summer,Group
+High,50+,Andaman,Andaman & Nicobar,Beach,2.5,Trekking,Monsoon,Group
+Low,36-50,Sikkim,Sikkim,Spiritual,4.3,Relaxation,Monsoon,Group
+Medium,18-25,Manali,Himachal Pradesh,Heritage,4.7,Sightseeing,Monsoon,Solo
+Medium,18-25,Mysore,Karnataka,Heritage,3.9,Relaxation,Winter,Couple
+Low,18-25,Leh,Ladakh,Beach,1.9,Pilgrimage,Autumn,Solo
+Medium,36-50,Hyderabad,Telangana,Beach,3.3,Water Sports,Autumn,Family
+Medium,26-35,Mussoorie,Uttarakhand,Adventure,3.5,Relaxation,Winter,Couple
+High,26-35,Kolkata,West Bengal,Hill Station,2.5,Sightseeing,Summer,Group
+Low,26-35,Kolkata,West Bengal,Beach,5.0,Water Sports,Summer,Family
+Medium,18-25,Goa,Goa,Spiritual,2.7,Wildlife,Autumn,Couple
+Low,18-25,Mumbai,Maharashtra,Beach,2.2,Trekking,Summer,Couple
+Low,18-25,Shimla,Himachal Pradesh,Adventure,1.9,Wildlife,Summer,Family
+Medium,36-50,Bangalore,Karnataka,Heritage,2.8,Pilgrimage,Winter,Group
+Medium,50+,Delhi,Delhi,Heritage,3.9,Wildlife,Summer,Family
+Medium,18-25,Mumbai,Maharashtra,Heritage,2.3,Sightseeing,Summer,Group
+Medium,36-50,Rishikesh,Uttarakhand,Adventure,4.2,Pilgrimage,Winter,Family
+Medium,50+,Kerala,Kerala,Beach,2.0,Wildlife,Summer,Group
+Low,36-50,Delhi,Delhi,Urban,3.0,Pilgrimage,Winter,Group
+Medium,36-50,Mumbai,Maharashtra,Beach,4.0,Wildlife,Summer,Group
+Medium,50+,Varanasi,Uttar Pradesh,Urban,2.0,Pilgrimage,Autumn,Couple
+Low,36-50,Manali,Himachal Pradesh,Beach,3.6,Water Sports,Spring,Couple
+Low,26-35,Shimla,Himachal Pradesh,Spiritual,4.3,Sightseeing,Autumn,Couple
+High,26-35,Goa,Goa,Heritage,3.6,Relaxation,Spring,Group
+Low,26-35,Mysore,Karnataka,Urban,3.3,Water Sports,Monsoon,Friends
+Low,50+,Delhi,Delhi,Heritage,4.4,Relaxation,Autumn,Group
+Low,26-35,Rishikesh,Uttarakhand,Beach,4.9,Sightseeing,Spring,Family
+High,50+,Mumbai,Maharashtra,Heritage,2.1,Trekking,Autumn,Solo
+Low,36-50,Kolkata,West Bengal,Beach,3.9,Relaxation,Summer,Couple
+Low,36-50,Sikkim,Sikkim,Hill Station,1.8,Sightseeing,Spring,Friends
+Low,36-50,Varanasi,Uttar Pradesh,Heritage,1.6,Pilgrimage,Spring,Family
+Low,26-35,Bangalore,Karnataka,Hill Station,2.5,Trekking,Monsoon,Solo
+High,50+,Sikkim,Sikkim,Urban,4.9,Sightseeing,Autumn,Family
+High,36-50,Darjeeling,West Bengal,Spiritual,3.4,Trekking,Spring,Friends
+Low,18-25,Kerala,Kerala,Beach,2.4,Water Sports,Winter,Group
+Low,50+,Andaman,Andaman & Nicobar,Adventure,2.0,Relaxation,Summer,Couple
+Medium,50+,Udaipur,Rajasthan,Heritage,4.7,Relaxation,Spring,Group
+Medium,18-25,Bangalore,Karnataka,Urban,2.8,Wildlife,Winter,Friends
+Medium,36-50,Darjeeling,West Bengal,Urban,2.6,Relaxation,Summer,Group
+Low,50+,Ooty,Tamil Nadu,Hill Station,4.5,Pilgrimage,Spring,Group
+High,26-35,Udaipur,Rajasthan,Spiritual,3.6,Pilgrimage,Winter,Solo
+High,50+,Udaipur,Rajasthan,Heritage,2.1,Sightseeing,Spring,Solo
+Low,36-50,Hyderabad,Telangana,Heritage,3.0,Relaxation,Summer,Couple
+High,36-50,Ooty,Tamil Nadu,Hill Station,4.7,Water Sports,Autumn,Couple
+Low,36-50,Bangalore,Karnataka,Urban,4.7,Trekking,Monsoon,Couple
+Low,36-50,Shimla,Himachal Pradesh,Urban,1.7,Pilgrimage,Winter,Couple
+Low,26-35,Shimla,Himachal Pradesh,Beach,2.4,Pilgrimage,Summer,Couple
+Medium,36-50,Kolkata,West Bengal,Heritage,2.0,Trekking,Summer,Solo
+Medium,18-25,Mussoorie,Uttarakhand,Heritage,5.2,Sightseeing,Summer,Friends
+High,26-35,Manali,Himachal Pradesh,Spiritual,2.5,Wildlife,Winter,Group
+Medium,26-35,Andaman,Andaman & Nicobar,Heritage,4.2,Wildlife,Autumn,Friends
+High,36-50,Varanasi,Uttar Pradesh,Adventure,3.8,Relaxation,Monsoon,Solo
+Medium,36-50,Shimla,Himachal Pradesh,Spiritual,4.0,Trekking,Spring,Solo
+Low,18-25,Mumbai,Maharashtra,Adventure,4.8,Trekking,Winter,Family
+Medium,26-35,Bangalore,Karnataka,Adventure,3.0,Pilgrimage,Spring,Solo
+Medium,18-25,Jaipur,Rajasthan,Heritage,2.7,Trekking,Summer,Friends
+Medium,18-25,Mysore,Karnataka,Beach,3.9,Pilgrimage,Monsoon,Family
+Medium,36-50,Udaipur,Rajasthan,Beach,4.3,Trekking,Spring,Couple
+High,26-35,Hyderabad,Telangana,Heritage,2.2,Wildlife,Winter,Couple
+Low,26-35,Manali,Himachal Pradesh,Urban,4.5,Sightseeing,Winter,Friends
+High,36-50,Delhi,Delhi,Urban,1.7,Wildlife,Summer,Group
+Low,26-35,Andaman,Andaman & Nicobar,Beach,1.5,Water Sports,Spring,Family
+Medium,18-25,Ooty,Tamil Nadu,Adventure,2.1,Trekking,Spring,Couple
+Low,50+,Kolkata,West Bengal,Spiritual,4.9,Sightseeing,Summer,Group
+Medium,50+,Udaipur,Rajasthan,Heritage,3.3,Trekking,Summer,Group
+Low,26-35,Delhi,Delhi,Urban,1.7,Relaxation,Monsoon,Family
+High,36-50,Manali,Himachal Pradesh,Beach,5.0,Sightseeing,Monsoon,Group
+Medium,36-50,Varanasi,Uttar Pradesh,Urban,4.1,Sightseeing,Summer,Couple
+High,18-25,Darjeeling,West Bengal,Hill Station,4.4,Pilgrimage,Winter,Family
+Low,36-50,Udaipur,Rajasthan,Beach,2.2,Relaxation,Autumn,Family
+High,50+,Udaipur,Rajasthan,Hill Station,1.9,Relaxation,Winter,Family
+Low,36-50,Manali,Himachal Pradesh,Hill Station,3.3,Trekking,Winter,Family
+High,50+,Udaipur,Rajasthan,Adventure,4.2,Trekking,Winter,Solo
+Low,50+,Andaman,Andaman & Nicobar,Urban,3.7,Pilgrimage,Autumn,Couple
+High,18-25,Hyderabad,Telangana,Spiritual,3.7,Sightseeing,Summer,Couple
+High,26-35,Agra,Uttar Pradesh,Urban,4.1,Relaxation,Autumn,Friends
+High,36-50,Varanasi,Uttar Pradesh,Hill Station,2.3,Trekking,Summer,Couple
+Low,26-35,Udaipur,Rajasthan,Heritage,3.8,Trekking,Summer,Group
+High,50+,Ooty,Tamil Nadu,Heritage,2.9,Relaxation,Monsoon,Friends
+High,18-25,Kerala,Kerala,Adventure,1.7,Sightseeing,Summer,Friends
+Medium,18-25,Ooty,Tamil Nadu,Urban,2.2,Wildlife,Monsoon,Friends
+High,50+,Manali,Himachal Pradesh,Adventure,4.3,Wildlife,Summer,Group
+Low,26-35,Kolkata,West Bengal,Adventure,4.6,Trekking,Summer,Couple
+High,36-50,Leh,Ladakh,Adventure,2.5,Pilgrimage,Summer,Solo
+High,26-35,Leh,Ladakh,Spiritual,2.2,Sightseeing,Summer,Group
+Low,50+,Kerala,Kerala,Adventure,1.6,Pilgrimage,Monsoon,Group
+Low,18-25,Darjeeling,West Bengal,Adventure,4.8,Trekking,Spring,Group
+Medium,50+,Sikkim,Sikkim,Heritage,3.9,Trekking,Summer,Group
+High,36-50,Mussoorie,Uttarakhand,Heritage,4.8,Water Sports,Spring,Solo
+Medium,26-35,Kolkata,West Bengal,Hill Station,4.5,Pilgrimage,Winter,Friends
+Medium,36-50,Chennai,Tamil Nadu,Hill Station,2.7,Relaxation,Monsoon,Couple
+Low,18-25,Mysore,Karnataka,Urban,1.9,Water Sports,Summer,Group
+Medium,50+,Chennai,Tamil Nadu,Heritage,3.2,Sightseeing,Monsoon,Family
+High,18-25,Udaipur,Rajasthan,Hill Station,1.6,Relaxation,Spring,Solo
+Low,50+,Chennai,Tamil Nadu,Hill Station,2.0,Sightseeing,Monsoon,Group
+Medium,18-25,Andaman,Andaman & Nicobar,Urban,2.3,Wildlife,Autumn,Couple
+Medium,36-50,Varanasi,Uttar Pradesh,Beach,3.8,Water Sports,Summer,Solo
+Medium,50+,Varanasi,Uttar Pradesh,Urban,3.3,Relaxation,Autumn,Solo
+High,26-35,Bangalore,Karnataka,Adventure,2.6,Trekking,Autumn,Couple
+High,18-25,Darjeeling,West Bengal,Beach,3.5,Relaxation,Summer,Friends
+Low,50+,Kolkata,West Bengal,Spiritual,1.9,Trekking,Autumn,Couple
+High,36-50,Manali,Himachal Pradesh,Adventure,4.1,Trekking,Summer,Couple
+Low,,Jaipur,Rajasthan,Spiritual,4.0,Trekking,Autumn,Friends
+Medium,18-25,Goa,Goa,Heritage,2.3,Wildlife,Autumn,Friends
+High,18-25,Ooty,Tamil Nadu,Hill Station,3.6,Wildlife,Autumn,Couple
+High,50+,Chennai,Tamil Nadu,Hill Station,3.3,Trekking,Monsoon,Solo
+High,36-50,Jaipur,Rajasthan,Urban,1.7,Pilgrimage,Winter,Group
+High,18-25,Mysore,Karnataka,Beach,2.5,Pilgrimage,Monsoon,Couple
+,26-35,Varanasi,Uttar Pradesh,Hill Station,5.0,Water Sports,Summer,Group
+Medium,36-50,Delhi,Delhi,Hill Station,1.8,Trekking,Spring,Couple
+High,18-25,Rishikesh,Uttarakhand,Urban,3.3,Sightseeing,Autumn,Solo
+High,50+,Andaman,Andaman & Nicobar,Spiritual,4.5,Sightseeing,Summer,Couple
+Low,50+,Sikkim,Sikkim,Beach,2.6,Wildlife,Monsoon,Couple
+Medium,36-50,Kerala,Kerala,Urban,2.4,Pilgrimage,Winter,Group
+Medium,26-35,Kolkata,West Bengal,Hill Station,4.6,Wildlife,Summer,Friends
+Low,36-50,Jaipur,Rajasthan,Spiritual,2.6,Relaxation,Summer,Friends
+High,50+,Chennai,Tamil Nadu,Hill Station,3.8,Sightseeing,Summer,Group
+High,50+,Udaipur,Rajasthan,Spiritual,4.1,Sightseeing,Winter,Group
+Medium,18-25,Manali,Himachal Pradesh,Urban,4.3,Wildlife,Spring,Solo
+High,50+,Leh,Ladakh,Beach,5.0,Sightseeing,Spring,Solo
+Low,50+,Sikkim,Sikkim,Spiritual,4.3,Relaxation,Spring,Group
+Low,26-35,Hyderabad,Telangana,Urban,3.8,Pilgrimage,Spring,Couple
+High,26-35,Chennai,Tamil Nadu,Spiritual,4.6,Wildlife,Autumn,Friends
+Medium,50+,Udaipur,Rajasthan,Beach,4.7,Sightseeing,Spring,Friends
+High,50+,Darjeeling,West Bengal,Spiritual,4.9,Wildlife,Spring,Family
+Low,18-25,Goa,Goa,Spiritual,4.2,Water Sports,Winter,Family
+Low,18-25,Agra,Uttar Pradesh,Adventure,2.2,Pilgrimage,Spring,Family
+Medium,18-25,Varanasi,Uttar Pradesh,Spiritual,4.0,Sightseeing,Monsoon,Group
+High,26-35,Udaipur,Rajasthan,Urban,1.8,Water Sports,Autumn,Friends
+Medium,18-25,Varanasi,Uttar Pradesh,Urban,0.8,Sightseeing,Summer,Couple
+Low,36-50,Delhi,Delhi,Spiritual,4.8,Trekking,Spring,Friends
+Low,26-35,Sikkim,Sikkim,Spiritual,2.7,Trekking,Winter,Family
+Low,26-35,Manali,Himachal Pradesh,Spiritual,4.0,Pilgrimage,Summer,Couple
+Medium,18-25,Shimla,Himachal Pradesh,Hill Station,3.5,Pilgrimage,Winter,Couple
+High,26-35,Bangalore,Karnataka,Urban,1.9,Trekking,Winter,Friends
+High,36-50,Jaipur,Rajasthan,Heritage,3.5,Sightseeing,Monsoon,Family
+Low,18-25,Udaipur,Rajasthan,Hill Station,3.8,Wildlife,Winter,Group
+Medium,36-50,Bangalore,Karnataka,Heritage,4.6,Trekking,Winter,Friends
+Low,26-35,Kerala,Kerala,Heritage,1.7,Trekking,Summer,Friends
+Medium,36-50,Varanasi,Uttar Pradesh,Heritage,2.5,Sightseeing,Monsoon,Group
+Medium,18-25,Goa,Goa,Adventure,3.9,Trekking,Autumn,Family
+Low,36-50,Jaipur,Rajasthan,Adventure,1.6,Wildlife,Summer,Group
+Medium,50+,Sikkim,Sikkim,Spiritual,2.2,Pilgrimage,Winter,Couple
+Medium,50+,Mumbai,Maharashtra,Urban,2.3,Wildlife,Spring,Friends
+Medium,50+,Mussoorie,Uttarakhand,Heritage,3.8,Sightseeing,Autumn,Family
+High,26-35,Bangalore,Karnataka,Heritage,2.5,Pilgrimage,Monsoon,Group
+High,18-25,Hyderabad,Telangana,Spiritual,3.6,Relaxation,Monsoon,Group
+High,50+,Darjeeling,West Bengal,Heritage,4.9,Wildlife,Autumn,Group
+High,36-50,Kerala,Kerala,Hill Station,4.3,Trekking,Autumn,Solo
+Medium,50+,Sikkim,Sikkim,Beach,2.7,Relaxation,Monsoon,Solo
+Medium,18-25,Leh,Ladakh,Heritage,3.2,Wildlife,Winter,Friends
+Medium,26-35,Mussoorie,Uttarakhand,Heritage,2.2,Sightseeing,Winter,Family
+Medium,26-35,Ooty,Tamil Nadu,Spiritual,1.6,Trekking,Winter,Friends
+High,50+,Mussoorie,Uttarakhand,Heritage,2.5,Relaxation,Autumn,Group
+Medium,36-50,Kolkata,West Bengal,Hill Station,2.8,Sightseeing,Winter,Couple
+Low,36-50,Kolkata,West Bengal,Spiritual,3.5,Water Sports,Winter,Group
+High,18-25,Shimla,Himachal Pradesh,Beach,4.8,Sightseeing,Spring,Group
+Medium,50+,Ooty,Tamil Nadu,Urban,4.8,Water Sports,Summer,Friends
+High,26-35,Darjeeling,West Bengal,Beach,1.7,Water Sports,Autumn,Group
+High,36-50,Rishikesh,Uttarakhand,Spiritual,3.7,Trekking,Winter,Friends
