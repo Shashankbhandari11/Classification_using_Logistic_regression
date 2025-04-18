@@ -28,6 +28,7 @@ Clone the repository:
 # Clone the repository
 git clone https://github.com/Shashankbhandari11/accident-survival-prediction.git
 
+```bash
 # Navigate into the project directory
 cd accident-survival-prediction
 
